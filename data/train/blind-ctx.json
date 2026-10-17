@@ -1,0 +1,2127 @@
+{
+ "severe": [
+  {
+   "prev": [
+    "Player227: 집 다 지었다 구경 와",
+    "Player087: 이게 집이냐 흙상자지"
+   ],
+   "msg": "Player087: 진짜 병신이네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player006: 아 또 떨어져 죽음",
+    "Player144: 벌써 다섯번째임",
+    "Player006: 다리가 좁잖아"
+   ],
+   "msg": "Player144: 너 지금 장애 있냐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player189: 니가 먼저 쳤잖아",
+    "Player228: 어쩌라고 억울하면 신고해",
+    "Player189: 말하는 꼬라지 봐라"
+   ],
+   "msg": "Player189: 너 엄마 없냐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 나 여자 맞는데",
+    "Player229: ㄹㅇ? 인증해봐",
+    "Player014: 뭘 인증해"
+   ],
+   "msg": "Player229: 벗어봐 그럼",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player037: 그 다이아 내가 먼저 봤음",
+    "Player230: 먼저 캔 사람이 임자지"
+   ],
+   "msg": "Player037: 개새끼야 꺼져",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player231: 좀비 피글린 개못생김",
+    "Player232: ㄹㅇ 얼굴 다 썩음"
+   ],
+   "msg": "Player231: 너네 엄마 닮았네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player233: 실수로 니 개 죽임 ㅈㅅ",
+    "Player097: 이름표까지 붙인 앤데",
+    "Player233: 어쩔 ㅋㅋ"
+   ],
+   "msg": "Player097: ㅂㅅ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player234: 나 여자임",
+    "Player235: 가슴 큼?",
+    "Player234: 뭐래 진짜"
+   ],
+   "msg": "Player235: 보여줘 그럼",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 나 여잔데",
+    "Player236: 몇살",
+    "Player221: 15"
+   ],
+   "msg": "Player236: 나랑 한번 하자 ㅎ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player237: 나 중국에서 접속함",
+    "Player238: 아 그래서 핵 쓰는구나",
+    "Player237: 핵 안 씀"
+   ],
+   "msg": "Player238: 역시 짱깨네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player239: 남의 집 좀 털지 마라",
+    "Player008: 어쩌라고 ㅋ",
+    "Player239: 쟤 말하는 거 봐"
+   ],
+   "msg": "Player240: 고아인가봄",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: Player230 접속함",
+    "Player014: 아 쟤 어제 내 집 털었는데"
+   ],
+   "msg": "Player098: 저 개새끼 또 왔네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player227: 나 또 길 잃음",
+    "Player038: 좌표 세번 줬잖아",
+    "Player227: 숫자 어떻게 봄"
+   ],
+   "msg": "Player038: 얘 장애인이냐 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 너 진짜 못한다 ㅋ",
+    "Player008: 어제 밤에 재밌었다",
+    "Player228: 뭔 소리"
+   ],
+   "msg": "Player008: 니 엄마한테 안부 전해줘 ㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player037: 돈 없어서 랭크 못 삼",
+    "Player144: ㅋㅋ 만원도 없냐 거지네"
+   ],
+   "msg": "Player144: 너네 아빠 뭐하시길래 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player230: ㅋㅋ 니 템 잘 먹음",
+    "Player233: 돌려줘 실수로 죽은 거임",
+    "Player230: 싫은데"
+   ],
+   "msg": "Player233: 아 ㅅㅂ놈이 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player232: 누가 내 집에 TNT 깜",
+    "Player221: Player230가 까는 거 봄"
+   ],
+   "msg": "Player232: 저 좆같은 새끼 또 터뜨렸네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player034: 니가 농장 망가뜨렸잖아",
+    "Player236: 증거 있냐 ㅋ"
+   ],
+   "msg": "Player034: 니애미 창녀",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player241: 나 필리핀 살아",
+    "Player242: 아 동남아 사람이냐"
+   ],
+   "msg": "Player242: 원숭이 같네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 나 여자야",
+    "Player231: 오 여자다",
+    "Player087: ㄹㅇ?"
+   ],
+   "msg": "Player087: 내가 따먹는다 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player234: 나 여잔데 키 160",
+    "Player189: 가슴은?",
+    "Player234: 그런 거 왜 물어"
+   ],
+   "msg": "Player189: 만져봐도 됨?",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: 곡괭이로 나무 캐는 중",
+    "Player240: ㅋㅋㅋ 도끼는",
+    "Player098: 그런 게 있어?"
+   ],
+   "msg": "Player235: 저능아 아니냐 이거",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 나 남친 이번 달에 또 바뀜",
+    "Player229: 몇번째냐"
+   ],
+   "msg": "Player229: 완전 걸레네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player008: 님 집 제가 좀 부쉈어요 ㅎ",
+    "Player239: 왜요",
+    "Player008: 심심해서"
+   ],
+   "msg": "Player239: ㅂㅅㅅㄲ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player038: 팀인데 왜 뒤에서 침",
+    "Player243: 템 탐나서 ㅋ"
+   ],
+   "msg": "Player038: Tlqkfsha 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player237: Player234가 나한테 독포션 던짐",
+    "Player238: 거기 pvp존이잖아"
+   ],
+   "msg": "Player237: 저 개같은년 또 포션 던짐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 상자에 넣어둔 철 없어짐",
+    "Player006: Player242이 열고 가던데"
+   ],
+   "msg": "Player097: 저 씹새끼가 또 훔쳐감",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 나 여자 맞음",
+    "Player144: ㅎㅎ 좋네",
+    "Player014: 뭐가 좋아"
+   ],
+   "msg": "Player144: 나 넣어도 돼? ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player232: 나 죽었어 템 좀 주워줘",
+    "Player236: 싫은데 내가 먹을 건데"
+   ],
+   "msg": "Player236: 병1신 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player244: 우리 엄마 필리핀 사람임",
+    "Player034: 오 그렇구나"
+   ],
+   "msg": "Player008: 튀기네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player240: 엄마 아프셔서 오늘 일찍 나감",
+    "Player230: ㅋㅋ 핑계 대고 튀네"
+   ],
+   "msg": "Player230: 빨리 뒤지시라 그래",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player243: 나 아빠 없는데",
+    "Player235: 아 그래?"
+   ],
+   "msg": "Player235: 그래서 그 모양이구나 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player006: 나 휠체어 타서 학교 늦게 끝남",
+    "Player189: ㅋㅋ"
+   ],
+   "msg": "Player189: 그래서 컨트롤도 불구구나",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player241: 나 베트남 혼혈임",
+    "Player238: 아 그렇구나"
+   ],
+   "msg": "Player236: 그래서 냄새나는구나",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player227: 엄마 얘기 하지마",
+    "Player227: 작년에 돌아가셨어",
+    "Player087: 아 그래?"
+   ],
+   "msg": "Player087: 잘 죽었네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player239: 울 엄마 식당에서 일해",
+    "Player229: 어디 식당"
+   ],
+   "msg": "Player144: 아 그 설거지나 하는 년?",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player237: 나 연변에서 태어남",
+    "Player233: 조선족이네"
+   ],
+   "msg": "Player233: 장기나 팔러 가라",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 나 할머니랑 둘이 삼",
+    "Player008: 엄마 아빠는"
+   ],
+   "msg": "Player008: 부모가 버렸네 이해함 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: 우리 누나 고2임",
+    "Player230: 예쁨?",
+    "Player098: 몰라 그냥 평범"
+   ],
+   "msg": "Player230: 밤에 누나 방 문 열어놔라",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 내 동생 자폐 있어서 내가 돌봄",
+    "Player242: 아 그래"
+   ],
+   "msg": "Player242: 유전이네 너도 그런 듯",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player232: 엄마 혼자 나 키우심",
+    "Player231: 아빠는"
+   ],
+   "msg": "Player231: 아빠가 도망갈 만하네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 나 실제로 흑인 혼혈임",
+    "Player037: ㄹㅇ?"
+   ],
+   "msg": "Player037: 아 노예라서 광질 잘하는구나",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player238: 왜 내 밭 밟음",
+    "Player006: 지나가다 그런 건데"
+   ],
+   "msg": "Player238: 니 애미 창녀",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player189: 한판 더 ㄱ",
+    "Player243: 싫어 너 핵 같음"
+   ],
+   "msg": "Player189: 느금마 어제 잘 쓰고 보냄",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 그거 내 말인데",
+    "Player008: 이름표 없던데",
+    "Player244: 돌려줘"
+   ],
+   "msg": "Player008: ㄴㄱㅁ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 나 그냥 농사만 할래",
+    "Player230: 재미없게 사네"
+   ],
+   "msg": "Player230: 니 엄마 뒤졌냐 왜 그따구로 삼",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 팀 나갈게 미안",
+    "Player144: 템은 두고 가라",
+    "Player237: 내가 캔 건데"
+   ],
+   "msg": "Player144: sldoal 없는 새끼",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 그만 따라와",
+    "Player235: 싫은데 ㅋ"
+   ],
+   "msg": "Player235: 니@애@미 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 다이아 하나만 줘",
+    "Player236: 거지냐"
+   ],
+   "msg": "Player236: 너네 애비 노가다나 뛰겠지 ㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 나 이제 자러 감",
+    "Player229: 벌써? ㅋㅋ"
+   ],
+   "msg": "Player229: 니 엄마 창1녀라며",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 왜 자꾸 때려",
+    "Player087: 재밌어서",
+    "Player227: 하지 말라고"
+   ],
+   "msg": "Player087: 애미 없는 티 내지 마라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 좋은 아침",
+    "Player233: ㅎㅇ",
+    "Player231: 닥쳐 시끄러"
+   ],
+   "msg": "Player231: 니 엄마 얼굴에 침 뱉고 싶다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 양털 좀 팔아줘",
+    "Player242: 싫음"
+   ],
+   "msg": "Player242: 느그 애미 길에서 몸 판다며",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 왜 내 상자 잠금 품",
+    "Player037: 안 풀었는데"
+   ],
+   "msg": "Player097: ㄴㅇㅁ 뒤짐? ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 나 처음이라 잘 모름",
+    "Player034: 설명 세번 했다"
+   ],
+   "msg": "Player034: 너 같은 거 낳은 니 애미가 죄다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: gg 재밌었음",
+    "Player243: 응 꺼져"
+   ],
+   "msg": "Player243: smrmak ㅋㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 누나가 컴 쓴대서 나감",
+    "Player238: 누나 있음?"
+   ],
+   "msg": "Player238: 니 누나 내가 따먹음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 그만해 진짜",
+    "Player189: 싫은데 어쩔"
+   ],
+   "msg": "Player189: 애1미 터진 새끼",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player006: 다리 어떻게 놓음",
+    "Player008: 블록 놓으면 되잖아",
+    "Player006: 자꾸 떨어져"
+   ],
+   "msg": "Player008: 병신아 그것도 못하냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 떨어진 거 주웠음 ㄳ",
+    "Player230: 그거 내 곡괭이임"
+   ],
+   "msg": "Player230: 씨발놈아 내 템 내놔",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 여기 내가 먼저 찜함",
+    "Player144: 표지판도 없으면서"
+   ],
+   "msg": "Player144: 개새끼야 뒤질래",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 같이 광질 갈래",
+    "Player235: 너랑은 안 감"
+   ],
+   "msg": "Player235: qudtlsdk 꺼져",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 왜 내 소 죽임",
+    "Player236: 고기 필요해서",
+    "Player221: 번식용인데"
+   ],
+   "msg": "Player221: Tlqkfshadk",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 한번만 더 tp 받아줘",
+    "Player229: 열번째다"
+   ],
+   "msg": "Player229: rotoRldi 작작해",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 어 거기 용암 있었음?",
+    "Player087: 표지판 세워놨잖아"
+   ],
+   "msg": "Player087: ㅂㅅ아 눈깔 없냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 니 집 좌표 다 뿌림 ㅋ",
+    "Player233: 뭐?"
+   ],
+   "msg": "Player233: ㅆㅂㄴ아 죽여버린다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 그건 니가 잘못한 거지",
+    "Player231: 니가 뭘 알아"
+   ],
+   "msg": "Player231: 씨1발년아 나대지 마",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 누가 내 침대 부숨",
+    "Player098: 나 ㅋㅋ 실수"
+   ],
+   "msg": "Player232: 야 Player098 병신새끼야",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 여기 건축 금지 구역임",
+    "Player242: 니가 운영자냐"
+   ],
+   "msg": "Player242: 좆같은 새끼야 니가 뭔데",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 거래 다시 하자",
+    "Player037: 이미 끝났음",
+    "Player241: 사기잖아"
+   ],
+   "msg": "Player037: 시@발롬아 꺼지라고",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 미안 화살 잘못 쏨",
+    "Player034: 세번째다"
+   ],
+   "msg": "Player034: 개.새.끼.야",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player243: 니 농장 물 뺐음 ㅋ",
+    "Player238: 왜 그랬냐",
+    "Player243: 그냥"
+   ],
+   "msg": "Player238: 너 진짜 씹새끼다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 누구한테 하는 말이야",
+    "Player189: 누구겠냐"
+   ],
+   "msg": "Player189: ㅄ새끼 ㅋㅋ 너 말이야 너",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player006: ...",
+    "Player008: 대답 안 하냐",
+    "Player006: 잠수였음"
+   ],
+   "msg": "Player008: 병.신.아 들리냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: Player243 또 내 문 뜯어감",
+    "Player230: 걔 맨날 그럼"
+   ],
+   "msg": "Player244: Player243 이 개새끼 진짜",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 누구 얘기임",
+    "Player144: 몰라서 묻냐"
+   ],
+   "msg": "Player144: 야이 ㅅㅂㅅㄲ야 니 얘기다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 버튼 어디 누름",
+    "Player235: 눈앞에 있잖아"
+   ],
+   "msg": "Player235: 너 장애인이냐 병원 가라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 오타 미안",
+    "Player236: 맨날 오타냐"
+   ],
+   "msg": "Player236: 애자새끼야 손가락 없냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 그래서 어디로 오라고",
+    "Player229: 방금 말했잖아",
+    "Player239: 다시 말해줘"
+   ],
+   "msg": "Player229: 저능아 새끼 말을 못 알아듣네",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player006: 나 또 죽음 ㅠ",
+    "Player087: 몇번째냐"
+   ],
+   "msg": "Player087: ㅈㅇㅇ 새끼 ㅋㅋ 너 Player006",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 나 한손으로 겜함",
+    "Player233: 왜 그럼",
+    "Player228: 왼손이 없어"
+   ],
+   "msg": "Player233: 외팔이 주제에 pvp를 하네",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 같이 놀자",
+    "Player231: 싫어"
+   ],
+   "msg": "Player231: wkddodlsdk 꺼져",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 잠깐만 기다려줘",
+    "Player242: 왜 이렇게 늦어"
+   ],
+   "msg": "Player242: 다리 병신이라 느린 거냐 너",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 그게 아니라 내 말은",
+    "Player097: 됐다 그만해"
+   ],
+   "msg": "Player097: 자폐새끼랑은 말이 안 통함 너 말야",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 한국어 조금 서툴러요",
+    "Player037: 어디 사람임"
+   ],
+   "msg": "Player037: 짱깨새끼는 중국 서버로 꺼져",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 나 오사카 삼",
+    "Player034: 일본인이냐"
+   ],
+   "msg": "Player034: 쪽바리 새끼가 어디서",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 스킨 내 실제 피부색임",
+    "Player243: ㅋㅋ"
+   ],
+   "msg": "Player243: 깜둥이는 꺼져라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 나 태국에서 함",
+    "Player238: 핑 괜찮냐"
+   ],
+   "msg": "Player189: 동남아 새끼 냄새난다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 저 말투가 원래 이래요",
+    "Player008: 말투 왜 그럼"
+   ],
+   "msg": "Player008: 조선족이냐 장기 털러 왔냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 나 도쿄 사는데 핑 좋네",
+    "Player230: 아 일본"
+   ],
+   "msg": "Player230: 방사능 먹고 뒤져라 원숭아",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 나 엄마가 러시아 사람",
+    "Player144: 그래서 뭐"
+   ],
+   "msg": "Player144: 튀기새끼 주제에",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 안녕하세요 처음 왔어요",
+    "Player235: 여자임?",
+    "Player221: 네 맞아요"
+   ],
+   "msg": "Player235: 속옷 무슨 색임 ㅎㅎ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 다이아 좀 나눠줄 사람",
+    "Player236: 너 여자라며"
+   ],
+   "msg": "Player236: 가슴 사진 보내주면 다이아 줌",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 디코 들어와 목소리 들려줄게",
+    "Player229: 오 좋지"
+   ],
+   "msg": "Player229: 신음소리로 들려줘",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 쟤 여자래",
+    "Player087: 야 Player221"
+   ],
+   "msg": "Player087: 너 따먹고 싶다 주소 불러",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 내 동생 초6임",
+    "Player233: 여동생?",
+    "Player228: ㅇㅇ"
+   ],
+   "msg": "Player233: 니 여동생 맛있겠다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 그만 귓말해",
+    "Player231: 튕기네 ㅋ"
+   ],
+   "msg": "Player231: 걸레년아 몇명이랑 잤냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 저 그런 거 싫어요",
+    "Player242: 한번만"
+   ],
+   "msg": "Player242: 보1지 사진 보내봐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 같이 집 지을 사람",
+    "Player097: 나 ㅎㅎ 근데"
+   ],
+   "msg": "Player097: 나랑 tprtm 하자 ㅎ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 왜 자꾸 귓말 보내",
+    "Player037: 좋아서 ㅎ"
+   ],
+   "msg": "Player037: 밤에 니 생각하면서 친다 ㅎ",
+   "needs_context": false
+  }
+ ],
+ "normal": [
+  {
+   "prev": [
+    "Player087: 아 용암에 다이아 다 태움",
+    "Player227: ㅋㅋㅋ 어쩌다",
+    "Player087: 물양동이 든 줄 알고 뛰어듦"
+   ],
+   "msg": "Player087: 진짜 병신이네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player006: 디코 왜 안 들어가짐",
+    "Player237: 나도 계속 튕김"
+   ],
+   "msg": "Player144: 디코 지금 장애 있냐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 나 지금 몰컴 중임",
+    "Player240: ㅋㅋ 새벽 두시에",
+    "Player228: 걸리면 폰 압수"
+   ],
+   "msg": "Player240: 지금 집에 엄마 없냐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player239: 엘리트라 스킨 새로 삼",
+    "Player229: 흉갑 때문에 안 보임"
+   ],
+   "msg": "Player229: 벗어봐 그럼",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 걔가 귓말로 뭐라 했는데",
+    "Player244: 잠만 그대로 칠게"
+   ],
+   "msg": "Player244: 개새끼야 꺼져",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player232: 엄마랑 찍은 사진 디코에 올림",
+    "Player231: 봤음 눈이 똑같던데"
+   ],
+   "msg": "Player231: 너 엄마 닮았네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 아 또 곡괭이 안 들고 옴",
+    "Player233: ㅋㅋㅋ 세번째",
+    "Player097: 집까지 2000블록인데"
+   ],
+   "msg": "Player097: ㅂㅅ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player034: 나 네더라이트 풀셋 맞춤",
+    "Player235: 구라 ㅋㅋ"
+   ],
+   "msg": "Player235: 보여줘 그럼",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player243: 여기 pvp 누가 젤 잘함",
+    "Player189: 나임 ㅇㅇ"
+   ],
+   "msg": "Player236: 나랑 한번 하자 ㅎ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player242: 점심 뭐 시킴",
+    "Player241: 짜장면 곱빼기"
+   ],
+   "msg": "Player242: 역시 짱깨네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player244: 아기 주민 혼자 돌아다님",
+    "Player239: 부모는 좀비한테 죽었나"
+   ],
+   "msg": "Player240: 고아인가봄",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 늑대 새끼가 자꾸 집에 들어옴",
+    "Player098: 뼈 줘서 길들여"
+   ],
+   "msg": "Player014: 저 개새끼 또 왔네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player227: 주민이 침대를 못 찾음",
+    "Player038: 문 앞에서 계속 돌아"
+   ],
+   "msg": "Player227: 얘 장애인이냐 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 엄마가 밥 먹으래 나감",
+    "Player006: ㅂㅂ 맛있게 먹어"
+   ],
+   "msg": "Player243: 니 엄마한테 안부 전해줘 ㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player037: 아빠가 4090 사줌",
+    "Player229: 와 미쳤다"
+   ],
+   "msg": "Player144: 너네 아빠 뭐하시길래 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player233: 스켈레톤이 계속 쏨",
+    "Player230: 방패 들어"
+   ],
+   "msg": "Player233: 아 ㅅㅂ놈이 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player232: 크리퍼 집 앞에 또 있음",
+    "Player221: 조심해",
+    "Player232: 아 늦음"
+   ],
+   "msg": "Player232: 저 좆같은 새끼 또 터뜨렸네",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player238: 귓말 스샷 못 찍었어",
+    "Player237: 그럼 뭐라 했는지 그대로 써줘"
+   ],
+   "msg": "Player238: 니애미 창녀",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player241: 나 정글에서 덩굴 타고 다님",
+    "Player097: 나무 위에 집도 지음"
+   ],
+   "msg": "Player242: 원숭이 같네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player231: 엔드 도시 엘리트라 하나 남음",
+    "Player239: 내가 먼저 봄"
+   ],
+   "msg": "Player087: 내가 따먹는다 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player034: 신호기 4단 완성함",
+    "Player244: 오 버프 뭐 켰음"
+   ],
+   "msg": "Player189: 만져봐도 됨?",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: 좀비가 햇빛에 서서 타는 중",
+    "Player240: 그늘이 옆인데 ㅋㅋ"
+   ],
+   "msg": "Player235: 저능아 아니냐 이거",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 내 흉갑 내구도 3 남음",
+    "Player229: 수리 좀 해라"
+   ],
+   "msg": "Player229: 완전 걸레네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player239: 엔더맨이 내 블록 들고 튐",
+    "Player008: ㅋㅋㅋ 뭐 들고 감"
+   ],
+   "msg": "Player239: ㅂㅅㅅㄲ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player038: 팬텀 세마리 붙음",
+    "Player243: 잠을 자라니까"
+   ],
+   "msg": "Player038: Tlqkfsha 진짜",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player237: 습지 오두막에 마녀 있음",
+    "Player238: 독 걸리니까 우유 챙겨"
+   ],
+   "msg": "Player237: 저 개같은년 또 포션 던짐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 여우가 닭장 들어옴",
+    "Player006: 울타리 한칸 뚫림"
+   ],
+   "msg": "Player097: 저 씹새끼가 또 훔쳐감",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player037: 팀 한자리 남음",
+    "Player227: 누구 넣지"
+   ],
+   "msg": "Player144: 나 넣어도 돼? ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player236: 아 내가 깐 TNT에 내가 죽음",
+    "Player232: ㅋㅋㅋㅋ 레전드"
+   ],
+   "msg": "Player236: 병1신 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player244: 좀비가 용암에 빠짐",
+    "Player034: 지글지글 소리 남"
+   ],
+   "msg": "Player008: 아주 튀기네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player038: 걔가 뭐라 했길래 울어",
+    "Player014: 귓말 온 거 그대로 쳐줄게"
+   ],
+   "msg": "Player014: 씨발년아 니 엄마 창녀",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player229: 저 표지판 뭐라 써있음",
+    "Player228: 멀어서 안 보여 읽어줘"
+   ],
+   "msg": "Player240: 병신들아 꺼져",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player006: 좀비 떼 몰려옴",
+    "Player087: 칼 들어 문 막아"
+   ],
+   "msg": "Player006: 야 이 개새끼야 죽어",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player238: 아 엔더진주 실수로 던짐",
+    "Player237: ㅋㅋ 어디로",
+    "Player238: 용암 호수 한가운데"
+   ],
+   "msg": "Player238: 아 병신아 그걸 왜 던져",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player242: 드라마 명대사 대기",
+    "Player241: ㄱㄱ 내가 먼저"
+   ],
+   "msg": "Player241: 애미야 국이 짜다",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player244: 내 늑대 이름 추천 좀",
+    "Player243: 병신이 어때 ㅋㅋ",
+    "Player244: ㅋㅋ 이름표 붙임"
+   ],
+   "msg": "Player244: 병신아 이리 와 앉아",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player034: 삼지창 던졌는데 안 박힘",
+    "Player235: 각도 문제임"
+   ],
+   "msg": "Player235: 더 세게 박아봐 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player221: 물 엘베 입구 어디임",
+    "Player239: 바닥에 구멍 뚫어놨음"
+   ],
+   "msg": "Player239: 그 구멍에 몸 넣으면 올라감",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player234: 엘리트라 새 망토 적용함",
+    "Player236: 갑옷 때문에 안 보여"
+   ],
+   "msg": "Player234: 나 다 벗었다 봐봐",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player227: 케이크 만들 우유 없음",
+    "Player144: 소 저기 있잖아"
+   ],
+   "msg": "Player227: 니가 젖 좀 짜와",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 검은 고양이 이름 뭘로 하지",
+    "Player232: 까망이?"
+   ],
+   "msg": "Player231: 검둥이 어때 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 위더 스켈레톤 어딨음",
+    "Player233: 요새 안쪽 복도"
+   ],
+   "msg": "Player233: 저기 깜둥이 잡아 머리 떨굼",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 엄마 발소리 나면 바로 나감",
+    "Player037: ㅋㅋ 몰컴이냐"
+   ],
+   "msg": "Player037: 니 엄마 왔다 튀어 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: 주민 번식시켰는데 좀비 옴",
+    "Player230: 애기는 살았음?"
+   ],
+   "msg": "Player098: 애기는 살고 엄마 뒤졌다",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player008: 내 말 이름 애미로 지음 ㅋㅋ",
+    "Player008: 근데 잃어버림",
+    "Player189: 미친 ㅋㅋㅋ"
+   ],
+   "msg": "Player189: 니 애미 여기 묶여 있다",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player240: 아기 판다 혼자 있음",
+    "Player038: 어미가 안 보이네"
+   ],
+   "msg": "Player240: 엄마 없는 애네 불쌍",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player087: 드래곤 피 얼마 남음",
+    "Player229: 한 칸인데 계속 날아다님"
+   ],
+   "msg": "Player087: 씨발놈아 좀 죽어라",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player237: 습격 시작됨",
+    "Player238: 5웨이브래 파괴수 옴"
+   ],
+   "msg": "Player237: 개새끼들 다 죽여",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player241: 주민이 문 막고 안 비킴",
+    "Player242: 밀어"
+   ],
+   "msg": "Player241: 이 병신아 저리 가",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player243: 팬텀 또 옴",
+    "Player244: 며칠 안 잤냐"
+   ],
+   "msg": "Player243: 꺼져 병신아 좀",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player034: 초성퀴즈 ㅂㅅㅇ",
+    "Player221: 방송인?",
+    "Player034: 땡 ㅋㅋ"
+   ],
+   "msg": "Player235: 병신아?",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player239: 엄마가 나보고 뭐랬는지 암?",
+    "Player236: 뭐라셨는데"
+   ],
+   "msg": "Player239: 이 병신새끼 겜만 하냐 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player234: 나 케이크 스킨으로 바꿈",
+    "Player227: 딸기도 올라가 있네"
+   ],
+   "msg": "Player144: 너 먹고 싶다 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player014: 밤 됐다 팬텀 나옴",
+    "Player232: 침대 있음?"
+   ],
+   "msg": "Player231: 내 옆에서 같이 자자",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player097: 위더 소환할 사람",
+    "Player233: 보스 잡자고?"
+   ],
+   "msg": "Player097: ㅇㅇ ㅂㅅ ㄱ?",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player228: 수박 농장 어디 있음",
+    "Player037: 호박 옆에"
+   ],
+   "msg": "Player037: ㅅㅂ 농장 왼쪽임",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player098: 2016년이 무슨 해였지",
+    "Player230: 원숭이띠 해"
+   ],
+   "msg": "Player008: 병신년 ㅇㅇ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player189: 부계정 자동사냥 돌리는 중",
+    "Player240: 어디 있는데"
+   ],
+   "msg": "Player189: 저 병신 또 떨어지네 ㅋㅋ",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player038: 파란 아홀로틀 뽑는 중",
+    "Player087: 부모는 어떡함"
+   ],
+   "msg": "Player038: 애미는 죽이고 새끼만 키움",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player229: 좀비 둘이 서로 밀다 용암 빠짐",
+    "Player237: ㅋㅋㅋㅋ"
+   ],
+   "msg": "Player229: ㅋㅋ 병신들",
+   "needs_context": true
+  },
+  {
+   "prev": [
+    "Player238: 다리 거의 다 놓음",
+    "Player241: 조심해 밑에 공허"
+   ],
+   "msg": "Player238: 아 씨발 또 떨어졌네",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player242: 집 벽 왜 뚫림",
+    "Player243: 방금 쾅 소리 남"
+   ],
+   "msg": "Player242: 크리퍼 개새끼 진짜",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 블록이 되돌아옴",
+    "Player034: 나도 그럼"
+   ],
+   "msg": "Player244: 이 좆같은 렉 언제 고쳐짐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 다이아 몇개 캠",
+    "Player239: 8개 캤는데"
+   ],
+   "msg": "Player239: ㅅㅂ 다이아 용암에 빠짐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player236: 엔더진주 모으는 중",
+    "Player234: 잘 잡힘?"
+   ],
+   "msg": "Player236: 엔더맨 병신같이 순간이동하네",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 삼림 대저택 좌표 받음",
+    "Player144: 몇 블록임",
+    "Player227: 12000"
+   ],
+   "msg": "Player144: 아 존나 멀다 진짜",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 밤에 건축하는 중",
+    "Player232: 팬텀 안 나옴?"
+   ],
+   "msg": "Player014: 씨발 팬텀 좀 꺼져",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player231: 네더 포탈 왜 꺼져 있음",
+    "Player097: 누가 껐냐"
+   ],
+   "msg": "Player231: 가스트 미친놈이 내 포탈 꺼버림",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player233: 공허에 빠짐",
+    "Player228: 헐 템은"
+   ],
+   "msg": "Player233: tlqkf 인벤 다 날아감",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player037: 어디서 죽음",
+    "Player098: 또 그 동굴"
+   ],
+   "msg": "Player098: 하 개빡치네 또 죽음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player230: 수선 1에메랄드였는데",
+    "Player008: 지금은?"
+   ],
+   "msg": "Player230: 이 망할 주민새끼 거래 왜 바꿈",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player189: 30칸 밖에서 맞음",
+    "Player240: ㅋㅋ 누구한테"
+   ],
+   "msg": "Player189: 스켈레톤 에임 핵이냐 ㅅㅂ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 곡괭이 빨간색 됨",
+    "Player087: 수선 없음?"
+   ],
+   "msg": "Player038: 좆됐다 내구도 없음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player229: 동굴 들어옴",
+    "Player237: 뭐 보임?"
+   ],
+   "msg": "Player229: ㅈㄴ 어둡네 횃불 없냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player238: 3칸에서 떨어졌는데 하트 반",
+    "Player241: 깃털 낙하 달아"
+   ],
+   "msg": "Player238: 아오 지랄맞은 낙뎀",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player242: 밀밭 왜 이럼",
+    "Player243: 울타리 열려 있던데"
+   ],
+   "msg": "Player242: 돼지새끼들 농장 다 밟음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 고대 도시 갔다 옴",
+    "Player034: 살았음?"
+   ],
+   "msg": "Player244: 워든 저 미친새끼 한방임",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 왜 죽었음",
+    "Player235: 화장실 갔다 왔더니"
+   ],
+   "msg": "Player235: ㅆㅂ 잠수 타다 익사함",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 인챈 뭐 나옴",
+    "Player236: 30렙 썼는데"
+   ],
+   "msg": "Player236: 개같은 인챈 또 가시 뜸",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 어디야 지금",
+    "Player227: 몰라 정글 같은데"
+   ],
+   "msg": "Player227: 아 씹 길 잃었다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player144: 그걸 왜 화로에 넣음",
+    "Player014: 다이아 곡괭이였네"
+   ],
+   "msg": "Player014: 나 진짜 병신인가 봄",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 파쿠르 맵 깼음?",
+    "Player231: 1단계에서 30분째"
+   ],
+   "msg": "Player231: 내가 장애인이지 이걸 못 깸",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 방금 누가 이김",
+    "Player233: 내가 짐 0킬"
+   ],
+   "msg": "Player233: 아 나 개못하네 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 비교기 쓰면 됨",
+    "Player037: 설명 세번 들었는데"
+   ],
+   "msg": "Player037: 나 저능아인가 레드스톤 이해 안 됨",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 활 왜 다 빗나감",
+    "Player230: 모르겠음"
+   ],
+   "msg": "Player230: 내 손이 병신임 에임이 안 됨",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player008: 야 왜 나 때림",
+    "Player189: 헐 좀비인 줄"
+   ],
+   "msg": "Player189: 난 쓰레기야 또 팀킬함 미안",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 집 좌표 뭐였음",
+    "Player038: 모름"
+   ],
+   "msg": "Player038: 나 바보 맞음 좌표 안 적음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player087: 스폰 어디서 됨",
+    "Player229: 월드 스폰 ㅋㅋ"
+   ],
+   "msg": "Player229: ㅄ같이 침대 안 놓고 죽음 내가",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 수선책 에메랄드 5개에 팜",
+    "Player238: 헐 그걸 왜"
+   ],
+   "msg": "Player237: 내가 미친놈이지 그걸 왜 팔았냐",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 오늘 몇킬 함",
+    "Player242: 2킬 11데스"
+   ],
+   "msg": "Player242: 나 진짜 허접이다 3킬도 못함",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player243: 썩은 살점 먹고 배고픔 걸림",
+    "Player244: 스테이크 있잖아"
+   ],
+   "msg": "Player244: 바보냐 ㅋㅋ 그걸 왜 먹어",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player034: 좀비한테 죽음",
+    "Player221: 풀템 끼고?"
+   ],
+   "msg": "Player221: 허접 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player235: 나 내일 학교 감 초5임",
+    "Player239: 지금 새벽 한시다"
+   ],
+   "msg": "Player239: 잼민이는 자러 가라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player236: 나도 거기 앉을래",
+    "Player234: 보트 1인용임"
+   ],
+   "msg": "Player234: 꺼져 ㅋㅋ 내 자리임",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 노래 불러줄까",
+    "Player227: 라라라라",
+    "Player144: 레드스톤 짜는 중"
+   ],
+   "msg": "Player144: 닥쳐 좀 집중 안 됨",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 철광석 조합대에 넣었는데",
+    "Player232: 뭐가 나와 그게"
+   ],
+   "msg": "Player232: 멍청아 그건 화로에 넣어야지",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player231: 또 졌네",
+    "Player097: 5연패 ㅋㅋ"
+   ],
+   "msg": "Player097: 너 진짜 못한다 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player233: 응가 ㅋㅋㅋㅋ",
+    "Player228: 뭐가 웃김"
+   ],
+   "msg": "Player228: 초딩이냐 ㅋㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player037: 다이아는 나무 곡괭이로 캠?",
+    "Player098: ㅋㅋㅋㅋ"
+   ],
+   "msg": "Player098: 뉴비 티 내지 마라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player230: 나 팀 다시 받아줘",
+    "Player008: 어제 배신했잖아"
+   ],
+   "msg": "Player008: 응 아니야 ㅋ 돌아가",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player189: 다이아 하나만",
+    "Player240: 방금 줬잖아"
+   ],
+   "msg": "Player240: Rjwu ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 나 y -50에 집 지음",
+    "Player087: 햇빛 안 봄?"
+   ],
+   "msg": "Player087: 찐따같이 왜 혼자 지하에 삼",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player229: 피스톤 방향 또 틀림",
+    "Player237: 네번째임"
+   ],
+   "msg": "Player237: 노답이네 ㅋㅋ 걍 내가 함",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player238: 네더는 무서워서 안 감",
+    "Player241: 풀템인데?"
+   ],
+   "msg": "Player241: 쫄보냐 네더 왜 안 감",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player242: 내가 이김 ㅋㅋ",
+    "Player243: 운빨이잖아"
+   ],
+   "msg": "Player243: ㅗ 먹어라",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 좌표 0 0 가면 뭐 있음",
+    "Player034: 스폰 근처임"
+   ],
+   "msg": "Player244: 시발점이 어디야 스폰 기준임?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 왜 어제 안 들어옴",
+    "Player235: 집에 일이 있었음"
+   ],
+   "msg": "Player235: 우리 집 개 새끼 다섯마리 낳음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 늑대 스킨 바뀜?",
+    "Player236: 리소스팩 넣음"
+   ],
+   "msg": "Player239: 시바견 스킨 귀엽다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 타워 어디에 템 둠",
+    "Player227: 엘베 타고 올라와"
+   ],
+   "msg": "Player227: 18층에 상자 놔뒀어",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player144: 성 다 지었다",
+    "Player014: 좌표 줘 구경 감"
+   ],
+   "msg": "Player014: 미친 개쩐다 이 건축",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 엔드 크리스탈로 3명 잡음",
+    "Player231: 영상 봄"
+   ],
+   "msg": "Player231: 와 씹고수네 ㄷㄷ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 왜 잠수였음",
+    "Player233: 간식 먹음"
+   ],
+   "msg": "Player233: 수박씨발라먹고 옴 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 이벤트 맵 열림",
+    "Player037: 점프맵임?"
+   ],
+   "msg": "Player228: 장애물 맵 누가 만듦",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 케이크 재료 모으는 중",
+    "Player230: 우유는"
+   ],
+   "msg": "Player098: 젖소 어디서 구함 버섯섬?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player008: 돼지 번식시킴",
+    "Player189: 몇마리 나옴"
+   ],
+   "msg": "Player240: 새끼 돼지 귀엽다 데려가도 됨?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 배고파",
+    "Player087: 화로 열어봐"
+   ],
+   "msg": "Player087: 존맛 스테이크 구웠다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player229: 고대 잔해 찾음?",
+    "Player237: 침대 폭파 한번에"
+   ],
+   "msg": "Player237: ㅁㅊ 네더라이트 4개 나옴",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player238: 옛날 짤 아는 사람",
+    "Player241: 심영?"
+   ],
+   "msg": "Player238: 고자라니 내가 고자라니 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player242: 또 떨어졌네",
+    "Player243: 점프 타이밍 못 맞춤"
+   ],
+   "msg": "Player243: 발컨이라 미안 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player244: 다들 어디 삼",
+    "Player034: 나 경남"
+   ],
+   "msg": "Player034: 창녕 사는 사람 있음?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player221: 벌집 몇개 놨음",
+    "Player235: 20개 자동화함"
+   ],
+   "msg": "Player235: 개꿀 농장 완성",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player239: 이 맵 닭이 날아다님",
+    "Player236: 소가 폭발함 ㅋㅋ"
+   ],
+   "msg": "Player236: 이 맵 병맛이네 ㅋㅋ 웃김",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 밀 심었음",
+    "Player227: 뼛가루 없음?"
+   ],
+   "msg": "Player234: 밀 씨 발아 얼마나 걸림",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player144: 그 책 수선이었는데",
+    "Player014: 헐 몰랐음"
+   ],
+   "msg": "Player144: 보지도 않고 팔았네 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 너 아직도 접속 중임?",
+    "Player231: ㅇㅇ"
+   ],
+   "msg": "Player232: 자지도 않고 3일째 겜함",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 다리 아치로 만들어 봄",
+    "Player233: 스샷 봤음"
+   ],
+   "msg": "Player233: 섹시한 건축이네 곡선 미쳤다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 어디 갔다 옴",
+    "Player037: 밥 먹음"
+   ],
+   "msg": "Player037: 짱깨 시켜 먹고 옴",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 스킨 바꿨네",
+    "Player230: 농구 유니폼임"
+   ],
+   "msg": "Player098: 흑형 스킨 간지난다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player008: pvp존 들어옴",
+    "Player189: 오 왔냐"
+   ],
+   "msg": "Player189: 넌 내가 죽인다 딱 대",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player240: 피 반칸 남음",
+    "Player038: 잡았다"
+   ],
+   "msg": "Player038: 죽어라 ㅋㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player087: 3대1인데 괜찮냐",
+    "Player229: 풀템임"
+   ],
+   "msg": "Player229: 다 죽여버린다 덤벼",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 어제 복수하러 감",
+    "Player238: 오든가 ㅋㅋ"
+   ],
+   "msg": "Player237: 목 따러 간다 좌표 불러",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 결투 신청 받음",
+    "Player242: 3초 뒤 시작"
+   ],
+   "msg": "Player242: 뒤질 준비 해라 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player243: 크리스탈 들고 옴",
+    "Player244: 토템 있음"
+   ],
+   "msg": "Player243: 한방에 보내줌 ㅅㄱ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player034: 결투장으로 와",
+    "Player221: 지금 감"
+   ],
+   "msg": "Player034: 너 오늘 내 손에 죽는다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player235: 풀템 끼고 pvp존 옴?",
+    "Player239: ㅇㅇ 왜"
+   ],
+   "msg": "Player235: 템 다 털어먹어 줄게",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player236: 야 어디 가",
+    "Player234: 피 없어서 먹고 옴"
+   ],
+   "msg": "Player236: 도망가지 말고 싸워 쫄?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player227: 아 렉 걸림",
+    "Player144: 핑계 ㅋㅋ"
+   ],
+   "msg": "Player144: 응 너 죽었어 ㅋㅋ 템 감사",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player014: 왜 싸웠어",
+    "Player232: 그냥 지나갔는데"
+   ],
+   "msg": "Player232: 쟤가 나보고 병신아 이랬음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player231: 니 애미 ㅋㅋ",
+    "Player097: 와 선 넘네"
+   ],
+   "msg": "Player097: 운영자님 저 사람 패드립 쳤어요",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player233: 여기 채팅 규칙 빡셈?",
+    "Player228: 심한 것만 잡는대"
+   ],
+   "msg": "Player233: 개새끼라고 하면 뮤트임?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player037: 어디까지가 처벌임",
+    "Player098: 공지 봐"
+   ],
+   "msg": "Player098: 느금마 이런 말 쓰면 바로 밴이래",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player230: 나 방금 뭐 놓침?",
+    "Player008: 채팅 올려봐"
+   ],
+   "msg": "Player008: 방금 누가 니 엄마 욕함 신고해",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player189: 욕 필터 있음?",
+    "Player240: 있긴 한데"
+   ],
+   "msg": "Player240: 씨발은 필터 안 걸리던데",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: Player144 왜 말이 없음",
+    "Player087: 뮤트 먹음"
+   ],
+   "msg": "Player087: 쟤 아까 장애인이냐고 했다가 뮤트됨",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player229: 병신아 꺼져",
+    "Player237: 니가 꺼져 씨발놈아"
+   ],
+   "msg": "Player238: 욕 좀 하지 마 애들도 있어",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player241: 초성으로 치면 안 걸리지 않음?",
+    "Player242: 아니"
+   ],
+   "msg": "Player242: ㄴㄱㅁ 이런 초성도 잡는대",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player243: Player237 왜 나감",
+    "Player244: 누가 심하게 말함"
+   ],
+   "msg": "Player244: 걔가 짱깨새끼라 했대 스샷 있음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player034: 그냥 욕은 봐준대",
+    "Player221: 부모 욕은?"
+   ],
+   "msg": "Player034: 패드립은 선 넘는 거지",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player235: ㅅㅂ이 무슨 뜻임",
+    "Player239: 수박?"
+   ],
+   "msg": "Player236: 수박 아니고 씨발임 ㅋㅋ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player234: 지나가도 돼?",
+    "Player227: 개새끼야 꺼져"
+   ],
+   "msg": "Player234: 왜 욕해 신고한다",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player144: 영타로 치면 필터 피해짐?",
+    "Player014: 뭘 치려고"
+   ],
+   "msg": "Player144: qudtls 영타로 쳐도 걸림?",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player232: 제일 센 처벌이 뭐임",
+    "Player231: 규칙 읽어봤는데"
+   ],
+   "msg": "Player231: 성희롱하면 영구밴이라던데",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player097: 곡괭이 만들 철이 없네",
+    "Player233: 몇개 필요함"
+   ],
+   "msg": "Player097: 철 좀 빌려줘 내일 갚음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player228: 접속함",
+    "Player037: ㅎㅇ"
+   ],
+   "msg": "Player228: ㅎㅇ 다들 뭐 함",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player098: 마을 찾았음?",
+    "Player230: ㅇㅇ 큰 거"
+   ],
+   "msg": "Player230: 좌표 -1200 64 880 으로 와",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player008: 한판 더 할 사람",
+    "Player189: 나 할래"
+   ],
+   "msg": "Player240: 엄마가 밥 먹으래 ㅂㅂ",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player038: 닭 타고 다니는 아기 좀비 봄",
+    "Player087: 스샷 올림"
+   ],
+   "msg": "Player229: ㅋㅋㅋㅋ 개웃기네",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player237: 스킨 새로 바꿈",
+    "Player238: 오 뭐임"
+   ],
+   "msg": "Player241: 님 스킨 이쁘다 어디서 받음",
+   "needs_context": false
+  },
+  {
+   "prev": [
+    "Player242: 아야 누가 때림",
+    "Player243: 헉 ㅈㅅ"
+   ],
+   "msg": "Player243: 죄송해요 실수로 때렸어요",
+   "needs_context": false
+  }
+ ]
+}

@@ -1,0 +1,3452 @@
+{
+ "set": "data/test/blind-ctx-2.json",
+ "selection": "all implicit/evasive/mild/mob/after_abuse/trap items + 15 random plain + 15 random ordinary (215 items)",
+ "models": {
+  "confirm": "Gemma-4 26B-A4B IQ4_XS, reasoned JSON answer (llm.LLMJudge.confirm)",
+  "screen": "same model, one-letter answer (llm.LLMJudge.screen); null = not run (resume bug skipped 7 trap items)",
+  "qwen": "Qwen3.6-35B-A3B IQ4_XS, reasoned JSON answer, same prompt"
+ },
+ "runtime": "llama.cpp server b11583, CPU only, 22 threads of one 2016-era server CPU socket, thinking off, temperature 0",
+ "items": [
+  {
+   "label": "severe",
+   "index": 35,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 10.0,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 12.9,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 93
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 18.5
+  },
+  {
+   "label": "severe",
+   "index": 36,
+   "type": "evasive",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 699,
+    "completion": 69
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "severe",
+   "index": 37,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 73
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "severe",
+   "index": 38,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 718,
+    "completion": 71
+   },
+   "qwen": "pass",
+   "qwen_s": 10.6
+  },
+  {
+   "label": "severe",
+   "index": 39,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 699,
+    "completion": 73
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "severe",
+   "index": 40,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.8,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 73
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 41,
+   "type": "evasive",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.8,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 42,
+   "type": "evasive",
+   "screen": "F",
+   "screen_s": 2.9,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 14.2,
+   "confirm_tokens": {
+    "prompt": 726,
+    "completion": 100
+   },
+   "qwen": "pass",
+   "qwen_s": 11.5
+  },
+  {
+   "label": "severe",
+   "index": 43,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 74
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "severe",
+   "index": 44,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.1,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 76
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 11.3
+  },
+  {
+   "label": "severe",
+   "index": 45,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 67
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "severe",
+   "index": 46,
+   "type": "evasive",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 72
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 47,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 13.7,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 100
+   },
+   "qwen": "family_insult",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "severe",
+   "index": 48,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 64
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "severe",
+   "index": 49,
+   "type": "evasive",
+   "screen": "H",
+   "screen_s": 2.5,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 699,
+    "completion": 73
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "severe",
+   "index": 50,
+   "type": "evasive",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 71
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "severe",
+   "index": 51,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 71
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "severe",
+   "index": 52,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.5,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 76
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "severe",
+   "index": 53,
+   "type": "evasive",
+   "screen": "S",
+   "screen_s": 3.0,
+   "confirm": "slur",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 11.1,
+   "confirm_tokens": {
+    "prompt": 724,
+    "completion": 71
+   },
+   "qwen": "slur",
+   "qwen_s": 11.7
+  },
+  {
+   "label": "severe",
+   "index": 54,
+   "type": "evasive",
+   "screen": "F",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 72
+   },
+   "qwen": "family_insult",
+   "qwen_s": 10.6
+  },
+  {
+   "label": "severe",
+   "index": 55,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.3,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 83
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 56,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.8,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 720,
+    "completion": 68
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "severe",
+   "index": 57,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.9,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 12.5,
+   "confirm_tokens": {
+    "prompt": 729,
+    "completion": 85
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 10.5
+  },
+  {
+   "label": "severe",
+   "index": 58,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 67
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "severe",
+   "index": 59,
+   "type": "evasive",
+   "screen": "C",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 703,
+    "completion": 73
+   },
+   "qwen": "family_insult",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "severe",
+   "index": 60,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 70
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "severe",
+   "index": 61,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.5,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 78
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 62,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 69
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 63,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.6,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 68
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "severe",
+   "index": 64,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.6,
+   "confirm": "slur",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 71
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "severe",
+   "index": 65,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.7,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 70
+   },
+   "qwen": "slur",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 66,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.2,
+   "confirm_tokens": {
+    "prompt": 719,
+    "completion": 85
+   },
+   "qwen": "pass",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "severe",
+   "index": 67,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "severe",
+   "index": 68,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 3.1,
+   "confirm": "sexual_harassment",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 722,
+    "completion": 66
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "severe",
+   "index": 69,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.8,
+   "confirm": "slur",
+   "confirm_target": "없음",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 70,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.9,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 79
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "severe",
+   "index": 71,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.7,
+   "confirm": "slur",
+   "confirm_target": "없음",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "severe",
+   "index": 72,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.1,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 79
+   },
+   "qwen": "pass",
+   "qwen_s": 17.3
+  },
+  {
+   "label": "severe",
+   "index": 73,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.7,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 74
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 10.5
+  },
+  {
+   "label": "severe",
+   "index": 74,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.7,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.4,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 76
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "severe",
+   "index": 75,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.8,
+   "confirm": "slur",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "severe",
+   "index": 76,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 3.0,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.8,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 76
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 77,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.7,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.4,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 77
+   },
+   "qwen": "pass",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 78,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.8,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "severe",
+   "index": 79,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.8,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.4,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 86
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "severe",
+   "index": 80,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.8,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.8,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 80
+   },
+   "qwen": "family_insult",
+   "qwen_s": 7.6
+  },
+  {
+   "label": "severe",
+   "index": 81,
+   "type": "implicit",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 11.2,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 78
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 82,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.8,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.6,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 80
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "severe",
+   "index": 83,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.6,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.3,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 78
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 8.0
+  },
+  {
+   "label": "severe",
+   "index": 84,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.7,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 60
+   },
+   "qwen": "slur",
+   "qwen_s": 8.8
+  },
+  {
+   "label": "severe",
+   "index": 85,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.9,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 74
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 86,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 2.6,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 75
+   },
+   "qwen": "pass",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "severe",
+   "index": 87,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.7,
+   "confirm": "sexual_harassment",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 67
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "severe",
+   "index": 88,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.8,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.2,
+   "confirm_tokens": {
+    "prompt": 721,
+    "completion": 83
+   },
+   "qwen": "slur",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "severe",
+   "index": 89,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 2.7,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 66
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 90,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.8,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 69
+   },
+   "qwen": "pass",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "severe",
+   "index": 91,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 3.4,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.4,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 77
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "severe",
+   "index": 92,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 3.5,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.1,
+   "confirm_tokens": {
+    "prompt": 724,
+    "completion": 68
+   },
+   "qwen": "family_insult",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "severe",
+   "index": 93,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 3.4,
+   "confirm": "slur",
+   "confirm_target": "없음",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "severe",
+   "index": 94,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 3.3,
+   "confirm": "sexual_harassment",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 66
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 7.9
+  },
+  {
+   "label": "severe",
+   "index": 95,
+   "type": "implicit",
+   "screen": "F",
+   "screen_s": 3.3,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.3,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 76
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "severe",
+   "index": 96,
+   "type": "implicit",
+   "screen": "H",
+   "screen_s": 3.4,
+   "confirm": "sexual_harassment",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.0,
+   "confirm_tokens": {
+    "prompt": 718,
+    "completion": 80
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "severe",
+   "index": 97,
+   "type": "implicit",
+   "screen": "N",
+   "screen_s": 3.3,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 12.0,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 81
+   },
+   "qwen": "pass",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "severe",
+   "index": 98,
+   "type": "implicit",
+   "screen": "N",
+   "screen_s": 3.4,
+   "confirm": "family_insult",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 70
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "severe",
+   "index": 99,
+   "type": "implicit",
+   "screen": "S",
+   "screen_s": 2.7,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.8,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 81
+   },
+   "qwen": "slur",
+   "qwen_s": 10.5
+  },
+  {
+   "label": "severe",
+   "index": 16,
+   "type": "plain",
+   "screen": "F",
+   "screen_s": 2.8,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.4,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 76
+   },
+   "qwen": "family_insult",
+   "qwen_s": 6.9
+  },
+  {
+   "label": "severe",
+   "index": 22,
+   "type": "plain",
+   "screen": "S",
+   "screen_s": 3.4,
+   "confirm": "slur",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 69
+   },
+   "qwen": "slur",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "severe",
+   "index": 1,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.1,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 60
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 6.9
+  },
+  {
+   "label": "severe",
+   "index": 29,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.1,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.1,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 67
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 24,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 71
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "severe",
+   "index": 7,
+   "type": "plain",
+   "screen": "F",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 68
+   },
+   "qwen": "slur",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "severe",
+   "index": 20,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 62
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 7.6
+  },
+  {
+   "label": "severe",
+   "index": 32,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 63
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 5,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 73
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "severe",
+   "index": 3,
+   "type": "plain",
+   "screen": "S",
+   "screen_s": 3.5,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 727,
+    "completion": 61
+   },
+   "qwen": "slur",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "severe",
+   "index": 11,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.3,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 717,
+    "completion": 64
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "severe",
+   "index": 15,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 63
+   },
+   "qwen": "slur",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "severe",
+   "index": 31,
+   "type": "plain",
+   "screen": "F",
+   "screen_s": 3.2,
+   "confirm": "family_insult",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.8,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 73
+   },
+   "qwen": "family_insult",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "severe",
+   "index": 12,
+   "type": "plain",
+   "screen": "C",
+   "screen_s": 3.3,
+   "confirm": "slur",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 67
+   },
+   "qwen": "family_insult",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "severe",
+   "index": 17,
+   "type": "plain",
+   "screen": "H",
+   "screen_s": 3.3,
+   "confirm": "sexual_harassment",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 71
+   },
+   "qwen": "sexual_harassment",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "normal",
+   "index": 150,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 8.0
+  },
+  {
+   "label": "normal",
+   "index": 151,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.1,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 152,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "normal",
+   "index": 153,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.1,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.3,
+   "confirm_tokens": {
+    "prompt": 698,
+    "completion": 57
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 154,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "normal",
+   "index": 155,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 156,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.3,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 10.1,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 157,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.1,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 75
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 158,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.3,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 9.9
+  },
+  {
+   "label": "normal",
+   "index": 159,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 160,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.3,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 69
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 161,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 162,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 7.5
+  },
+  {
+   "label": "normal",
+   "index": 163,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 69
+   },
+   "qwen": "pass",
+   "qwen_s": 8.8
+  },
+  {
+   "label": "normal",
+   "index": 164,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 702,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 165,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.5,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 56
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 166,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 167,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.4,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 86
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 168,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 70
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 169,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 72
+   },
+   "qwen": "pass",
+   "qwen_s": 12.4
+  },
+  {
+   "label": "normal",
+   "index": 170,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.9,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 8.2
+  },
+  {
+   "label": "normal",
+   "index": 171,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.9,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 172,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 173,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.7,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 59
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 174,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.7,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 82
+   },
+   "qwen": "pass",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "normal",
+   "index": 175,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 3.0,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 176,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 69
+   },
+   "qwen": "pass",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "normal",
+   "index": 177,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.4,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 80
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 178,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.7,
+   "confirm_tokens": {
+    "prompt": 703,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 179,
+   "type": "after_abuse",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 10.6
+  },
+  {
+   "label": "normal",
+   "index": 80,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "normal",
+   "index": 81,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "normal",
+   "index": 82,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.2,
+   "confirm_tokens": {
+    "prompt": 719,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "normal",
+   "index": 83,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.4,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 59
+   },
+   "qwen": "pass",
+   "qwen_s": 7.5
+  },
+  {
+   "label": "normal",
+   "index": 84,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "normal",
+   "index": 85,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 12.9,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 90
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "normal",
+   "index": 86,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 71
+   },
+   "qwen": "pass",
+   "qwen_s": 7.6
+  },
+  {
+   "label": "normal",
+   "index": 87,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 10.4
+  },
+  {
+   "label": "normal",
+   "index": 88,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 693,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 89,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 698,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 90,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 718,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 7.9
+  },
+  {
+   "label": "normal",
+   "index": 91,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "normal",
+   "index": 92,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.9,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "normal",
+   "index": 93,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.1,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 70
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 94,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.9,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 77
+   },
+   "qwen": "pass",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "normal",
+   "index": 95,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 96,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 72
+   },
+   "qwen": "pass",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "normal",
+   "index": 97,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.4,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 59
+   },
+   "qwen": "pass",
+   "qwen_s": 7.1
+  },
+  {
+   "label": "normal",
+   "index": 98,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 12.1
+  },
+  {
+   "label": "normal",
+   "index": 99,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 717,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 100,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 71
+   },
+   "qwen": "pass",
+   "qwen_s": 11.5
+  },
+  {
+   "label": "normal",
+   "index": 101,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.5,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 10.9
+  },
+  {
+   "label": "normal",
+   "index": 102,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.2,
+   "confirm_tokens": {
+    "prompt": 702,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 103,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.0,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 104,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "normal",
+   "index": 105,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 11.6,
+   "confirm_tokens": {
+    "prompt": 719,
+    "completion": 78
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 106,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "normal",
+   "index": 107,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 10.1
+  },
+  {
+   "label": "normal",
+   "index": 108,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "normal",
+   "index": 109,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.2,
+   "confirm_tokens": {
+    "prompt": 718,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 7.4
+  },
+  {
+   "label": "normal",
+   "index": 110,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 698,
+    "completion": 71
+   },
+   "qwen": "pass",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "normal",
+   "index": 111,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.6,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 72
+   },
+   "qwen": "pass",
+   "qwen_s": 8.2
+  },
+  {
+   "label": "normal",
+   "index": 112,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.9,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 84
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 113,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.7,
+   "confirm_tokens": {
+    "prompt": 717,
+    "completion": 76
+   },
+   "qwen": "pass",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "normal",
+   "index": 114,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 3.0,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 11.1,
+   "confirm_tokens": {
+    "prompt": 721,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 10.8
+  },
+  {
+   "label": "normal",
+   "index": 115,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 3.3,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.5,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 11.8
+  },
+  {
+   "label": "normal",
+   "index": 116,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.2,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 11.6
+  },
+  {
+   "label": "normal",
+   "index": 117,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 11.1,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 78
+   },
+   "qwen": "pass",
+   "qwen_s": 9.0
+  },
+  {
+   "label": "normal",
+   "index": 118,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 73
+   },
+   "qwen": "pass",
+   "qwen_s": 11.1
+  },
+  {
+   "label": "normal",
+   "index": 119,
+   "type": "mild",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 11.8,
+   "confirm_tokens": {
+    "prompt": 729,
+    "completion": 83
+   },
+   "qwen": "pass",
+   "qwen_s": 10.9
+  },
+  {
+   "label": "normal",
+   "index": 120,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 703,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 121,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "다른 플레이어",
+   "confirm_s": 11.6,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 79
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 122,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.5,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 7.5
+  },
+  {
+   "label": "normal",
+   "index": 123,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "normal",
+   "index": 124,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "normal",
+   "index": 125,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "normal",
+   "index": 126,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 9.6
+  },
+  {
+   "label": "normal",
+   "index": 127,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 11.0
+  },
+  {
+   "label": "normal",
+   "index": 128,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 10.0
+  },
+  {
+   "label": "normal",
+   "index": 129,
+   "type": "mob",
+   "screen": "C",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.5,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 9.9
+  },
+  {
+   "label": "normal",
+   "index": 130,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 131,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 132,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 66
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "normal",
+   "index": 133,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 70
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 134,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 135,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 136,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 10.6
+  },
+  {
+   "label": "normal",
+   "index": 137,
+   "type": "mob",
+   "screen": "C",
+   "screen_s": 3.2,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.5,
+   "confirm_tokens": {
+    "prompt": 721,
+    "completion": 64
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.5
+  },
+  {
+   "label": "normal",
+   "index": 138,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 64
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "normal",
+   "index": 139,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 140,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.2,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 62
+   },
+   "qwen": "targeted_curse",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 141,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 142,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 67
+   },
+   "qwen": "pass",
+   "qwen_s": 7.8
+  },
+  {
+   "label": "normal",
+   "index": 143,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 10.3,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 70
+   },
+   "qwen": "pass",
+   "qwen_s": 10.1
+  },
+  {
+   "label": "normal",
+   "index": 144,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.7,
+   "confirm_tokens": {
+    "prompt": 712,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 9.7
+  },
+  {
+   "label": "normal",
+   "index": 145,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "자기 자신",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 717,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 146,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 9.9
+  },
+  {
+   "label": "normal",
+   "index": 147,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 710,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 9.1
+  },
+  {
+   "label": "normal",
+   "index": 148,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "몹·사물·렉",
+   "confirm_s": 10.1,
+   "confirm_tokens": {
+    "prompt": 716,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 10.4
+  },
+  {
+   "label": "normal",
+   "index": 149,
+   "type": "mob",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.5,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 11.3
+  },
+  {
+   "label": "normal",
+   "index": 13,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 715,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 73,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.8,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 31,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.0,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "normal",
+   "index": 1,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.3,
+   "confirm_tokens": {
+    "prompt": 700,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 27,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.8,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 7.9
+  },
+  {
+   "label": "normal",
+   "index": 52,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.2,
+   "confirm_tokens": {
+    "prompt": 702,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 35,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.6,
+   "confirm_tokens": {
+    "prompt": 708,
+    "completion": 56
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 23,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.4,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 49,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 8.1
+  },
+  {
+   "label": "normal",
+   "index": 20,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.9,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 69
+   },
+   "qwen": "pass",
+   "qwen_s": 7.9
+  },
+  {
+   "label": "normal",
+   "index": 9,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.6,
+   "confirm_tokens": {
+    "prompt": 711,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 7.2
+  },
+  {
+   "label": "normal",
+   "index": 17,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 63
+   },
+   "qwen": "pass",
+   "qwen_s": 8.2
+  },
+  {
+   "label": "normal",
+   "index": 56,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 8.7,
+   "confirm_tokens": {
+    "prompt": 694,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 9.2
+  },
+  {
+   "label": "normal",
+   "index": 16,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 698,
+    "completion": 65
+   },
+   "qwen": "pass",
+   "qwen_s": 7.7
+  },
+  {
+   "label": "normal",
+   "index": 66,
+   "type": "ordinary",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.9,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 180,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 9.1,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 62
+   },
+   "qwen": "pass",
+   "qwen_s": 9.1
+  },
+  {
+   "label": "normal",
+   "index": 181,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 12.0,
+   "confirm_tokens": {
+    "prompt": 717,
+    "completion": 83
+   },
+   "qwen": "pass",
+   "qwen_s": 8.9
+  },
+  {
+   "label": "normal",
+   "index": 182,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.9,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 76
+   },
+   "qwen": "pass",
+   "qwen_s": 7.5
+  },
+  {
+   "label": "normal",
+   "index": 183,
+   "type": "trap",
+   "screen": "C",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 10.4,
+   "confirm_tokens": {
+    "prompt": 702,
+    "completion": 75
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 184,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 19.1,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 70
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 185,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.5,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.5,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 8.2
+  },
+  {
+   "label": "normal",
+   "index": 186,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 18.1,
+   "confirm_tokens": {
+    "prompt": 701,
+    "completion": 77
+   },
+   "qwen": "pass",
+   "qwen_s": 10.7
+  },
+  {
+   "label": "normal",
+   "index": 187,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 18.4,
+   "confirm_tokens": {
+    "prompt": 703,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 9.8
+  },
+  {
+   "label": "normal",
+   "index": 188,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.3,
+   "confirm_tokens": {
+    "prompt": 703,
+    "completion": 64
+   },
+   "qwen": "pass",
+   "qwen_s": 8.7
+  },
+  {
+   "label": "normal",
+   "index": 189,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.2,
+   "confirm_tokens": {
+    "prompt": 699,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 8.8
+  },
+  {
+   "label": "normal",
+   "index": 190,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.7,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.8,
+   "confirm_tokens": {
+    "prompt": 713,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 9.1
+  },
+  {
+   "label": "normal",
+   "index": 191,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.6,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 19.1,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 78
+   },
+   "qwen": "pass",
+   "qwen_s": 8.2
+  },
+  {
+   "label": "normal",
+   "index": 192,
+   "type": "trap",
+   "screen": "N",
+   "screen_s": 2.8,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 18.5,
+   "confirm_tokens": {
+    "prompt": 714,
+    "completion": 55
+   },
+   "qwen": "pass",
+   "qwen_s": 9.4
+  },
+  {
+   "label": "normal",
+   "index": 193,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 15.7,
+   "confirm_tokens": {
+    "prompt": 707,
+    "completion": 59
+   },
+   "qwen": "pass",
+   "qwen_s": 8.6
+  },
+  {
+   "label": "normal",
+   "index": 194,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.0,
+   "confirm_tokens": {
+    "prompt": 709,
+    "completion": 66
+   },
+   "qwen": "pass",
+   "qwen_s": 8.3
+  },
+  {
+   "label": "normal",
+   "index": 195,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.1,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 8.4
+  },
+  {
+   "label": "normal",
+   "index": 196,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 18.1,
+   "confirm_tokens": {
+    "prompt": 705,
+    "completion": 74
+   },
+   "qwen": "pass",
+   "qwen_s": 9.3
+  },
+  {
+   "label": "normal",
+   "index": 197,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 18.1,
+   "confirm_tokens": {
+    "prompt": 702,
+    "completion": 61
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  },
+  {
+   "label": "normal",
+   "index": 198,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 16.5,
+   "confirm_tokens": {
+    "prompt": 704,
+    "completion": 60
+   },
+   "qwen": "pass",
+   "qwen_s": 7.3
+  },
+  {
+   "label": "normal",
+   "index": 199,
+   "type": "trap",
+   "screen": null,
+   "screen_s": null,
+   "confirm": "pass",
+   "confirm_target": "없음",
+   "confirm_s": 17.3,
+   "confirm_tokens": {
+    "prompt": 706,
+    "completion": 68
+   },
+   "qwen": "pass",
+   "qwen_s": 8.5
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+scored 620 items in 17 s (28 ms per item, 4 threads)
+
+| set          | label  | type        | n   | rule hit | P>=0.5 | P>=0.9 | auto | review |
+|--------------|--------|-------------|-----|----------|--------|--------|------|--------|
+| blind-ctx-2  | severe | plain       | 35  | 33       | 35     | 35     | 33   | 2      |
+| blind-ctx-2  | severe | evasive     | 25  | 16       | 25     | 25     | 16   | 9      |
+| blind-ctx-2  | severe | implicit    | 40  | 0        | 33     | 32     | 0    | 32     |
+| blind-ctx-2  | severe | all         | 100 | 49       | 93     | 92     | 49   | 43     |
+| blind-ctx-2  | normal | ordinary    | 80  | 0        | 0      | 0      | 0    | 0      |
+| blind-ctx-2  | normal | mild        | 40  | 0        | 0      | 0      | 0    | 0      |
+| blind-ctx-2  | normal | mob         | 30  | 5        | 9      | 6      | 0    | 9      |
+| blind-ctx-2  | normal | after_abuse | 30  | 2        | 0      | 0      | 0    | 2      |
+| blind-ctx-2  | normal | trap        | 20  | 0        | 1      | 1      | 0    | 1      |
+| blind-ctx-2  | normal | all         | 200 | 7        | 10     | 7      | 0    | 12     |
+| blind-test-2 | severe | single line | 120 | 71       | 120    | 120    | 71   | 49     |
+| blind-test-2 | normal | single line | 200 | 0        | 3      | 2      | 0    | 2      |
+
+severe rows: higher is better. normal rows: every count is a false alarm (auto) or extra review work.
+
+blind-ctx-2 hard subset (215): context model + LLM second look
+| label  | n   | auto | sent | llm confirm only | llm two-step | screen missing |
+|--------|-----|------|------|------------------|--------------|----------------|
+| severe | 80  | 30   | 46   | 43               | 41           | 0              |
+| normal | 135 | 0    | 19   | 0                | 0            | 0              |
+punished = auto + llm. "sent" = lines the pipeline hands to the LLM (review, P>=0.2 or a weak clue).

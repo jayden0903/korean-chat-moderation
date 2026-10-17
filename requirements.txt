@@ -1,0 +1,5 @@
+# The rules (kcm.normalize, kcm.rules, kcm.decide) and the LLM client need only the standard library.
+# The context model (training, evaluation with --model, the CLI with --model) needs these.
+# Tested with torch 2.14.1 (CPU build) and transformers 5.19.0.
+torch>=2.1
+transformers>=4.40

@@ -1,0 +1,2751 @@
+{
+ "severe": [
+  {
+   "prev": [
+    "Player011: 야 내 상자 누가 털었냐",
+    "Player040: 내가 털었는데 왜",
+    "Player011: 돌려놔라 진짜"
+   ],
+   "msg": "Player040: 싫은데? ㄴㄱㅁ"
+  },
+  {
+   "prev": [
+    "Player041: 아 또 뒤에서 치네",
+    "Player042: 못하면 접어 ㅋㅋ"
+   ],
+   "msg": "Player041: ㅆㅂㄴ아 정정당당하게 해라"
+  },
+  {
+   "prev": [
+    "Player043: 너 왜 내 집에 용암 부음",
+    "Player044: 실수임 ㅈㅅ"
+   ],
+   "msg": "Player043: 실수는 무슨 ㄱㅅㄲ야"
+  },
+  {
+   "prev": [
+    "Player045: 저 길 좀 비켜주세요",
+    "Player046: 싫어 내가 먼저 왔어",
+    "Player045: 아 제발요"
+   ],
+   "msg": "Player046: 말귀 못알아듣네 ㅈㅇㅇ이냐 너"
+  },
+  {
+   "prev": [
+    "Player047: 야 그거 내 다이아잖아",
+    "Player048: 주운 사람이 임자지"
+   ],
+   "msg": "Player047: 병1신아 내놔"
+  },
+  {
+   "prev": [
+    "Player049: 왜 자꾸 따라와",
+    "Player050: 그냥 심심해서",
+    "Player049: 꺼지라고"
+   ],
+   "msg": "Player050: 씨.발.놈이 말 예쁘게 해라"
+  },
+  {
+   "prev": [
+    "Player009: 저 여자 맞는데요",
+    "Player051: 오 진짜? 몇살?",
+    "Player009: 그건 왜요"
+   ],
+   "msg": "Player051: 보@지 사진 보내봐 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player052: 내 회로 왜 부쉈어",
+    "Player053: 길막이라 부숨"
+   ],
+   "msg": "Player052: c발놈아 그거 세시간 걸렸다고"
+  },
+  {
+   "prev": [
+    "Player054: 너 핵 쓰지",
+    "Player055: 안 쓰는데?",
+    "Player054: 신고함"
+   ],
+   "msg": "Player055: 해봐 s스도 못해본 찐따야"
+  },
+  {
+   "prev": [
+    "Player056: 아까 왜 팀킬함",
+    "Player057: 니가 앞에 있었잖아",
+    "Player056: 사과는 해야지"
+   ],
+   "msg": "Player057: 느금ㅁr한테 사과받아라"
+  },
+  {
+   "prev": [
+    "Player058: 야 템 돌려줘",
+    "Player059: 뭔 템",
+    "Player058: 내 곡괭이 가져갔잖아"
+   ],
+   "msg": "Player059: 증거 있음? ㅇH미도 없는게"
+  },
+  {
+   "prev": [
+    "Player060: 너 진짜 못한다",
+    "Player061: 닥쳐라",
+    "Player060: 사실인데 ㅋㅋ"
+   ],
+   "msg": "Player061: qudtlsdk 입 좀 다물어"
+  },
+  {
+   "prev": [
+    "Player062: 내 말 타고 어디감",
+    "Player063: 잠깐 빌림",
+    "Player062: 허락도 안 받고?"
+   ],
+   "msg": "Player063: tlqkfsusdk 좀 빌릴수도 있지"
+  },
+  {
+   "prev": [
+    "Player064: 농장 같이 쓰자니까",
+    "Player065: 싫다고 했잖아"
+   ],
+   "msg": "Player064: 쉬벌럼이 혼자 다 처먹네"
+  },
+  {
+   "prev": [
+    "Player066: 너 왜 내 욕하고 다님",
+    "Player067: 내가 언제",
+    "Player066: 다 들었거든"
+   ],
+   "msg": "Player067: 씌발롬아 증거 가져와"
+  },
+  {
+   "prev": [
+    "Player001: 방금 누가 나 밀었냐",
+    "Player068: 나 ㅋㅋㅋ",
+    "Player001: 템 다 날아갔잖아"
+   ],
+   "msg": "Player068: 개색히가 왜 절벽에 서있어"
+  },
+  {
+   "prev": [
+    "Player069: 야 줄 서라",
+    "Player040: 내가 먼저임",
+    "Player069: 아닌데 내가 먼저 왔는데"
+   ],
+   "msg": "Player040: 븅딱아 눈이 없냐"
+  },
+  {
+   "prev": [
+    "Player011: 한판 더 해",
+    "Player043: 싫어 너 렉 걸림",
+    "Player011: 쫄았네"
+   ],
+   "msg": "Player043: 쫄긴 뭘 쫄아 병~~~신아"
+  },
+  {
+   "prev": [
+    "Player045: 그만 좀 때려요",
+    "Player042: pvp 켜놨잖아",
+    "Player045: 실수로 켰어요"
+   ],
+   "msg": "Player042: 니엄.마한테 일러라 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player044: 아 왜 내 소 죽임",
+    "Player046: 배고파서",
+    "Player044: 번식시키던 건데"
+   ],
+   "msg": "Player046: ㅗㅗ ㄴㄱㅁ ㅗㅗ"
+  },
+  {
+   "prev": [
+    "Player047: 너 중국인이지",
+    "Player048: 아닌데 왜",
+    "Player047: 말투가 이상해서",
+    "Player048: 뭐래"
+   ],
+   "msg": "Player047: 짱.깨는 니네 서버로 꺼져"
+  },
+  {
+   "prev": [
+    "Player049: 내 집 앞에 왜 구덩이 팜",
+    "Player051: 광질중",
+    "Player049: 딴데서 해"
+   ],
+   "msg": "Player051: 싫은데 ㅂㅅㅅㄲ야"
+  },
+  {
+   "prev": [
+    "Player050: 야 너 목소리 여자같다",
+    "Player009: 여자 맞아"
+   ],
+   "msg": "Player050: 오 그럼 ㄱㅅ 크냐? 만져보자"
+  },
+  {
+   "prev": [
+    "Player052: 거래 사기쳤지 너",
+    "Player055: 준다고 한 적 없음",
+    "Player052: 스샷 있다"
+   ],
+   "msg": "Player055: 어쩌라고 ㅈㅇㅇㅅㄲ"
+  },
+  {
+   "prev": [
+    "Player053: 그거 내가 먼저 봤어",
+    "Player054: 먼저 캔 사람이 임자",
+    "Player053: 아 치사하네"
+   ],
+   "msg": "Player054: 꼬우면 ㄴㅇㅁ한테 캐달라해"
+  },
+  {
+   "prev": [
+    "Player056: 너 말투 왜그래",
+    "Player058: 원래 이럼",
+    "Player056: 기분나쁘다고"
+   ],
+   "msg": "Player058: 좆1같은 새끼가 예민하네"
+  },
+  {
+   "prev": [
+    "Player057: 왜 내 침대 부숨",
+    "Player059: 스폰 리셋 시키려고 ㅋ"
+   ],
+   "msg": "Player057: 미.친.년아 죽고싶냐 진짜"
+  },
+  {
+   "prev": [
+    "Player060: 야 엔더진주 갚아",
+    "Player062: 다음에",
+    "Player060: 저번에도 그랬잖아"
+   ],
+   "msg": "Player062: rotoRldi 좀 기다려"
+  },
+  {
+   "prev": [
+    "Player061: 내가 캔 옵시디언 어디감",
+    "Player063: 몰라",
+    "Player061: 니가 가져갔잖아"
+   ],
+   "msg": "Player063: smrmaak 가져갔겠지"
+  },
+  {
+   "prev": [
+    "Player064: 너 한국말 이상하다",
+    "Player066: 나 일본에서 삼"
+   ],
+   "msg": "Player064: 아 쪽1바리였네 꺼져라"
+  },
+  {
+   "prev": [
+    "Player065: 내 주민 왜 죽였어",
+    "Player067: 시끄러워서",
+    "Player065: 사서 주민이었는데"
+   ],
+   "msg": "Player067: 니 애1미나 죽여 그럼"
+  },
+  {
+   "prev": [
+    "Player001: 여기 내 땅이라고",
+    "Player069: 표지판도 없던데",
+    "Player001: 울타리 쳐놨잖아"
+   ],
+   "msg": "Player069: 시1발련이 땅 주인 행세하네"
+  },
+  {
+   "prev": [
+    "Player068: 야 너 화살 그만 쏴",
+    "Player040: 연습중",
+    "Player068: 나한테 쏘지 말라고"
+   ],
+   "msg": "Player040: 맞는 니가 병.신이지"
+  },
+  {
+   "prev": [
+    "Player011: 너 몇살이냐",
+    "Player045: 중2요",
+    "Player011: 여자임?",
+    "Player045: 네네"
+   ],
+   "msg": "Player011: 나랑 ㅅㅅ하자 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player043: 왜 내 표지판에 낙서함",
+    "Player042: 재밌잖아",
+    "Player043: 지워라"
+   ],
+   "msg": "Player042: ㅇㅁ없는 놈이 명령질이네"
+  },
+  {
+   "prev": [
+    "Player044: 내 방패 내놔",
+    "Player047: 떨어진 거 주운건데",
+    "Player044: 내가 죽어서 떨어진거잖아"
+   ],
+   "msg": "Player047: 개.새.끼야 죽은게 자랑이냐"
+  },
+  {
+   "prev": [
+    "Player046: 너 진짜 말 안통한다",
+    "Player048: 니가 안통하는거임"
+   ],
+   "msg": "Player046: 하 장ㅇH인이랑 뭔 말을 하냐"
+  },
+  {
+   "prev": [
+    "Player049: 내 엘리트라 누가 가져감",
+    "Player009: 저 아니에요",
+    "Player050: 내가 가져감 ㅋ"
+   ],
+   "msg": "Player049: 이 씹1새끼가 장난하나"
+  },
+  {
+   "prev": [
+    "Player051: 야 초보 비켜",
+    "Player052: 니가 뭔데",
+    "Player051: 고수님이시다"
+   ],
+   "msg": "Player052: 고수는 무슨 엠.창인생이"
+  },
+  {
+   "prev": [
+    "Player055: 왜 계속 귓말 보냄",
+    "Player053: 친해지고 싶어서",
+    "Player055: 싫다고요"
+   ],
+   "msg": "Player053: 튕기네 걸1레같은 년이"
+  },
+  {
+   "prev": [
+    "Player054: 니 건축 진짜 못생겼다",
+    "Player056: 뭔 상관",
+    "Player054: 눈갱이라서"
+   ],
+   "msg": "Player056: 느그 ㅇㅓㅁㅁㅏ 얼굴만 하겠냐"
+  },
+  {
+   "prev": [
+    "Player058: 야 물 좀 치워",
+    "Player057: 내 농장 물인데",
+    "Player058: 내 집까지 흘러와"
+   ],
+   "msg": "Player057: 그건 니 사정이고 병신ㅇr"
+  },
+  {
+   "prev": [
+    "Player059: 나 방금 죽인 사람 누구야",
+    "Player060: 나임",
+    "Player059: 왜 죽임 평화구역인데"
+   ],
+   "msg": "Player060: ㅈ같이 생겨서 ㅆㅂㅅㄲ야"
+  },
+  {
+   "prev": [
+    "Player062: 너 흑인 스킨 왜씀",
+    "Player061: 그냥 멋있어서"
+   ],
+   "msg": "Player062: 깜.둥.이 스킨 역겨워 벗어"
+  },
+  {
+   "prev": [
+    "Player063: 내 네더 포탈 왜 꺼",
+    "Player064: 좀비피그맨 넘어와서",
+    "Player063: 말을 하고 꺼야지"
+   ],
+   "msg": "Player064: wkddodlssha이 말해도 모르잖아"
+  },
+  {
+   "prev": [
+    "Player065: 그 스폰지 내가 먼저 찜함",
+    "Player066: 찜이 어딨어",
+    "Player065: 아까 채팅 쳤잖아"
+   ],
+   "msg": "Player066: 시이이이발놈아 못봤다고"
+  },
+  {
+   "prev": [
+    "Player067: 너 왜 자꾸 내 뒤 따라옴",
+    "Player001: 길이 같은건데",
+    "Player067: 거짓말 ㅋ"
+   ],
+   "msg": "Player001: 미1친1놈아 피해망상 있냐"
+  },
+  {
+   "prev": [
+    "Player069: 야 아이템 복사 버그 알려줘",
+    "Player068: 그런거 없어",
+    "Player069: 너 쓰는거 봤는데"
+   ],
+   "msg": "Player068: 헛소리마 정.신.병.자새끼"
+  },
+  {
+   "prev": [
+    "Player040: 내 늑대 왜 죽였어",
+    "Player045: 저를 물었어요"
+   ],
+   "msg": "Player040: 니가 먼저 때렸겠지 씹.년아"
+  },
+  {
+   "prev": [
+    "Player011: 템 다 떨궜네 ㅋㅋ",
+    "Player042: 줍지마라",
+    "Player011: 이미 주움"
+   ],
+   "msg": "Player042: sldoal 뒤졌냐 내놔"
+  },
+  {
+   "prev": [
+    "Player043: 아 진짜 왜 훔쳐가",
+    "Player044: 안잠가놨잖아",
+    "Player043: 그렇다고 가져가냐"
+   ],
+   "msg": "Player044: 응 니애~~미"
+  },
+  {
+   "prev": [
+    "Player047: 나 조선족 아니라고",
+    "Player046: 말투가 딱인데",
+    "Player047: 아니라니까"
+   ],
+   "msg": "Player046: 조1선족 칼 들고 오겠네 ㄷㄷ 꺼져"
+  },
+  {
+   "prev": [
+    "Player048: 야 초딩이냐",
+    "Player049: 중딩인데",
+    "Player048: 하는 짓이 딱 초딩"
+   ],
+   "msg": "Player049: 닥쳐 개1새1끼야"
+  },
+  {
+   "prev": [
+    "Player050: 저 사람 왜 저럼",
+    "Player051: 나? 뭐",
+    "Player050: 계속 블록 부수잖아"
+   ],
+   "msg": "Player051: tlqkfshadk 내 맘이지"
+  },
+  {
+   "prev": [
+    "Player009: 그만 따라오세요",
+    "Player052: 왜 싫어?",
+    "Player009: 네 싫어요"
+   ],
+   "msg": "Player052: 한번 대.줘 그럼 안따라감"
+  },
+  {
+   "prev": [
+    "Player055: 너 왜 내 양 털 다 깎음",
+    "Player053: 양털 필요해서",
+    "Player055: 니 양 키워서 써"
+   ],
+   "msg": "Player053: 쪼잔한 색히 ㅂㅅ같은게"
+  },
+  {
+   "prev": [
+    "Player054: 왜 내 좌표 퍼뜨림",
+    "Player056: 물어보길래",
+    "Player054: 집 다 털렸잖아"
+   ],
+   "msg": "Player056: ㅋㅋ 꼴좋다 애1비없는놈"
+  },
+  {
+   "prev": [
+    "Player058: 야 니 닉 개웃김",
+    "Player057: 왜?",
+    "Player058: 유치해서 ㅋㅋ"
+   ],
+   "msg": "Player057: 니 면상보단 낫다 조오옺같은놈아"
+  },
+  {
+   "prev": [
+    "Player059: 여기 낚시터 내 자리야",
+    "Player060: 공용이잖아",
+    "Player059: 내가 만들었어"
+   ],
+   "msg": "Player060: 어쩌라고 ㄱH새끼야"
+  },
+  {
+   "prev": [
+    "Player062: 너 말 더듬냐 ㅋㅋ",
+    "Player061: 오타임",
+    "Player062: 오타가 왜케 많아",
+    "Player061: 손이 얼어서"
+   ],
+   "msg": "Player062: 걍 ㅈr애인이네 ㅋㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player063: 그 갑옷 내가 인챈한거야",
+    "Player064: 상자에 있길래",
+    "Player063: 공용상자 아니거든"
+   ],
+   "msg": "Player064: whwrkxdmssha이 따지네"
+  },
+  {
+   "prev": [
+    "Player065: 너 방금 뭐라했어",
+    "Player066: 못한다고",
+    "Player065: 다시 말해봐"
+   ],
+   "msg": "Player066: 귀도 먹었냐 병-신-아"
+  },
+  {
+   "prev": [
+    "Player067: 왜 내 호박 다 따감",
+    "Player001: 할로윈이라",
+    "Player067: 다시 심어놔"
+   ],
+   "msg": "Player001: 니.미한테 심어달라해"
+  },
+  {
+   "prev": [
+    "Player069: 야 여자면 인증해",
+    "Player045: 왜 해야돼요",
+    "Player069: 궁금하니까",
+    "Player045: 싫어요"
+   ],
+   "msg": "Player069: ㅂㅈ달렸나 확인만 하자"
+  },
+  {
+   "prev": [
+    "Player068: 한번만 더 치면 신고",
+    "Player040: 신고충 ㅋ",
+    "Player068: 진짜 한다"
+   ],
+   "msg": "Player040: 해 djaakdjqtsi"
+  },
+  {
+   "prev": [
+    "Player011: 너 방금 도망갔지",
+    "Player042: 전략적 후퇴",
+    "Player011: 쫄보 ㅋㅋ"
+   ],
+   "msg": "Player042: 시8놈이 풀템 끼고 나대네"
+  },
+  {
+   "prev": [
+    "Player043: 내가 판 굴에 왜 들어옴",
+    "Player044: 지나가던 길",
+    "Player043: 철 다 캐갔잖아"
+   ],
+   "msg": "Player044: 응 느1금1마 철"
+  },
+  {
+   "prev": [
+    "Player047: 저기요 좀 조용히 해주세요",
+    "Player046: 왜 내가 뭘",
+    "Player047: 도배하잖아요"
+   ],
+   "msg": "Player046: 뭐래 alclssus이"
+  },
+  {
+   "prev": [
+    "Player048: 니 스킨 여캐네",
+    "Player049: 어어"
+   ],
+   "msg": "Player048: 치마 속 보여줘 ㅋㅋ 빨.통도"
+  },
+  {
+   "prev": [
+    "Player050: 아까 왜 나 버리고 감",
+    "Player051: 니가 느려서",
+    "Player050: 팀인데 기다려야지"
+   ],
+   "msg": "Player051: 발목잡는 병쉰새끼를 왜 기다려"
+  },
+  {
+   "prev": [
+    "Player009: 제 밭 밟지 마세요",
+    "Player052: 실수",
+    "Player009: 세번째잖아요"
+   ],
+   "msg": "Player052: 아 시끄러 ckdsu같은게"
+  },
+  {
+   "prev": [
+    "Player055: 야 너 부모님이 게임 허락함?",
+    "Player053: 뭔상관",
+    "Player055: 애가 너무 어려보여서"
+   ],
+   "msg": "Player053: 니 부.모 뒤.진건 허락받았냐"
+  },
+  {
+   "prev": [
+    "Player054: 그 검 나 줘",
+    "Player056: 싫어 내가 만든건데",
+    "Player054: 쪼잔하네"
+   ],
+   "msg": "Player056: 거지새끼가 구걸하네 엠1창"
+  },
+  {
+   "prev": [
+    "Player058: 나 동남아 살아",
+    "Player057: 아 그래서 핑이"
+   ],
+   "msg": "Player059: 똥.남.아 새끼는 니네 나라 가서 해"
+  },
+  {
+   "prev": [
+    "Player060: 왜 내 보트 타고 감",
+    "Player062: 급해서",
+    "Player060: 나 섬에 갇혔잖아"
+   ],
+   "msg": "Player062: 헤엄쳐 와 ㅆ1ㅂ놈아"
+  },
+  {
+   "prev": [
+    "Player061: 내 좀비 트랩에 누가 물 뺐어",
+    "Player063: 나 ㅋㅋ",
+    "Player061: 왜 그랬냐"
+   ],
+   "msg": "Player063: 꼴보기 싫어서 ㅄㅅㄲ야"
+  },
+  {
+   "prev": [
+    "Player064: 너 어제 내 욕했다며",
+    "Player065: 누가 그래",
+    "Player064: 다 들었어"
+   ],
+   "msg": "Player065: 응 했어 ㄴㄱㅁ ㅊㄴ"
+  },
+  {
+   "prev": [
+    "Player066: 야 화로 내꺼 쓰지마",
+    "Player067: 비어있길래",
+    "Player066: 석탄 내가 넣은거야"
+   ],
+   "msg": "Player067: 조.까 병.신아"
+  },
+  {
+   "prev": [
+    "Player001: 왜 내 이름표 달린 말 죽임",
+    "Player069: 몹인줄",
+    "Player001: 이름표가 있는데?"
+   ],
+   "msg": "Player069: 닥쳐 qudtlstoRl"
+  },
+  {
+   "prev": [
+    "Player068: 집 문 좀 닫고 다녀",
+    "Player040: 귀찮아",
+    "Player068: 크리퍼 들어온다고"
+   ],
+   "msg": "Player040: 니 애.미.가 닫으라 해"
+  },
+  {
+   "prev": [
+    "Player045: 저 여기서 건축중이에요",
+    "Player011: 그래서",
+    "Player045: tnt 터뜨리지 마세요"
+   ],
+   "msg": "Player011: 싫은데 ㅆㄴ아"
+  },
+  {
+   "prev": [
+    "Player042: 니 왜 내 거래글에 태클검",
+    "Player043: 바가지잖아",
+    "Player042: 니가 뭔 상관"
+   ],
+   "msg": "Player043: 사기꾼 색기 doalenlwlssha"
+  },
+  {
+   "prev": [
+    "Player044: 한국말 잘하네 외국인인데",
+    "Player047: 나 베트남 혼혈이야"
+   ],
+   "msg": "Player046: 아 튀1기였어? 더럽네 꺼져"
+  },
+  {
+   "prev": [
+    "Player048: 그 닉 뭐라 읽음",
+    "Player049: 망고주스",
+    "Player048: 유치 ㅋ"
+   ],
+   "msg": "Player049: 시부랄놈이 닉가지고 시비네"
+  },
+  {
+   "prev": [
+    "Player050: 너 목소리 듣고싶다 디코 와",
+    "Player009: 싫어요",
+    "Player050: 왜 튕겨",
+    "Player009: 그냥 싫어요"
+   ],
+   "msg": "Player050: rjffpsus이 비싼척하네"
+  },
+  {
+   "prev": [
+    "Player051: 내가 깔아둔 레일 어디감",
+    "Player052: 철 필요해서 캠",
+    "Player051: 미쳤냐"
+   ],
+   "msg": "Player052: 어쩔 ㅋ ㅁㅊㅅㄲ ㅂㅅ아"
+  },
+  {
+   "prev": [
+    "Player055: 그만 좀 죽여라",
+    "Player053: 재밌는데",
+    "Player055: 다섯번째야"
+   ],
+   "msg": "Player053: 약한게 죄지 병sin아"
+  },
+  {
+   "prev": [
+    "Player054: 너 진짜 눈치없다",
+    "Player056: 뭐가",
+    "Player054: 다들 너 싫어해"
+   ],
+   "msg": "Player056: 응 니 엄1마도 너 싫어해 고아1새끼"
+  },
+  {
+   "prev": [
+    "Player058: 엔더상자 내꺼 건들지마",
+    "Player057: 엔더상자는 다 각자꺼야 바보",
+    "Player058: 아 그래?"
+   ],
+   "msg": "Player057: 그것도 모르냐 ㅈr폐아새끼"
+  },
+  {
+   "prev": [
+    "Player059: 야 이거 내가 먼저 잡던 몹이야",
+    "Player060: 막타 친 사람꺼",
+    "Player059: 경험치 내놔"
+   ],
+   "msg": "Player060: 경험치를 어케 줘 저.능.아냐"
+  },
+  {
+   "prev": [
+    "Player062: 왜 채팅 무시함",
+    "Player061: 바빠",
+    "Player062: 대답은 해야지"
+   ],
+   "msg": "Player061: 씨2발 좀 꺼져 개2새끼야"
+  },
+  {
+   "prev": [
+    "Player065: 그 좌표 내 기지야 오지마",
+    "Player066: 이미 가는중",
+    "Player065: 오면 죽인다"
+   ],
+   "msg": "Player066: 해봐 좆.밥.새.끼야"
+  },
+  {
+   "prev": [
+    "Player067: 너 여자라며 사진 보내",
+    "Player045: 싫어요 왜요",
+    "Player067: 못생겼구나",
+    "Player045: 네 그러니까 가세요"
+   ],
+   "msg": "Player067: qhwl나 벌려 그럼"
+  },
+  {
+   "prev": [
+    "Player001: 내 땅에 표지판 박지마",
+    "Player069: 광고임",
+    "Player001: 치워"
+   ],
+   "msg": "Player069: 니가 치워 느그.애비.시켜서"
+  },
+  {
+   "prev": [
+    "Player068: 야 너 왜 귓말로 욕함",
+    "Player040: 맞는말 했는데",
+    "Player068: 뭐가 맞는말이야"
+   ],
+   "msg": "Player040: 니 병1신 맞잖아 ㅋㅋ 장1애새끼"
+  },
+  {
+   "prev": [
+    "Player011: 템 왜 불에 던짐",
+    "Player042: 니 주기 싫어서",
+    "Player011: 와 인성"
+   ],
+   "msg": "Player042: 인성은 니 애.미 인성이지"
+  },
+  {
+   "prev": [
+    "Player043: 좀 비켜봐 지나가게",
+    "Player044: 돌아가",
+    "Player043: 한칸짜리 길인데"
+   ],
+   "msg": "Player044: 그럼 떨어져 뒤져 ㅅ1ㅂ새끼야"
+  },
+  {
+   "prev": [
+    "Player048: 너 일본서버에서 왔다며",
+    "Player049: 어 일본인이야"
+   ],
+   "msg": "Player048: 원숭이 쪽.빠.리는 방사능이나 먹어"
+  },
+  {
+   "prev": [
+    "Player050: 내 크리스탈 왜 터뜨림",
+    "Player051: 궁금해서",
+    "Player050: 집 날아갔잖아"
+   ],
+   "msg": "Player051: ㅋㅋㅋ 꼴좋다 느금마 집도 날려줄게"
+  },
+  {
+   "prev": [
+    "Player009: 누가 제 고양이 죽였어요",
+    "Player052: 나임",
+    "Player009: 왜요 ㅠㅠ"
+   ],
+   "msg": "Player052: 울어봐 씨이발년아 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player055: 너 진짜 왜 사냐",
+    "Player053: 뭐?",
+    "Player055: 게임도 못하고"
+   ],
+   "msg": "Player053: 니 애1미 창1녀라 넌 왜 사냐"
+  },
+  {
+   "prev": [
+    "Player054: 그 신호기 내가 설치한거야",
+    "Player056: 뽑아가면 내꺼",
+    "Player054: 도둑이네"
+   ],
+   "msg": "Player056: 도둑 맞음 어쩔 ㄱㅅㄲ ㅋ 울어"
+  },
+  {
+   "prev": [
+    "Player058: 야 니 농장 불났다",
+    "Player057: 누가 그랬어",
+    "Player058: 내가 ㅋㅋ"
+   ],
+   "msg": "Player057: 이 개sae끼가 미쳤나"
+  },
+  {
+   "prev": [
+    "Player059: 왜 내 닉 따라함",
+    "Player060: 흔한 닉인데",
+    "Player059: 숫자까지 똑같잖아"
+   ],
+   "msg": "Player060: 피해망상 정1신1병1자년"
+  },
+  {
+   "prev": [
+    "Player062: 포션 좀 나눠줘",
+    "Player061: 싫어",
+    "Player062: 팀이잖아"
+   ],
+   "msg": "Player061: 팀은 무슨 거지 ㅅH끼 엠창"
+  },
+  {
+   "prev": [
+    "Player063: 방금 그거 핵이지",
+    "Player064: 실력임"
+   ],
+   "msg": "Player063: 리치 6칸이 실력이냐 ㅆㅣㅂㅏㄹ놈아"
+  },
+  {
+   "prev": [
+    "Player065: 왜 내 상점 앞에 가게 차림",
+    "Player066: 자리 좋아서",
+    "Player065: 상도덕 없냐"
+   ],
+   "msg": "Player066: 상도덕은 ㄴㅇㅁ 뱃속에 두고옴"
+  },
+  {
+   "prev": [
+    "Player067: 흑형 스킨이네 ㅋㅋ",
+    "Player001: 난 원래 피부 어두워"
+   ],
+   "msg": "Player067: 아 진짜 니1그1로였어? 역겹"
+  },
+  {
+   "prev": [
+    "Player069: 너 엄마한테 혼났다며 ㅋㅋ",
+    "Player068: 누가 그래",
+    "Player069: 디코에서 들림"
+   ],
+   "msg": "Player068: 니엄-마는 창-녀라 못혼내지"
+  },
+  {
+   "prev": [
+    "Player040: 내가 먼저 인챈트 테이블 씀",
+    "Player045: 저 줄 서있었어요"
+   ],
+   "msg": "Player040: 꺼져 ㅂㅈ년아 내 차례야"
+  },
+  {
+   "prev": [
+    "Player011: 왜 엔더드래곤 혼자 잡음",
+    "Player042: 니들이 늦어서",
+    "Player011: 같이 잡기로 했잖아"
+   ],
+   "msg": "Player042: 늦는 놈이 병1신이지 ㅗ"
+  },
+  {
+   "prev": [
+    "Player043: 야 그 화살 내꺼 주워감?",
+    "Player044: 어어",
+    "Player043: 돌려줘"
+   ],
+   "msg": "Player044: 싫어 ㅆㅂㄹㅁ 니가 잘 줍던가"
+  },
+  {
+   "prev": [
+    "Player047: 너 왜 내 표지판 글 바꿈",
+    "Player046: 재밌어서 ㅋ",
+    "Player047: 욕 써놨더라"
+   ],
+   "msg": "Player046: 맞잖아 니 애@미 걸@레"
+  },
+  {
+   "prev": [
+    "Player048: 아 오타 미안",
+    "Player049: 오타가 아니라 그냥 못치는거",
+    "Player048: 뭐래"
+   ],
+   "msg": "Player049: 손가락 병.신.이냐 장.애.냐"
+  },
+  {
+   "prev": [
+    "Player050: 수박 좀 줘",
+    "Player051: 직접 키워",
+    "Player050: 하나만"
+   ],
+   "msg": "Player051: 구걸하지마 거지ㅅㄲ 애미도 거지냐"
+  },
+  {
+   "prev": [
+    "Player009: 귓말 그만 보내세요",
+    "Player055: 왜 좋으면서",
+    "Player009: 차단할게요"
+   ],
+   "msg": "Player055: 차단해도 따.먹.을거임 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player052: 니 피스톤문 구리다",
+    "Player053: 처음 만든건데",
+    "Player052: 티남 ㅋ"
+   ],
+   "msg": "Player053: 훈수충 씨@발럼 꺼져"
+  },
+  {
+   "prev": [
+    "Player054: 왜 내 귀환서 씀",
+    "Player056: 상자에 있길래",
+    "Player054: 물어보고 써야지"
+   ],
+   "msg": "Player056: 응 물어봄 니 죽은 애.비한테"
+  },
+  {
+   "prev": [
+    "Player058: 좀 조용히 광질하자",
+    "Player057: tnt가 빠르잖아",
+    "Player058: 내 굴 무너졌어"
+   ],
+   "msg": "Player057: 그럼 딴데가 ㅂr보 병ㅅin아"
+  },
+  {
+   "prev": [
+    "Player059: 너 여기 왜 왔어",
+    "Player060: 구경",
+    "Player059: 가라고"
+   ],
+   "msg": "Player060: 명령질이네 씹@새가"
+  },
+  {
+   "prev": [
+    "Player062: 내 블레이즈 스포너 건들지마",
+    "Player061: 공용인데",
+    "Player062: 내가 찾았어"
+   ],
+   "msg": "Player061: 찾으면 니꺼냐 ㅈㄹ마 ㅂㅅㅇ"
+  },
+  {
+   "prev": [
+    "Player063: 나 휠체어 타서 손이 느려",
+    "Player064: 아 진짜?"
+   ],
+   "msg": "Player065: ㅋㅋ 앉1은1뱅1이가 게임은 왜함"
+  },
+  {
+   "prev": [
+    "Player066: 야 내 다이아 곡괭이 수리 다 썼네",
+    "Player067: 조금 썼어",
+    "Player066: 내구도 10 남음"
+   ],
+   "msg": "Player067: 쪼잔한 십.새.끼 다시 만들어"
+  },
+  {
+   "prev": [
+    "Player001: 아까 그 여자애 어디감",
+    "Player069: 나갔어",
+    "Player045: 저 여기 있는데요"
+   ],
+   "msg": "Player001: 오 왔네 가.슴 사이즈 뭐임"
+  },
+  {
+   "prev": [
+    "Player068: 왜 날 추방투표함",
+    "Player040: 니가 민폐라서",
+    "Player068: 내가 뭘 했는데"
+   ],
+   "msg": "Player040: 존재가 민폐 느1금1 뒤1짐"
+  },
+  {
+   "prev": [
+    "Player011: 손 떨리냐 왤케 못쏴",
+    "Player042: 렉임",
+    "Player011: 핑계 ㅋㅋ"
+   ],
+   "msg": "Player042: 핑 300인데 미친 qt같은 새끼야"
+  },
+  {
+   "prev": [
+    "Player043: 야 내가 준 철 어쨌어",
+    "Player044: 다 씀",
+    "Player043: 반 돌려준다며"
+   ],
+   "msg": "Player044: 그런말 한적없음 ㄲㅈ ㄱㅅㄲㅇ"
+  },
+  {
+   "prev": [
+    "Player048: 내 겉날개 돌려줘",
+    "Player049: 빌려준다 했잖아",
+    "Player048: 하루만이랬지"
+   ],
+   "msg": "Player049: 아 시끄러 엄1창 내일 줌 병1신"
+  },
+  {
+   "prev": [
+    "Player050: 중국서버 하다 왔어 반가워",
+    "Player051: 중국인?",
+    "Player050: 응응"
+   ],
+   "msg": "Player051: WkdRo새끼 바이러스 옮기지마"
+  },
+  {
+   "prev": [
+    "Player009: 저 초보라 잘 몰라요",
+    "Player052: 내가 알려줌",
+    "Player009: 감사합니다"
+   ],
+   "msg": "Player052: 대신 야1한 사진 하나만 ㅎㅎ"
+  },
+  {
+   "prev": [
+    "Player055: 니 덫에 내가 걸렸잖아",
+    "Player053: 걸리라고 만든거",
+    "Player055: 템 다 잃음"
+   ],
+   "msg": "Player053: ㅋㅋㅋ 뇌1성1마1비냐 그걸 밟게"
+  },
+  {
+   "prev": [
+    "Player054: 너 방금 나 팼지",
+    "Player056: 실수",
+    "Player054: 세대 때렸는데?"
+   ],
+   "msg": "Player056: 응 고의임 ㅈ까 ㅆㅂ련아"
+  },
+  {
+   "prev": [
+    "Player058: 왜 자꾸 내 침대에서 잠",
+    "Player057: 내 침대 없어서",
+    "Player058: 스폰 꼬이잖아"
+   ],
+   "msg": "Player057: 좁쌀만한 놈이 ㅈㄹ이야 ㄴㄱㅁㅆ"
+  },
+  {
+   "prev": [
+    "Player059: 거래 취소할게",
+    "Player060: 이미 줬는데?",
+    "Player059: 맘 바뀜"
+   ],
+   "msg": "Player060: 이 사기꾼 개~새~끼~야"
+  },
+  {
+   "prev": [
+    "Player062: 너 틱 있냐 채팅 계속 끊어침",
+    "Player061: 습관임"
+   ],
+   "msg": "Player062: 틱1장1애 ㅋㅋ 병원가라 병1신"
+  },
+  {
+   "prev": [
+    "Player063: 물약 양조대 내꺼야",
+    "Player064: 길드꺼잖아",
+    "Player063: 재료는 내가 댔어"
+   ],
+   "msg": "Player064: 좆1도 안댔으면서 구라치네 구라1년"
+  },
+  {
+   "prev": [
+    "Player065: 야 길드 탈퇴해라",
+    "Player066: 왜?",
+    "Player065: 넌 도움이 안돼"
+   ],
+   "msg": "Player066: 니 애!미!가 도움 안됨"
+  },
+  {
+   "prev": [
+    "Player067: 내가 묻어둔 보물 누가 캤어",
+    "Player001: 나임",
+    "Player067: 돌려줘 제발"
+   ],
+   "msg": "Player001: 싫어 ㅋ 느@금@마 묻어놓던가"
+  },
+  {
+   "prev": [
+    "Player069: 넌 왜 맨날 혼자 놀아",
+    "Player045: 그냥요",
+    "Player069: 친구없지 ㅋ",
+    "Player045: 상관마세요"
+   ],
+   "msg": "Player069: 왕따 병@신@년 ㅋㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player068: 지도 아트 내가 만든거 복사했지",
+    "Player040: 복사는 자유",
+    "Player068: 팔고 있잖아"
+   ],
+   "msg": "Player040: 꼬우면 고소해 tlqkf새끼야"
+  },
+  {
+   "prev": [
+    "Player011: 내 삼지창 주웠으면 줘",
+    "Player042: 못봄",
+    "Player011: 너 들고있잖아"
+   ],
+   "msg": "Player042: 눈깔 병1신이냐 이거 내꺼임 개1년아"
+  },
+  {
+   "prev": [
+    "Player043: 그쪽 팀원 누구임",
+    "Player044: 얘 필리핀 사람"
+   ],
+   "msg": "Player047: 필1리1핀 거지새끼를 왜 데려와"
+  },
+  {
+   "prev": [
+    "Player046: 여캐 스킨 귀엽네",
+    "Player048: 고마워",
+    "Player046: 실제로도 여자?",
+    "Player048: 응응"
+   ],
+   "msg": "Player046: 그럼 오늘밤 자.위 할때 불러"
+  },
+  {
+   "prev": [
+    "Player049: 야 내 건물 옆에 붙여 짓지마",
+    "Player050: 땅 없어서",
+    "Player049: 넓은데 왜 여기"
+   ],
+   "msg": "Player050: 텃세 부리네 ㅇH미 없는 새끼가"
+  },
+  {
+   "prev": [
+    "Player051: 왜 내 채팅 따라침",
+    "Player009: 안 따라쳤는데요"
+   ],
+   "msg": "Player051: 따라쳤잖아 귀먹은 병ㅅ1ㄴ년아"
+  },
+  {
+   "prev": [
+    "Player052: 경매 왜 장난입찰함",
+    "Player055: 돈 있는줄",
+    "Player052: 시간 날렸잖아"
+   ],
+   "msg": "Player055: 미안 ㅋ 근데 어쩔 느~금~마"
+  },
+  {
+   "prev": [
+    "Player053: 니 팀 다 죽었네 ㅋㅋ",
+    "Player054: 니가 뒤치기 했잖아",
+    "Player053: 전쟁인데"
+   ],
+   "msg": "Player054: 비겁한 조ㅈ같은 ㅅㄲ 니애미"
+  },
+  {
+   "prev": [
+    "Player056: 그 발전기 내가 설계한거",
+    "Player058: 유튜브 보고 한거면서",
+    "Player056: 아니거든"
+   ],
+   "msg": "Player058: 구라까지마 ㅂ.ㅅ.아 다 알아"
+  },
+  {
+   "prev": [
+    "Player057: 내 닭장에 왜 여우 풀었어",
+    "Player059: 귀엽잖아",
+    "Player057: 닭 다 죽었다고"
+   ],
+   "msg": "Player059: 닭이나 키우는 찐1따 장1애1인 ㅋ"
+  },
+  {
+   "prev": [
+    "Player060: 너 키 작다며 ㅋㅋ",
+    "Player062: 누가 그래"
+   ],
+   "msg": "Player060: 난.쟁.이 병.신이라던데 맞네"
+  }
+ ],
+ "normal": [
+  {
+   "prev": [
+    "Player040: 아 크리퍼 또 터짐",
+    "Player043: ㅋㅋㅋ 집 날아갔네"
+   ],
+   "msg": "Player040: ㅅㅂ"
+  },
+  {
+   "prev": [
+    "Player045: 다이아 20개 찾았어요",
+    "Player046: 헐 어디서",
+    "Player045: y -58에서요"
+   ],
+   "msg": "Player046: ㅈㄴ 부럽다"
+  },
+  {
+   "prev": [
+    "Player047: 나 방금 위더 잡음",
+    "Player048: 혼자서?",
+    "Player047: ㅇㅇ 솔플"
+   ],
+   "msg": "Player048: ㅁㅊ 고수네"
+  },
+  {
+   "prev": [
+    "Player049: 철 좀 빌려줄 사람",
+    "Player050: 내가 줄게 스폰으로 와"
+   ],
+   "msg": "Player049: ㄱㅅ"
+  },
+  {
+   "prev": [
+    "Player051: 방금 집 앞에 누가 서있던데",
+    "Player009: 저도 봤어요"
+   ],
+   "msg": "Player052: ㄴㄱ?"
+  },
+  {
+   "prev": [
+    "Player055: 한판 잘했다",
+    "Player053: 너 진짜 잘하네"
+   ],
+   "msg": "Player055: ㅈㅈ"
+  },
+  {
+   "prev": [
+    "Player054: 나 이제 자러감",
+    "Player056: 벌써?",
+    "Player054: 내일 학교"
+   ],
+   "msg": "Player056: ㅂㅂ"
+  },
+  {
+   "prev": [
+    "Player058: 오늘 밤샘 광질 가자",
+    "Player057: 나 졸린데"
+   ],
+   "msg": "Player058: 야 자지 마 같이 하자"
+  },
+  {
+   "prev": [
+    "Player059: 내 건축 어때",
+    "Player060: 별로던데"
+   ],
+   "msg": "Player059: 보지도 않고 별로래 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player062: 이 서버 언제 처음 왔어",
+    "Player061: 오픈날"
+   ],
+   "msg": "Player062: 그게 니 마크 인생 시발점이네 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player063: 병신년이 몇년도였지",
+    "Player064: 2016년"
+   ],
+   "msg": "Player063: 아 맞다 병신년 다음이 정유년"
+  },
+  {
+   "prev": [
+    "Player065: 돼지 번식 성공",
+    "Player066: 오 몇마리"
+   ],
+   "msg": "Player065: 새끼 돼지 네마리 나옴"
+  },
+  {
+   "prev": [
+    "Player067: 저 건물 뭐야",
+    "Player001: 내가 지은 고아원 컨셉 건물"
+   ],
+   "msg": "Player067: 고아원 디테일 미쳤다"
+  },
+  {
+   "prev": [
+    "Player069: 길드전 뭐로 할까",
+    "Player068: 땅따먹기 어때"
+   ],
+   "msg": "Player069: 땅따먹기 좋다 내일 ㄱ"
+  },
+  {
+   "prev": [
+    "Player040: 집 바닥 더러워 보임",
+    "Player045: 텍스처 때문이에요"
+   ],
+   "msg": "Player040: 걸레질 하는 모션 있으면 좋겠다"
+  },
+  {
+   "prev": [
+    "Player011: 스킨 뭐 살까",
+    "Player042: 남녀공용 추천"
+   ],
+   "msg": "Player011: 유니섹스 스킨이 무난하긴 해"
+  },
+  {
+   "prev": [
+    "Player043: 좀비 왤케 많아",
+    "Player044: 달 안보이냐 초승달인데"
+   ],
+   "msg": "Player043: 아 씨발 좀비 그만 나와"
+  },
+  {
+   "prev": [
+    "Player047: 엔더맨 눈 마주침",
+    "Player046: ㅋㅋㅋ 도망쳐"
+   ],
+   "msg": "Player047: 개새끼 엔더맨 물도 없는데"
+  },
+  {
+   "prev": [
+    "Player048: 방금 용암에 빠짐",
+    "Player049: 템은?"
+   ],
+   "msg": "Player048: 다 탐 나 진짜 병신인가봐"
+  },
+  {
+   "prev": [
+    "Player050: 야 pvp 하자",
+    "Player051: 콜 투기장으로 와",
+    "Player050: 오늘 넌 죽었다 ㅋㅋ"
+   ],
+   "msg": "Player051: 죽어라 받아라 크리티컬"
+  },
+  {
+   "prev": [
+    "Player009: 저 사람이 저한테 병신이라고 했어요",
+    "Player052: 누가?"
+   ],
+   "msg": "Player009: 아까 나간 사람이요 신고했어요"
+  },
+  {
+   "prev": [
+    "Player055: 너 진짜 허접이다",
+    "Player053: 인정 ㅋㅋ"
+   ],
+   "msg": "Player055: 활도 못쏘는 바보"
+  },
+  {
+   "prev": [
+    "Player054: 야 내 자리야",
+    "Player056: 먼저 온 사람이 임자"
+   ],
+   "msg": "Player054: 아 꺼져 ㅋㅋ 장난이고 같이 캐자"
+  },
+  {
+   "prev": [
+    "Player058: 시끄러 좀 닥쳐봐",
+    "Player057: 왜?"
+   ],
+   "msg": "Player058: 크리퍼 소리 들림 조용"
+  },
+  {
+   "prev": [
+    "Player059: 후원 랭크 얼마야",
+    "Player060: 만원인가",
+    "Player059: 문상으로도 됨?"
+   ],
+   "msg": "Player060: 계좌이체만 될걸"
+  },
+  {
+   "prev": [
+    "Player062: 좌표 불러줘",
+    "Player061: -1240 64 3381"
+   ],
+   "msg": "Player062: ㅇㅋ 가는중"
+  },
+  {
+   "prev": [
+    "Player063: 집 어떻게 가",
+    "Player064: /home 치면 돼"
+   ],
+   "msg": "Player063: /sethome 은 뭐야"
+  },
+  {
+   "prev": [
+    "Player065: 인사 좀 해봐",
+    "Player066: dkssudgktpdy"
+   ],
+   "msg": "Player065: 한영키 ㅋㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player067: 곡괭이 줘서 고마워",
+    "Player001: rkatkgkqslek 아 한영"
+   ],
+   "msg": "Player067: ㅋㅋ 뭐라는거야"
+  },
+  {
+   "prev": [
+    "Player069: 어디야 지금",
+    "Player068: 네더"
+   ],
+   "msg": "Player069: djeldi 아 오타 네더 어디"
+  },
+  {
+   "prev": [
+    "Player040: 잼민이 또 왔네 ㅋㅋ",
+    "Player045: 저 중학생인데요"
+   ],
+   "msg": "Player040: 농담이야 어서와"
+  },
+  {
+   "prev": [
+    "Player011: 방금 뭐야 한방에 죽음",
+    "Player042: 날카 5 도끼"
+   ],
+   "msg": "Player011: ㅁㅊ 개사기템이네"
+  },
+  {
+   "prev": [
+    "Player043: 엔더드래곤 잡으러 갈사람",
+    "Player044: 나임",
+    "Player047: 나도 침대 챙겨감"
+   ],
+   "msg": "Player043: ㄱㄱ 3분뒤 출발"
+  },
+  {
+   "prev": [
+    "Player046: 서버 렉 걸림?",
+    "Player048: 나도 걸림"
+   ],
+   "msg": "Player046: 아 ㅅㅂ 렉 때문에 떨어짐"
+  },
+  {
+   "prev": [
+    "Player049: 주민 거래 뭐가 좋아",
+    "Player050: 사서가 최고"
+   ],
+   "msg": "Player049: 수선 책 나올때까지 돌려야겠네"
+  },
+  {
+   "prev": [
+    "Player051: 아까 그 사람 욕 엄청 하더라",
+    "Player009: 뭐라고 했는데요"
+   ],
+   "msg": "Player051: 패드립 쳤음 운영자한테 말함"
+  },
+  {
+   "prev": [
+    "Player052: 이 회로 왜 안돼",
+    "Player055: 리피터 방향 반대임"
+   ],
+   "msg": "Player052: 아 나 바보네 ㄳ"
+  },
+  {
+   "prev": [
+    "Player053: 네더라이트 풀셋 완성",
+    "Player054: 와 ㅊㅋ",
+    "Player056: 미쳤다 며칠 걸림"
+   ],
+   "msg": "Player053: 일주일 ㅈㄴ 힘들었음"
+  },
+  {
+   "prev": [
+    "Player058: 야 니 진짜 죽인다 가만있어",
+    "Player057: ㅋㅋ 와봐 방패 들었음"
+   ],
+   "msg": "Player058: 3초 뒤 돌격"
+  },
+  {
+   "prev": [
+    "Player059: 겉날개 타다 벽에 박음",
+    "Player060: ㅋㅋㅋㅋ 운동에너지"
+   ],
+   "msg": "Player059: 좆됐다 템 다 날림"
+  },
+  {
+   "prev": [
+    "Player062: 캐시 얼마 충전했어",
+    "Player061: 3만원"
+   ],
+   "msg": "Player062: 헐 부자네 나 5천원"
+  },
+  {
+   "prev": [
+    "Player063: 밥 먹고 올게",
+    "Player064: ㅇㅇ 맛점"
+   ],
+   "msg": "Player063: qkqajrrhdha 아 한영 밥먹고옴"
+  },
+  {
+   "prev": [
+    "Player065: 수박 농장 완성",
+    "Player066: 자동이야?"
+   ],
+   "msg": "Player065: ㅇㅇ 피스톤 자동 구경와"
+  },
+  {
+   "prev": [
+    "Player067: 새끼 고양이 길들였다",
+    "Player001: 무슨 색"
+   ],
+   "msg": "Player067: 검은색 새끼 고양이 귀엽지"
+  },
+  {
+   "prev": [
+    "Player069: 그 영상 봤어?",
+    "Player068: 뭔 영상"
+   ],
+   "msg": "Player069: 마크 유튜버 욕하는 클립 화제던데"
+  },
+  {
+   "prev": [
+    "Player040: 나 또 떨어져 죽음",
+    "Player045: 물양동이 쓰세요"
+   ],
+   "msg": "Player040: 아 나 진짜 개못하네 ㅠ"
+  },
+  {
+   "prev": [
+    "Player011: 니 아까 도망갔지",
+    "Player042: 체력 반칸이었음"
+   ],
+   "msg": "Player011: 쫄보 ㅋㅋ 다음엔 끝까지 해"
+  },
+  {
+   "prev": [
+    "Player043: 잠만",
+    "Player044: 왜?"
+   ],
+   "msg": "Player043: wkatlaks 아 잠시만 엄마 부름"
+  },
+  {
+   "prev": [
+    "Player047: 위치 보내줘",
+    "Player046: 512 70 -2048"
+   ],
+   "msg": "Player047: 멀다 ㅈㄴ 걸리겠네"
+  },
+  {
+   "prev": [
+    "Player048: 이 몹 뭐야 처음봄",
+    "Player049: 워든임 도망쳐"
+   ],
+   "msg": "Player048: 헐 ㅁㅊㅁㅊ 소리 개무서워"
+  },
+  {
+   "prev": [
+    "Player050: 누가 내 문 열어놨어",
+    "Player051: ㅈㅅ 내가"
+   ],
+   "msg": "Player050: 괜찮아 담부턴 닫아줘"
+  },
+  {
+   "prev": [
+    "Player009: 이거 드릴게요",
+    "Player052: 헐 다이아 검?",
+    "Player009: 네 남는거예요"
+   ],
+   "msg": "Player052: ㄱㅅㄱㅅ 잘쓸게"
+  },
+  {
+   "prev": [
+    "Player055: 니네 팀 졌네 ㅋㅋ",
+    "Player053: 한명 튕겼어"
+   ],
+   "msg": "Player055: 핑계 ㄴㄴ 허접들"
+  },
+  {
+   "prev": [
+    "Player054: 아 진짜 스켈레톤 짜증나",
+    "Player056: 방패 들어"
+   ],
+   "msg": "Player054: 병신같은 스켈 에임 뭐냐"
+  },
+  {
+   "prev": [
+    "Player058: 내 닉이 왜 감자냐고?",
+    "Player057: ㅇㅇ 궁금"
+   ],
+   "msg": "Player058: 감자 좋아해서 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player059: 발광 오징어 어디서 나옴",
+    "Player060: 지하 호수"
+   ],
+   "msg": "Player059: ㄳ 먹물 필요했음"
+  },
+  {
+   "prev": [
+    "Player062: 걔 채팅 정지 먹었대",
+    "Player061: 왜?"
+   ],
+   "msg": "Player062: 엄마 욕 했다던데 스샷 돌더라"
+  },
+  {
+   "prev": [
+    "Player063: 야 일어나 밤이야",
+    "Player064: 나 침대 없음"
+   ],
+   "msg": "Player063: 그럼 자지 말고 몹이나 잡아"
+  },
+  {
+   "prev": [
+    "Player065: 뭐해",
+    "Player066: anjgo 아 한영"
+   ],
+   "msg": "Player065: ㅋㅋ 나도 방금 그럼"
+  },
+  {
+   "prev": [
+    "Player067: 길막하지 말고 비켜 ㅋㅋ",
+    "Player001: 통행료 다이아 1개"
+   ],
+   "msg": "Player067: 꺼져 ㅋㅋㅋ 밀어버린다"
+  },
+  {
+   "prev": [
+    "Player069: 이번 이벤트 보상 뭐야",
+    "Player068: 칭호랑 열쇠"
+   ],
+   "msg": "Player069: 열쇠 개꿀이네"
+  },
+  {
+   "prev": [
+    "Player040: 그 책 인챈 뭐 붙었어",
+    "Player045: 보호 4요"
+   ],
+   "msg": "Player040: ㅁㅊ 한번에? 운 좋네"
+  },
+  {
+   "prev": [
+    "Player011: 결투 신청함",
+    "Player042: 받음",
+    "Player011: 오늘 니 머리 딴다 ㅋㅋ"
+   ],
+   "msg": "Player042: 죽을 준비나 해라"
+  },
+  {
+   "prev": [
+    "Player043: 나 진짜 건축 고자임",
+    "Player044: ㅋㅋ 네모집"
+   ],
+   "msg": "Player043: 흙집이 최고지 뭐"
+  },
+  {
+   "prev": [
+    "Player047: 우리집 개 새끼 낳았어",
+    "Player046: 헐 몇마리"
+   ],
+   "msg": "Player047: 다섯마리 사진 디코에 올림"
+  },
+  {
+   "prev": [
+    "Player048: 신호기 범위 얼마야",
+    "Player049: 4단이면 50칸"
+   ],
+   "msg": "Player048: ㅇㅋ 철블럭 더 모아야겠다"
+  },
+  {
+   "prev": [
+    "Player050: 누가 ㅗ 이모티콘 동상 지음 ㅋㅋ",
+    "Player051: 스폰 옆에?"
+   ],
+   "msg": "Player050: ㅇㅇ 운영자가 치우겠지"
+  },
+  {
+   "prev": [
+    "Player009: 좋은 아침이에요",
+    "Player052: ㅎㅇ"
+   ],
+   "msg": "Player055: ㅎㅇㅎㅇ 일찍 왔네"
+  },
+  {
+   "prev": [
+    "Player053: 니 방금 채팅 뭐임",
+    "Player054: 고양이가 키보드 밟음"
+   ],
+   "msg": "Player053: ㅋㅋㅋ asdfjkl 이게 고양이냐"
+  },
+  {
+   "prev": [
+    "Player056: 가디언 농장 효율 어때",
+    "Player058: 시간당 프리즈머린 3상자"
+   ],
+   "msg": "Player056: 개쩐다 나도 지어야지"
+  },
+  {
+   "prev": [
+    "Player057: 엔더 진주 어디서 구해",
+    "Player059: 엔더맨 잡거나 성직자 거래"
+   ],
+   "msg": "Player057: ㄱㅅ 성직자 찾으러감"
+  },
+  {
+   "prev": [
+    "Player060: 야 닥쳐봐 ㅋㅋ 스포하지마",
+    "Player062: 엔딩 크레딧 길다 정도만"
+   ],
+   "msg": "Player060: 그것도 스포야 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player061: 시발점이 어디야 이 레일",
+    "Player063: 스폰 역",
+    "Player061: 종점은?"
+   ],
+   "msg": "Player063: 네더 허브"
+  },
+  {
+   "prev": [
+    "Player064: 보지 못한 바이옴 발견",
+    "Player065: 뭔데"
+   ],
+   "msg": "Player064: 벚꽃숲 처음 봄 개이쁨"
+  },
+  {
+   "prev": [
+    "Player066: 나 방금 운영자한테 혼남",
+    "Player067: 왜?"
+   ],
+   "msg": "Player066: 도배해서 ㅋㅋ 내 잘못"
+  },
+  {
+   "prev": [
+    "Player001: 집 가자",
+    "Player069: wlq rkwk? 뭐라는거"
+   ],
+   "msg": "Player001: 한영 안바꿈 집 가자고 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player068: 미안 실수로 침",
+    "Player040: ㄱㅊ"
+   ],
+   "msg": "Player068: aldks 진짜 미안"
+  },
+  {
+   "prev": [
+    "Player045: 혹시 양털 파시는 분",
+    "Player011: 무슨 색",
+    "Player045: 흰색 두세트요"
+   ],
+   "msg": "Player011: ㅇㅋ 상점으로 와"
+  },
+  {
+   "prev": [
+    "Player042: 니 방금 나 쳤냐",
+    "Player043: ㅈㅅ 좀비 치려다가"
+   ],
+   "msg": "Player042: ㅋㅋ ㄱㅊ 조심해"
+  },
+  {
+   "prev": [
+    "Player044: 아 배고파 죽겠다",
+    "Player047: 스테이크 줄까"
+   ],
+   "msg": "Player044: ㄱㅅ 살았다"
+  },
+  {
+   "prev": [
+    "Player046: 이 서버 욕 필터 있어?",
+    "Player048: 심한 것만 걸린대"
+   ],
+   "msg": "Player046: ㅅㅂ 정도는 괜찮나보네"
+  },
+  {
+   "prev": [
+    "Player049: 보스전 ㄱ?",
+    "Player050: 나 물약 없음",
+    "Player049: 내가 줌 ㄱㄱ"
+   ],
+   "msg": "Player050: ㅇㅋ whgdk 아 좋아"
+  },
+  {
+   "prev": [
+    "Player051: 너 바보냐 ㅋㅋ 그걸 왜 먹어",
+    "Player009: 독감자인줄 몰랐어요"
+   ],
+   "msg": "Player051: ㅋㅋㅋ 우유 마셔"
+  },
+  {
+   "prev": [
+    "Player052: 내 관측기 시계 어때",
+    "Player055: 틱 몇이야"
+   ],
+   "msg": "Player052: 4틱 ㅈㄴ 빠름"
+  },
+  {
+   "prev": [
+    "Player053: 아 네더 요새 못찾겠다",
+    "Player054: 좌표 알려줄까",
+    "Player053: ㅇㅇ 제발"
+   ],
+   "msg": "Player054: 네더 220 70 -415"
+  },
+  {
+   "prev": [
+    "Player056: 죽어라 죽어라 제발",
+    "Player058: 뭐 잡는데"
+   ],
+   "msg": "Player056: 엘더 가디언 피 안닳아"
+  },
+  {
+   "prev": [
+    "Player057: 나 이제 진짜 접는다",
+    "Player059: 왜?"
+   ],
+   "msg": "Player057: 하드코어 월드 죽음 ㅅㅂ"
+  },
+  {
+   "prev": [
+    "Player060: 야 니 스킨 잼민이 같아 ㅋㅋ",
+    "Player062: 니 스킨은 아저씨 같음"
+   ],
+   "msg": "Player060: ㅋㅋㅋ 인정"
+  },
+  {
+   "prev": [
+    "Player061: 철골렘 농장 터짐",
+    "Player063: 왜?"
+   ],
+   "msg": "Player061: 주민이 좀비됨 ㅈ같네 진짜"
+  },
+  {
+   "prev": [
+    "Player064: 섹스턴트가 뭐야",
+    "Player065: 항해 도구 육분의"
+   ],
+   "msg": "Player064: 아 모드 아이템 이름이구나"
+  },
+  {
+   "prev": [
+    "Player066: 수박씨 발아 왜 안해",
+    "Player067: 빛 부족"
+   ],
+   "msg": "Player066: 아 횃불 놔야되네"
+  },
+  {
+   "prev": [
+    "Player001: 길드 이름 추천좀",
+    "Player069: 병아리단"
+   ],
+   "msg": "Player001: ㅋㅋ 귀엽네 그걸로"
+  },
+  {
+   "prev": [
+    "Player068: 방금 누가 좌표 물어봄?",
+    "Player040: 나임"
+   ],
+   "msg": "Player068: 0 64 0 스폰이야"
+  },
+  {
+   "prev": [
+    "Player045: 저 오늘 처음이에요",
+    "Player011: ㅎㅇ 뉴비",
+    "Player042: 환영 스타터킷 받아"
+   ],
+   "msg": "Player045: 감사합니다 ㅠㅠ"
+  },
+  {
+   "prev": [
+    "Player043: 낚시 3시간째",
+    "Player044: 뭐 낚음"
+   ],
+   "msg": "Player043: 안장 2개 ㅈㄴ 짜다"
+  },
+  {
+   "prev": [
+    "Player047: 걔 왜 밴당함",
+    "Player046: 여자애한테 성희롱 채팅 했대"
+   ],
+   "msg": "Player047: 헐 밴 당할만하네"
+  },
+  {
+   "prev": [
+    "Player048: 그만 쫓아와 ㅋㅋㅋ",
+    "Player049: 눈덩이 맞아라"
+   ],
+   "msg": "Player048: 아 꺼져 ㅋㅋㅋ 눈싸움 그만"
+  },
+  {
+   "prev": [
+    "Player050: 이거 얼마에 팔아",
+    "Player051: 다이아 3개",
+    "Player050: 비싸 2개"
+   ],
+   "msg": "Player051: ㅇㅋ 콜"
+  },
+  {
+   "prev": [
+    "Player009: 지도 어떻게 확대해요",
+    "Player052: 제도대에 종이"
+   ],
+   "msg": "Player009: 아 ㄱㅅ합니다"
+  },
+  {
+   "prev": [
+    "Player055: 나 왜 이렇게 못하지",
+    "Player053: 연습하면 됨"
+   ],
+   "msg": "Player055: 손이 병신이야 내 손"
+  },
+  {
+   "prev": [
+    "Player054: 저 좀비 주민 치료할 사람",
+    "Player056: 황금사과 있어?"
+   ],
+   "msg": "Player054: ㅇㅇ 나약 물약만 줘"
+  },
+  {
+   "prev": [
+    "Player058: 방금 번개 맞음",
+    "Player057: ㅋㅋㅋㅋ 확률 뭐냐"
+   ],
+   "msg": "Player058: 미친 서버가 날 싫어해"
+  },
+  {
+   "prev": [
+    "Player059: /tpa 보냈어",
+    "Player060: 수락함"
+   ],
+   "msg": "Player059: ㄳ 바로 옴"
+  },
+  {
+   "prev": [
+    "Player062: 돼지 타고 다니는 사람 누구임",
+    "Player061: 나 ㅋㅋ 당근 낚싯대"
+   ],
+   "msg": "Player062: 개웃기네"
+  },
+  {
+   "prev": [
+    "Player063: 채팅창에 뭐라 친거야",
+    "Player064: Qkffldhk"
+   ],
+   "msg": "Player063: 빨리와 라고 친거지? ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player065: 계좌로 후원하면 바로 들어와?",
+    "Player066: 5분쯤 걸려"
+   ],
+   "msg": "Player065: ㅇㅋ 만원 넣음"
+  },
+  {
+   "prev": [
+    "Player067: 엄마가 밥 먹으래",
+    "Player001: ㅋㅋ 다녀와"
+   ],
+   "msg": "Player067: 10분만 ㅂㅂ"
+  },
+  {
+   "prev": [
+    "Player069: 조개 껍데기 어디서 구해",
+    "Player068: 드라운드 잡아"
+   ],
+   "msg": "Player069: 전달체 만들기 빡세네"
+  },
+  {
+   "prev": [
+    "Player040: 야 닥치고 따라와 ㅋㅋ 깜짝선물",
+    "Player045: 뭔데요"
+   ],
+   "msg": "Player040: 가보면 암"
+  },
+  {
+   "prev": [
+    "Player011: 아까 내가 욕해서 미안",
+    "Player042: ㄱㅊ 나도 흥분함"
+   ],
+   "msg": "Player011: 담엔 말 조심할게"
+  },
+  {
+   "prev": [
+    "Player043: 드라운드 삼지창 안줌",
+    "Player044: 확률 낮아"
+   ],
+   "msg": "Player043: 씨발 100마리 잡았는데"
+  },
+  {
+   "prev": [
+    "Player047: 니가 그 유명한 건축가?",
+    "Player046: 아닌데 ㅋㅋ"
+   ],
+   "msg": "Player047: 닉 비슷해서 ㅈㅅ"
+  },
+  {
+   "prev": [
+    "Player048: 지금 ㄴㄱ 접속중",
+    "Player049: 탭 눌러봐"
+   ],
+   "msg": "Player048: 아 12명 있네"
+  },
+  {
+   "prev": [
+    "Player050: 철 있어?",
+    "Player051: cjf dlTdj? ㅋㅋ 한영"
+   ],
+   "msg": "Player050: 아 ㅋㅋ 철 있냐고"
+  },
+  {
+   "prev": [
+    "Player009: 여우가 제 닭 물어갔어요",
+    "Player052: ㅋㅋㅋ 울타리 쳐"
+   ],
+   "msg": "Player009: 나쁜 여우 새끼들"
+  },
+  {
+   "prev": [
+    "Player055: 니 진짜 죽을래 ㅋㅋ 내 케이크 먹음",
+    "Player053: 맛있더라"
+   ],
+   "msg": "Player055: 투기장 와 결투다"
+  },
+  {
+   "prev": [
+    "Player054: 오늘 접속자 많네",
+    "Player056: 주말이라"
+   ],
+   "msg": "Player054: 대기열 10분 걸림 ㅁㅊ"
+  },
+  {
+   "prev": [
+    "Player058: 화약 구함",
+    "Player057: 몇개"
+   ],
+   "msg": "Player058: 한세트 에메랄드로 삼"
+  },
+  {
+   "prev": [
+    "Player059: 나 방금 운영자 봄",
+    "Player060: 어디서"
+   ],
+   "msg": "Player059: 스폰에서 투명으로 날아다님"
+  },
+  {
+   "prev": [
+    "Player062: 다이아 찾음",
+    "Player061: ekdldk? 뭐야"
+   ],
+   "msg": "Player062: 다이아 한영키 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player063: 이 맵 누가 만들었어",
+    "Player064: 길드장"
+   ],
+   "msg": "Player063: 걸레받이 디테일까지 있네 미쳤다"
+  },
+  {
+   "prev": [
+    "Player065: 벌레 먹은 돌 캤다",
+    "Player066: ㅋㅋㅋ 좀벌레"
+   ],
+   "msg": "Player065: 아 개짜증나 좀벌레 새끼들"
+  },
+  {
+   "prev": [
+    "Player067: 위더 스켈레톤 머리 드랍 왜케 안나와",
+    "Player001: 약탈 3 써"
+   ],
+   "msg": "Player067: 썼는데도 ㅈㄴ 안나옴"
+  },
+  {
+   "prev": [
+    "Player069: 이 농장 설계자 누구야",
+    "Player068: 나임"
+   ],
+   "msg": "Player069: 천재냐 ㅁㅊ"
+  },
+  {
+   "prev": [
+    "Player040: 저기요 그거 제 상자예요",
+    "Player045: 아 죄송해요 헷갈렸어요"
+   ],
+   "msg": "Player040: ㄱㅊㄱㅊ 표지판 달아둘게요"
+  },
+  {
+   "prev": [
+    "Player011: 너 방금 에임 미쳤다",
+    "Player042: 운이야"
+   ],
+   "msg": "Player011: 핵 아니냐 ㅋㅋ 농담"
+  },
+  {
+   "prev": [
+    "Player043: 야 허접아 방패 써 ㅋㅋ",
+    "Player044: 방패 깨짐"
+   ],
+   "msg": "Player043: 내꺼 하나 줌 받아"
+  },
+  {
+   "prev": [
+    "Player047: 엔더시티 찾았다",
+    "Player046: 겉날개 있어?"
+   ],
+   "msg": "Player047: 배가 없네 ㅅㅂ 다음꺼 찾아야됨"
+  },
+  {
+   "prev": [
+    "Player048: 니 집 불남",
+    "Player049: 헐 왜",
+    "Player048: 번개 맞은듯 물 뿌려줌"
+   ],
+   "msg": "Player049: ㄱㅅㄱㅅ 은인"
+  },
+  {
+   "prev": [
+    "Player050: 수요일에 길드전 함",
+    "Player051: 몇시"
+   ],
+   "msg": "Player050: 저녁 8시 풀템 챙겨"
+  },
+  {
+   "prev": [
+    "Player009: 벌집 어떻게 옮겨요",
+    "Player052: 섬세한 손길"
+   ],
+   "msg": "Player009: 아하 감사해요"
+  },
+  {
+   "prev": [
+    "Player055: 어제 걔가 나보고 장애인이라 함",
+    "Player053: 헐 신고해"
+   ],
+   "msg": "Player055: 스샷 찍어서 디코에 올림"
+  },
+  {
+   "prev": [
+    "Player054: 너 왜 물속에서 살아",
+    "Player056: 전달체 있음"
+   ],
+   "msg": "Player054: 해저기지 개멋있다"
+  },
+  {
+   "prev": [
+    "Player058: 아오 팬텀 꺼져",
+    "Player057: 잠을 자 ㅋㅋ"
+   ],
+   "msg": "Player058: 3일 안잤더니 떼로 옴"
+  },
+  {
+   "prev": [
+    "Player059: 고마워",
+    "Player060: rhakdnj? 뭔말"
+   ],
+   "msg": "Player059: 고마워 라고 ㅋㅋ 한영"
+  },
+  {
+   "prev": [
+    "Player062: 색맹이라 색 구분이 힘들어",
+    "Player061: 양털 색 알려줄게"
+   ],
+   "msg": "Player062: ㄳ 왼쪽이 초록 맞지"
+  },
+  {
+   "prev": [
+    "Player063: 호박 머리 쓰면 엔더맨 안덤빔",
+    "Player064: 진짜?"
+   ],
+   "msg": "Player063: ㅇㅇ 근데 시야 ㅈㄴ 가림"
+  },
+  {
+   "prev": [
+    "Player065: 얘들아 나 휴가 나옴",
+    "Player066: 오 군인",
+    "Player067: ㅊㅋㅊㅋ 얼마나"
+   ],
+   "msg": "Player065: 4박 5일 달린다"
+  },
+  {
+   "prev": [
+    "Player001: 물약 양조법 알려줘",
+    "Player069: 네더 사마귀 먼저"
+   ],
+   "msg": "Player001: 그다음 마그마 크림 ㅇㅋ"
+  },
+  {
+   "prev": [
+    "Player068: 한판 더?",
+    "Player040: ㄴㄴ 손아픔"
+   ],
+   "msg": "Player068: ㅈㅈ 수고"
+  },
+  {
+   "prev": [
+    "Player045: 말 이름 뭐로 할까요",
+    "Player011: 초코",
+    "Player042: 번개 어때"
+   ],
+   "msg": "Player045: 번개 좋네요 ㅎㅎ"
+  },
+  {
+   "prev": [
+    "Player043: 오늘 몹 왜케 쎄",
+    "Player044: 지역 난이도 올라서"
+   ],
+   "msg": "Player043: 좀비가 갑옷 입음 미친"
+  },
+  {
+   "prev": [
+    "Player047: 방금 뭐라고 침?",
+    "Player046: sp"
+   ],
+   "msg": "Player047: 네 라고? ㅋㅋ 한영 좀"
+  },
+  {
+   "prev": [
+    "Player048: 니 죽은 좌표 어디",
+    "Player049: -88 12 640"
+   ],
+   "msg": "Player048: 가서 템 지켜줌"
+  },
+  {
+   "prev": [
+    "Player050: 흑요석 캐는데 왜케 오래걸려",
+    "Player051: 효율 5 써"
+   ],
+   "msg": "Player050: 없어 ㅠ 맨손 수준임"
+  },
+  {
+   "prev": [
+    "Player009: 누가 제 집에 선물 두고 갔어요",
+    "Player052: 나 ㅋㅋ 생일이라며"
+   ],
+   "msg": "Player009: 헐 감동 ㅠㅠ ㄱㅅ해요"
+  },
+  {
+   "prev": [
+    "Player055: 야 꺼져 ㅋㅋ 내 낚시 자리",
+    "Player053: 옆에 앉을게"
+   ],
+   "msg": "Player055: ㅇㅋ 그건 됨"
+  },
+  {
+   "prev": [
+    "Player054: 시체 좀 치워 좀비 고기 냄새남",
+    "Player056: 냄새가 어딨어 ㅋㅋ"
+   ],
+   "msg": "Player054: 기분상 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player058: 자지러지게 웃었네 방금",
+    "Player057: 뭐 봤는데"
+   ],
+   "msg": "Player058: 주민이 용암에 스스로 들어감"
+  },
+  {
+   "prev": [
+    "Player059: 디코 들어와",
+    "Player060: 마이크 없음"
+   ],
+   "msg": "Player059: 듣기만 해 ㄱㄱ"
+  },
+  {
+   "prev": [
+    "Player062: 내가 제일 못하는듯",
+    "Player061: 아냐 잘해"
+   ],
+   "msg": "Player062: ㄴㄴ 나 진짜 쓰레기임 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player063: 채굴 피로 걸림",
+    "Player064: 우유 마셔"
+   ],
+   "msg": "Player063: 엘더 가디언 개새끼 진짜"
+  },
+  {
+   "prev": [
+    "Player065: 창고 정리 도와줄 사람",
+    "Player066: 나 할게"
+   ],
+   "msg": "Player065: ㄱㅅ 분류기 옆으로 와"
+  },
+  {
+   "prev": [
+    "Player067: 나 또 길 잃음",
+    "Player001: 좌표 쳐봐",
+    "Player067: 3021 71 -998"
+   ],
+   "msg": "Player001: ㅈㄴ 멀리 갔네 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player069: 누가 내 욕했어?",
+    "Player068: 아무도 안함"
+   ],
+   "msg": "Player069: 아 귀가 간지러워서 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player040: 얘 말투 귀엽다",
+    "Player045: 놀리지 마세요 ㅋㅋ"
+   ],
+   "msg": "Player040: 칭찬이야 칭찬"
+  },
+  {
+   "prev": [
+    "Player011: 니 다음에 만나면 죽인다 ㅋㅋ",
+    "Player042: 풀템 맞추고 와라"
+   ],
+   "msg": "Player011: 기다려 네더라이트 캐는중"
+  },
+  {
+   "prev": [
+    "Player043: 저거 뭔 소리야",
+    "Player044: 가스트"
+   ],
+   "msg": "Player043: 아 깜짝아 ㅅㅂ 울음소리 소름"
+  },
+  {
+   "prev": [
+    "Player047: 방금 채팅 ㅈㅅ 동생이 침",
+    "Player046: ㅋㅋ 뭐라 쳤길래"
+   ],
+   "msg": "Player047: ㅁㄴㅇㄹ 도배함"
+  },
+  {
+   "prev": [
+    "Player048: 랭킹 1위 누구야",
+    "Player049: Player011"
+   ],
+   "msg": "Player048: 킬수 미쳤네 ㅁㅊ"
+  },
+  {
+   "prev": [
+    "Player050: 보지 말고 그냥 따라와 서프라이즈",
+    "Player051: 눈 감으라고? ㅋㅋ"
+   ],
+   "msg": "Player050: f1 눌러"
+  },
+  {
+   "prev": [
+    "Player009: 이 꽃 이름 뭐예요",
+    "Player052: 횃불꽃"
+   ],
+   "msg": "Player009: 스니퍼가 찾은거구나"
+  },
+  {
+   "prev": [
+    "Player055: 야 바보야 거기 용암",
+    "Player053: 헐 ㄱㅅ 살았다"
+   ],
+   "msg": "Player055: 앞 좀 보고 다녀 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player054: 자살 좌표 리스폰 버그 고쳐짐?",
+    "Player056: 패치됐대"
+   ],
+   "msg": "Player054: ㄳ 이제 /kill 안써도 되네"
+  },
+  {
+   "prev": [
+    "Player058: 운영자님 저 사람 핵 써요",
+    "Player057: 리플레이 있어?"
+   ],
+   "msg": "Player058: 네 녹화했어요 디코에 올릴게요"
+  },
+  {
+   "prev": [
+    "Player059: 아 왜 안죽어 이 위더",
+    "Player060: 체력 반 남으면 활 안먹힘"
+   ],
+   "msg": "Player059: 개같은 보스 설계"
+  },
+  {
+   "prev": [
+    "Player062: 니 팀 뭐야",
+    "Player061: 블루"
+   ],
+   "msg": "Player062: 적이네 ㅋㅋ 죽어라"
+  },
+  {
+   "prev": [
+    "Player063: 오늘 병신같이 삽질만 함",
+    "Player064: 왜?"
+   ],
+   "msg": "Player063: 내가 좌표 잘못 적어서 내 탓임"
+  },
+  {
+   "prev": [
+    "Player065: 고아원 퀘스트 어디서 받아",
+    "Player066: 마을 촌장 npc"
+   ],
+   "msg": "Player065: ㄱㅅ 고아원에 빵 배달이네"
+  },
+  {
+   "prev": [
+    "Player067: 쉬는날 뭐함",
+    "Player001: 마크"
+   ],
+   "msg": "Player067: ㅋㅋ 나도 하루종일 광질"
+  },
+  {
+   "prev": [
+    "Player069: 쟤 채팅에 ㄴㄱㅁ 쳤다가 뮤트됨",
+    "Player068: 초성도 잡네"
+   ],
+   "msg": "Player069: ㅇㅇ 조심해야겠다"
+  },
+  {
+   "prev": [
+    "Player040: 한글 채팅 왜 깨져",
+    "Player045: 폰트 문제예요"
+   ],
+   "msg": "Player040: 리소스팩 다시 받아야겠네"
+  },
+  {
+   "prev": [
+    "Player011: gg",
+    "Player042: ㅈㅈ 잘했음"
+   ],
+   "msg": "Player011: 다음엔 내가 이김 ㅂㅂ"
+  },
+  {
+   "prev": [
+    "Player043: 일본인 유저 왔네",
+    "Player044: ㅎㅇ 환영"
+   ],
+   "msg": "Player047: 번역기 쓰면 되니까 같이 놀자"
+  },
+  {
+   "prev": [
+    "Player046: 중국 서버는 핑 어때",
+    "Player048: 200쯤 나와"
+   ],
+   "msg": "Player046: 여기가 훨씬 낫네"
+  },
+  {
+   "prev": [
+    "Player049: 내 실수로 팀 졌다 미안",
+    "Player050: ㄱㅊ 게임인데"
+   ],
+   "msg": "Player049: 내가 좀 등신같이 했어 ㅠ"
+  },
+  {
+   "prev": [
+    "Player051: 요즘 어디서 놀아",
+    "Player009: 버섯섬이요"
+   ],
+   "msg": "Player051: 새끼 무시룸 귀엽지 거기"
+  },
+  {
+   "prev": [
+    "Player052: 야 꺼져 ㅋㅋ 스포금지",
+    "Player055: 엔드 뒤에 뭐 있냐면"
+   ],
+   "msg": "Player052: 닥쳐 ㅋㅋㅋ 귀막음"
+  },
+  {
+   "prev": [
+    "Player053: 시발 깜짝이야",
+    "Player054: 왜?"
+   ],
+   "msg": "Player053: 동굴 소리 나서 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player056: 문상 팔아요 5천원",
+    "Player058: 게임머니로?"
+   ],
+   "msg": "Player056: ㄴㄴ 그냥 캐시 충전하려고 물어본거"
+  },
+  {
+   "prev": [
+    "Player057: 미친놈처럼 캤더니 3세트",
+    "Player059: 뭘?"
+   ],
+   "msg": "Player057: 철 ㅋㅋ 손목 나감"
+  },
+  {
+   "prev": [
+    "Player060: 니 pvp 하면 다 죽이고 다닌다며",
+    "Player062: 소문 과장임 ㅋㅋ"
+   ],
+   "msg": "Player060: 한수 가르쳐줘"
+  },
+  {
+   "prev": [
+    "Player061: 이 돌 이름 뭐였지",
+    "Player063: 섬록암"
+   ],
+   "msg": "Player061: 아 맞다 ㄱㅅ"
+  },
+  {
+   "prev": [
+    "Player064: 십자가 모양으로 지어봄",
+    "Player065: 성당?"
+   ],
+   "msg": "Player064: ㅇㅇ 스테인드글라스도 넣음"
+  },
+  {
+   "prev": [
+    "Player066: 잠깐 나 화장실",
+    "Player067: ㅇㅋ 지켜줄게"
+   ],
+   "msg": "Player066: ㄱㅅ 1분"
+  },
+  {
+   "prev": [
+    "Player001: 이거 버그 아니야?",
+    "Player069: 뭐가"
+   ],
+   "msg": "Player001: 상자 열면 튕김 운영자 불러야겠다"
+  },
+  {
+   "prev": [
+    "Player068: 나 방금 뭐 침? 한영",
+    "Player040: rkxdlgkwk 라고 침"
+   ],
+   "msg": "Player068: 같이하자 였음 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player045: 죽어서 템 다 잃었어요",
+    "Player011: 어디서"
+   ],
+   "msg": "Player045: 엔드요 공허에 떨어졌어요 ㅠ"
+  },
+  {
+   "prev": [
+    "Player042: 아 좆망겜 또 튕김",
+    "Player043: 니 와이파이 문제"
+   ],
+   "msg": "Player042: 인정 공유기 바꿔야됨"
+  },
+  {
+   "prev": [
+    "Player044: 내 동생이 잼민이라 시끄러움",
+    "Player047: 몇살"
+   ],
+   "msg": "Player044: 초3 ㅋㅋ 옆에서 훈수둠"
+  },
+  {
+   "prev": [
+    "Player046: 너 진짜 겁쟁이다 ㅋㅋ",
+    "Player048: 워든은 무서워"
+   ],
+   "msg": "Player046: 인정 나도 무서움"
+  },
+  {
+   "prev": [
+    "Player049: /spawn 쿨타임 몇초야",
+    "Player050: 5초"
+   ],
+   "msg": "Player049: ㅇㅋ ㄱㅅ"
+  },
+  {
+   "prev": [
+    "Player051: 발 닦고 잠이나 자 ㅋㅋ",
+    "Player009: 한판만 더요"
+   ],
+   "msg": "Player051: ㅋㅋ 근성 인정"
+  },
+  {
+   "prev": [
+    "Player052: 이 닉 어떻게 읽어 Player068",
+    "Player055: 민준"
+   ],
+   "msg": "Player052: 아 ㅋㅋ 옛날 감성"
+  },
+  {
+   "prev": [
+    "Player053: 니가 보낸 귓말 뭐야",
+    "Player054: 잘못 보냄 ㅈㅅ"
+   ],
+   "msg": "Player053: ㅋㅋ ㄱㅊ"
+  },
+  {
+   "prev": [
+    "Player056: 자지도 않고 3일째 하는 사람 있대",
+    "Player058: 누구"
+   ],
+   "msg": "Player056: 랭킹 1위 플탐 미쳤음"
+  },
+  {
+   "prev": [
+    "Player057: 아 진짜 엔더맨이 블록 가져감",
+    "Player059: ㅋㅋㅋ 뭐 가져감"
+   ],
+   "msg": "Player057: 내 집 벽 미친놈"
+  },
+  {
+   "prev": [
+    "Player060: 운영자가 욕설 기준 공지함",
+    "Player062: 뭐래"
+   ],
+   "msg": "Player060: 패드립이랑 성희롱은 바로 뮤트래"
+  },
+  {
+   "prev": [
+    "Player061: 야 닭 새끼 왜케 많아",
+    "Player063: 달걀 던짐 ㅋㅋ"
+   ],
+   "msg": "Player061: 렉 걸려 좀 줄여"
+  },
+  {
+   "prev": [
+    "Player064: 너 죽으면 내가 템 먹는다 ㅋㅋ",
+    "Player065: 안죽어 ㅋㅋ"
+   ],
+   "msg": "Player064: 농담 지켜줄게"
+  },
+  {
+   "prev": [
+    "Player066: 쌍검 모드 있었으면",
+    "Player067: 바닐라라 없지"
+   ],
+   "msg": "Player066: 왼손 방패가 최선이네"
+  },
+  {
+   "prev": [
+    "Player001: 오늘 접속 보상 뭐야",
+    "Player069: 철 16개"
+   ],
+   "msg": "Player001: 짜다 ㅅㅂ"
+  },
+  {
+   "prev": [
+    "Player068: 니 진짜 운 없다 ㅋㅋ",
+    "Player040: 인챈 30렙에 내구성 1"
+   ],
+   "msg": "Player068: ㅋㅋㅋㅋ 레전드"
+  },
+  {
+   "prev": [
+    "Player045: 썰매 타는 곳 만들었어요",
+    "Player011: 얼음길?"
+   ],
+   "msg": "Player045: 네 보트로 타요 놀러오세요"
+  },
+  {
+   "prev": [
+    "Player044: 그 플러그인 이름 뭐야",
+    "Player047: 코어프로텍트"
+   ],
+   "msg": "Player044: 아 블록 로그 보는거"
+  },
+  {
+   "prev": [
+    "Player046: 나 내일 시험이라 못옴",
+    "Player048: 화이팅"
+   ],
+   "msg": "Player046: ㄱㅅ 끝나고 봄 ㅂㅂ"
+  },
+  {
+   "prev": [
+    "Player049: 너무 어두워 횃불 줘",
+    "Player050: 받아"
+   ],
+   "msg": "Player049: ㄳ 눈이 병신 될뻔"
+  },
+  {
+   "prev": [
+    "Player051: 내 좌표 어떻게 알았어",
+    "Player009: 지도에 떠요"
+   ],
+   "msg": "Player051: 아 다이나맵 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player052: 야 너 방금 나 죽였지 ㅋㅋ",
+    "Player055: 낙하 데미지인데"
+   ],
+   "msg": "Player052: 니가 밀었잖아 ㅋㅋ 복수한다"
+  },
+  {
+   "prev": [
+    "Player053: 양 색깔 뭐가 제일 희귀해",
+    "Player054: 분홍"
+   ],
+   "msg": "Player053: 방금 봄 ㅁㅊ 대박"
+  },
+  {
+   "prev": [
+    "Player056: 걔가 나한테 ㅂㅅ이라 했음",
+    "Player058: 왜 싸웠어"
+   ],
+   "msg": "Player056: 몰라 그냥 차단함"
+  },
+  {
+   "prev": [
+    "Player057: 이 서버 좋다",
+    "Player059: 렉도 없고"
+   ],
+   "msg": "Player057: ㅇㅈ 20틱 유지됨"
+  },
+  {
+   "prev": [
+    "Player060: 아 망했다 침대 폭발",
+    "Player062: 네더에서 잠? ㅋㅋㅋ"
+   ],
+   "msg": "Player060: 나 진짜 멍청이네"
+  },
+  {
+   "prev": [
+    "Player061: 개새끼 한마리 분양함",
+    "Player063: 늑대 새끼?"
+   ],
+   "msg": "Player061: ㅇㅇ 길들인 늑대 새끼 남음"
+  },
+  {
+   "prev": [
+    "Player064: 니 닉 왜 ㅈㄴ 길어",
+    "Player065: 중복이라 뒤에 붙임"
+   ],
+   "msg": "Player064: ㅋㅋ 줄여서 골렘이라 부름"
+  },
+  {
+   "prev": [
+    "Player066: 여자 스킨 어디서 받아",
+    "Player067: 네임엠씨"
+   ],
+   "msg": "Player066: 동생 줄거 ㄱㅅ"
+  },
+  {
+   "prev": [
+    "Player001: 미쳤다 엔더드래곤 알 얻음",
+    "Player069: 헐 어케"
+   ],
+   "msg": "Player001: 횃불로 떨굼 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player068: 다들 수고",
+    "Player040: ㅅㄱ",
+    "Player045: 안녕히 가세요"
+   ],
+   "msg": "Player068: ㅂㅂ 내일 봄"
+  },
+  {
+   "prev": [
+    "Player011: 아까 팀킬 ㅈㅅ",
+    "Player042: 일부러 아니잖아 ㄱㅊ"
+   ],
+   "msg": "Player011: 담엔 조심함 다이아 하나 줌"
+  },
+  {
+   "prev": [
+    "Player043: 오늘의 교훈",
+    "Player044: 뭔데"
+   ],
+   "msg": "Player043: 바로 밑은 파지 말자 ㅅㅂ"
+  }
+ ]
+}

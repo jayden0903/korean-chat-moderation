@@ -1,0 +1,3167 @@
+{
+ "pairs": [
+  {
+   "msg": "니애미 창녀",
+   "severe_prev": [
+    "Player135: 야 내 상자 왜 털었냐",
+    "Player136: 니가 먼저 우리집 부쉈잖아",
+    "Player135: 증거 있음? 꼬우면 신고해"
+   ],
+   "severe_speaker": "Player136",
+   "normal_prev": [
+    "Player137: 방금 귓말로 뭐라고 왔어요?",
+    "Player057: 그대로 쳐드릴게요",
+    "Player137: 네 그대로 적어주세요"
+   ],
+   "normal_speaker": "Player057"
+  },
+  {
+   "msg": "느금마 창녀임",
+   "severe_prev": [
+    "Player138: 님 pvp 개못함 ㅋㅋ",
+    "Player139: 닥쳐라 진짜",
+    "Player138: 울어? ㅋㅋㅋ"
+   ],
+   "severe_speaker": "Player139",
+   "normal_prev": [
+    "Player140: 스폰 앞 표지판에 뭐라 써있음?",
+    "Player141: 누가 욕 써놨어 읽어줌"
+   ],
+   "normal_speaker": "Player141"
+  },
+  {
+   "msg": "니엄마 없냐",
+   "severe_prev": [
+    "Player142: 내 다이아 내놔 도둑아",
+    "Player143: 주웠으면 내거지 ㅋㅋ",
+    "Player142: 아 진짜 양심 없네"
+   ],
+   "severe_speaker": "Player143",
+   "normal_prev": [
+    "Player141: 걔가 너한테 뭐라 했는데",
+    "Player137: 귓말 온거 그대로 침"
+   ],
+   "normal_speaker": "Player137"
+  },
+  {
+   "msg": "ㄴㄱㅁ",
+   "severe_prev": [
+    "Player135: ㅋㅋ 또 죽었네 허접",
+    "Player144: 너 한번만 더 해봐",
+    "Player135: 허접 허접 ㅋㅋ"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player145: 필터 테스트 중인데 초성도 되나요",
+    "Player146: 패드립 초성 하나 쳐볼게요"
+   ],
+   "normal_speaker": "Player146"
+  },
+  {
+   "msg": "느금 ㅋㅋ",
+   "severe_prev": [
+    "Player144: 아 내 말 죽이지 말라고",
+    "Player147: 꼬우면 접어",
+    "Player144: 인성 뭐냐 진짜"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player148: 아까 채팅 뭐라 올라왔음? 못봄",
+    "Player149: 걔가 딱 이렇게 쳤음"
+   ],
+   "normal_speaker": "Player149"
+  },
+  {
+   "msg": "니애미 뒤짐",
+   "severe_prev": [
+    "Player146: 너 핵쓰지",
+    "Player142: 뭔 개소리야",
+    "Player146: 핵쟁이 신고함 ㅅㄱ"
+   ],
+   "severe_speaker": "Player142",
+   "normal_prev": [
+    "Player139: 책에 뭐라 적혀있는데?",
+    "Player138: 첫장부터 이럼 읽어줄게"
+   ],
+   "normal_speaker": "Player138"
+  },
+  {
+   "msg": "엄마 없는 새끼",
+   "severe_prev": [
+    "Player150: 길 좀 비켜",
+    "Player142: 니가 돌아가",
+    "Player150: 초딩이냐 ㅋㅋ"
+   ],
+   "severe_speaker": "Player142",
+   "normal_prev": [
+    "Player151: 상대가 한 말 정확히 알려주세요",
+    "Player144: 토씨 하나 안 틀리고 이거요"
+   ],
+   "normal_speaker": "Player144"
+  },
+  {
+   "msg": "니애비 도망갔냐",
+   "severe_prev": [
+    "Player152: 니 집 개못생김 ㅋㅋ",
+    "Player153: 니 얼굴보단 나음",
+    "Player152: 흙집 사는 주제에"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player001: 디코 신고에 뭐라 적을거임?",
+    "Player140: 걔가 한 말 그대로 적을거임"
+   ],
+   "normal_speaker": "Player140"
+  },
+  {
+   "msg": "느그 엄마 걸레",
+   "severe_prev": [
+    "Player154: 거래 사기쳤지 너",
+    "Player155: 줬잖아 뭔소리",
+    "Player154: 반밖에 안줬잖아 사기꾼"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player156: 그 모루로 이름 바꾼 검 뭐였음",
+    "Player157: 검 이름이 이거였어 진짜로"
+   ],
+   "normal_speaker": "Player157"
+  },
+  {
+   "msg": "ㄴㅇㅁ ㅊㄴ",
+   "severe_prev": [
+    "Player158: 야 내 농장 밟지마",
+    "Player149: 실수임",
+    "Player158: 실수는 무슨 일부러잖아 ㅡㅡ"
+   ],
+   "severe_speaker": "Player149",
+   "normal_prev": [
+    "Player159: 걔가 초성으로 뭐라 했는데?",
+    "Player147: 초성 그대로 쳐줄게 봐봐"
+   ],
+   "normal_speaker": "Player147"
+  },
+  {
+   "msg": "니 엄마 몸 팔지",
+   "severe_prev": [
+    "Player150: 님 템 다 내가 먹음 ㅋㅋ",
+    "Player155: 내놔라 좋은 말 할때",
+    "Player150: 싫은데?"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player144: 신고 내용 확인할게요 뭐라 했죠",
+    "Player156: 저한테 이렇게 말했어요"
+   ],
+   "normal_speaker": "Player156"
+  },
+  {
+   "msg": "애미 뒤진 놈",
+   "severe_prev": [
+    "Player160: 니네 팀 다 허접이네",
+    "Player095: 1대1 뜨자 그럼",
+    "Player160: 싫어 ㅋㅋ 쫄?"
+   ],
+   "severe_speaker": "Player095",
+   "normal_prev": [
+    "Player137: 방금 뭐라 귓말 왔길래 놀람?",
+    "Player147: 봐봐 이렇게 옴"
+   ],
+   "normal_speaker": "Player147"
+  },
+  {
+   "msg": "니애미 장례식 언제냐",
+   "severe_prev": [
+    "Player159: 아 왜 자꾸 따라와",
+    "Player149: 내 맘인데",
+    "Player159: 스토커냐 소름"
+   ],
+   "severe_speaker": "Player149",
+   "normal_prev": [
+    "Player159: 표지판 뭐라고 써있어 안보여",
+    "Player095: 읽어준다 욕임 주의"
+   ],
+   "normal_speaker": "Player095"
+  },
+  {
+   "msg": "느금마 안부 좀",
+   "severe_prev": [
+    "Player149: 용암 니가 부었지",
+    "Player154: ㅋㅋ 증거 있냐",
+    "Player149: 코프 찍으면 다 나와"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player158: 어제 걔 뮤트 왜 먹음?",
+    "Player161: 이렇게 쳐서 먹었대"
+   ],
+   "normal_speaker": "Player161"
+  },
+  {
+   "msg": "니미 씨발",
+   "severe_prev": [
+    "Player143: 그 자리 내가 먼저 맡음",
+    "Player162: 표지판도 없더만",
+    "Player143: 있었거든 니가 부숨"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player158: 귓말 내용 복사 안되면 쳐주세요",
+    "Player147: 넵 이렇게 왔어요"
+   ],
+   "normal_speaker": "Player147"
+  },
+  {
+   "msg": "엄창 까라",
+   "severe_prev": [
+    "Player160: 너 방금 나 쳤지",
+    "Player159: 안쳤는데",
+    "Player160: 체력 깎인거 봤거든 거짓말"
+   ],
+   "severe_speaker": "Player159",
+   "normal_prev": [
+    "Player135: 걔가 뭐라고 했길래 차단함?",
+    "Player163: 이 말 듣고 바로 차단"
+   ],
+   "normal_speaker": "Player163"
+  },
+  {
+   "msg": "애비 없는 티 내네",
+   "severe_prev": [
+    "Player157: 초보한테 왜 그럼",
+    "Player141: 니 알바임?",
+    "Player157: 인성 쓰레기네"
+   ],
+   "severe_speaker": "Player141",
+   "normal_prev": [
+    "Player158: 책 제목이 뭐라고?",
+    "Player151: 제목부터 이래 그대로 읽음"
+   ],
+   "normal_speaker": "Player151"
+  },
+  {
+   "msg": "니 부모가 그렇게 가르쳤냐 고아새끼",
+   "severe_prev": [
+    "Player158: 내 소 왜 다 죽였어",
+    "Player155: 배고파서",
+    "Player158: 미쳤냐 번식중이었는데"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player152: 스샷 없으면 내용이라도요",
+    "Player057: 기억나는대로 그대로 적어요"
+   ],
+   "normal_speaker": "Player057"
+  },
+  {
+   "msg": "니앰 ㅋㅋ",
+   "severe_prev": [
+    "Player164: 님 건축 유치원생임?",
+    "Player154: 니가 뭔 상관",
+    "Player164: 눈갱이라 그럼 ㅋㅋ"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player158: 걔 마지막에 뭐라 치고 나감?",
+    "Player165: 이거 치고 나갔음"
+   ],
+   "normal_speaker": "Player165"
+  },
+  {
+   "msg": "느1금마",
+   "severe_prev": [
+    "Player154: 야 포션 던지지마",
+    "Player162: 싫음 ㅋ",
+    "Player154: 진짜 죽는다 너"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player142: 숫자 섞은것도 걸리는지 봅시다",
+    "Player166: 예시 하나 쳐볼게요"
+   ],
+   "normal_speaker": "Player166"
+  },
+  {
+   "msg": "니 엄 마 창 녀",
+   "severe_prev": [
+    "Player159: 엔더진주 훔쳐갔지",
+    "Player161: 안훔침",
+    "Player159: 너밖에 없었어 내놔"
+   ],
+   "severe_speaker": "Player161",
+   "normal_prev": [
+    "Player158: 띄어쓰면 필터 안걸린대 진짜?",
+    "Player154: 걔가 이렇게 쳤는데 안걸렸음"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "sl애미",
+   "severe_prev": [
+    "Player137: 님 왜 내 집에 물 부음",
+    "Player157: 불 끄려고 ㅋㅋ",
+    "Player137: 불 안났는데 뭔소리"
+   ],
+   "severe_speaker": "Player157",
+   "normal_prev": [
+    "Player138: 영어 섞어서 뭐라 했다며",
+    "Player154: ㅇㅇ 정확히 이렇게 쳤음"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "니애미 오늘 얼마냐",
+   "severe_prev": [
+    "Player148: 엘리트라 빌려간거 줘",
+    "Player157: 잃어버림",
+    "Player148: 장난해? 내놔 빨리"
+   ],
+   "severe_speaker": "Player157",
+   "normal_prev": [
+    "Player154: 문제된 채팅 그대로 올려주세요",
+    "Player159: 불쾌한데 그대로 올립니다"
+   ],
+   "normal_speaker": "Player159"
+  },
+  {
+   "msg": "부모 둘 다 뒤져라",
+   "severe_prev": [
+    "Player135: 왜 내 주민 죽임",
+    "Player151: 좀비가 죽임",
+    "Player135: 니가 문 열어놨잖아"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player139: 걔가 뭐랬는데 울어",
+    "Player137: 이렇게 말했어 나한테"
+   ],
+   "normal_speaker": "Player137"
+  },
+  {
+   "msg": "니 가족 다 죽어라",
+   "severe_prev": [
+    "Player167: tpa 좀 그만 보내",
+    "Player154: 받으면 되잖아",
+    "Player167: 싫다고 몇번 말함"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player137: 그 지도 이름 뭐라 돼있었어?",
+    "Player164: 누가 지도 이름을 이렇게 지음"
+   ],
+   "normal_speaker": "Player164"
+  },
+  {
+   "msg": "개새끼야 꺼져",
+   "severe_prev": [
+    "Player164: 여기 내 땅인데요",
+    "Player168: 먼저 온 사람이 임자지",
+    "Player164: 표지판 안보임? 눈 없냐"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player138: 뭐라고 욕했는지 적어주세요",
+    "Player143: 그대로 적을게요"
+   ],
+   "normal_speaker": "Player143"
+  },
+  {
+   "msg": "씨발년아",
+   "severe_prev": [
+    "Player057: 아 진짜 못한다 ㅋㅋ",
+    "Player169: 조용히 해라",
+    "Player057: 팩트인데 왜 화냄"
+   ],
+   "severe_speaker": "Player169",
+   "normal_prev": [
+    "Player168: 귓말로 뭐라 왔어?",
+    "Player158: 이거 한줄 옴 캡쳐함"
+   ],
+   "normal_speaker": "Player158"
+  },
+  {
+   "msg": "씨발놈아 죽어",
+   "severe_prev": [
+    "Player057: 니가 내 개 죽였지",
+    "Player168: 실수였다고",
+    "Player057: 실수 좋아하네 일부러잖아"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player145: 걔 채팅 뭐였음 스크롤 넘어감",
+    "Player151: 다시 쳐줌 이거였어"
+   ],
+   "normal_speaker": "Player151"
+  },
+  {
+   "msg": "좆같은 새끼",
+   "severe_prev": [
+    "Player166: 님 템 주워감 ㄳ",
+    "Player161: 야 그거 내거야 내놔",
+    "Player166: 죽은 니 잘못 ㅋㅋ"
+   ],
+   "severe_speaker": "Player161",
+   "normal_prev": [
+    "Player001: 필터 테스트용 단어 불러주세요",
+    "Player150: 리스트 세번째거 칩니다"
+   ],
+   "normal_speaker": "Player150"
+  },
+  {
+   "msg": "병신새끼 꺼져",
+   "severe_prev": [
+    "Player163: 파티 왜 강퇴함",
+    "Player159: 못해서",
+    "Player163: 니가 더 못하거든"
+   ],
+   "severe_speaker": "Player159",
+   "normal_prev": [
+    "Player159: 표지판 뭐라 적혀있는데 웃음?",
+    "Player138: 웃긴게 아니라 욕임 읽어줄게"
+   ],
+   "normal_speaker": "Player138"
+  },
+  {
+   "msg": "ㅆㅂㄴㅇ",
+   "severe_prev": [
+    "Player137: 내 철 누가 가져감",
+    "Player144: 나 ㅋ",
+    "Player137: 돌려놔 진짜 좋게 말할때"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player170: 초성으로 쳐도 처벌됨?",
+    "Player163: 어제 걔는 이거 치고 뮤트됨"
+   ],
+   "normal_speaker": "Player163"
+  },
+  {
+   "msg": "ㅅㅂ새끼야",
+   "severe_prev": [
+    "Player161: 야 화살 쏘지마",
+    "Player163: 연습중인데",
+    "Player161: 나한테 쏘잖아 ㅡㅡ"
+   ],
+   "severe_speaker": "Player163",
+   "normal_prev": [
+    "Player163: 귓말 원문 알려줄래요",
+    "Player150: 원문 그대로요"
+   ],
+   "normal_speaker": "Player150"
+  },
+  {
+   "msg": "개같은 년",
+   "severe_prev": [
+    "Player169: 왜 내 침대 부숨",
+    "Player166: 길 막아서",
+    "Player169: 스폰 날아갔잖아 책임져"
+   ],
+   "severe_speaker": "Player166",
+   "normal_prev": [
+    "Player156: 걔가 너 뭐라 불렀다고?",
+    "Player144: 나보고 이랬어"
+   ],
+   "normal_speaker": "Player144"
+  },
+  {
+   "msg": "씹새끼야",
+   "severe_prev": [
+    "Player145: 님 그냥 접으셈 ㅋㅋ",
+    "Player141: 니가 접어",
+    "Player145: 허접은 접는게 답"
+   ],
+   "severe_speaker": "Player141",
+   "normal_prev": [
+    "Player150: 책 2페이지 뭐라고 써있음",
+    "Player157: 2페이지는 이거 한줄"
+   ],
+   "normal_speaker": "Player157"
+  },
+  {
+   "msg": "좆까 병신아",
+   "severe_prev": [
+    "Player166: 사과하면 봐줌",
+    "Player168: 내가 왜",
+    "Player166: 니가 먼저 쳤잖아"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player138: 신고하게 뭐라 했는지 알려줘",
+    "Player136: 걔가 친거 그대로임"
+   ],
+   "normal_speaker": "Player136"
+  },
+  {
+   "msg": "이 미친 개새끼가",
+   "severe_prev": [
+    "Player154: ㅋㅋ 니 집 tnt 터뜨림",
+    "Player156: 뭐? 진짜임?",
+    "Player154: 가보셈 ㅋㅋㅋ"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player149: 정확한 문장이 필요해요",
+    "Player137: 이 문장 그대로였어요"
+   ],
+   "normal_speaker": "Player137"
+  },
+  {
+   "msg": "시1발놈아",
+   "severe_prev": [
+    "Player141: 낚시터 내 자리임",
+    "Player142: 이름 써놨냐",
+    "Player141: 써놨는데 눈 삐었냐"
+   ],
+   "severe_speaker": "Player142",
+   "normal_prev": [
+    "Player147: 걔 숫자 넣어서 욕했다며",
+    "Player163: ㅇㅇ 이렇게 쳤음"
+   ],
+   "normal_speaker": "Player163"
+  },
+  {
+   "msg": "ㄱㅅㄲ",
+   "severe_prev": [
+    "Player148: 님 방금 스틸했죠",
+    "Player144: 내가 막타 쳤는데",
+    "Player148: 내가 다 깎아놨잖아 양심"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player156: ㄱㅅㄲ가 무슨 뜻임?",
+    "Player001: 나도 몰라 걔가 이렇게만 보냄"
+   ],
+   "normal_speaker": "Player001"
+  },
+  {
+   "msg": "개색기야 나가",
+   "severe_prev": [
+    "Player140: 왜 자꾸 문 열어놔",
+    "Player162: 귀찮아서",
+    "Player140: 크리퍼 들어왔잖아 너땜에"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player155: 길드챗에 뭐라 쳤길래 난리남",
+    "Player156: 걔가 길드장한테 이럼"
+   ],
+   "normal_speaker": "Player156"
+  },
+  {
+   "msg": "씨@발 새끼",
+   "severe_prev": [
+    "Player139: 님 버그 쓰죠",
+    "Player149: 안쓰는데요",
+    "Player139: 다 봤음 신고각"
+   ],
+   "severe_speaker": "Player149",
+   "normal_prev": [
+    "Player158: 특수문자 섞은 예시 있나요",
+    "Player137: 어제 본거 그대로 쳐봄"
+   ],
+   "normal_speaker": "Player137"
+  },
+  {
+   "msg": "닥쳐 씨발년",
+   "severe_prev": [
+    "Player165: 아 시끄러 좀",
+    "Player170: 니가 더 시끄러움",
+    "Player165: 초딩 목소리 들린다 ㅋㅋ"
+   ],
+   "severe_speaker": "Player170",
+   "normal_prev": [
+    "Player145: 방금 귓 뭐임 표정 왜그래",
+    "Player166: 모르는 애가 이렇게 보냄"
+   ],
+   "normal_speaker": "Player166"
+  },
+  {
+   "msg": "뒤져라 개새끼",
+   "severe_prev": [
+    "Player142: 내 곡괭이 내놔",
+    "Player146: 빌려준거 아님?",
+    "Player142: 10분만이라 했지 도둑놈아"
+   ],
+   "severe_speaker": "Player146",
+   "normal_prev": [
+    "Player157: 표지판 4줄 다 읽어줘",
+    "Player161: 4줄 합치면 이거임"
+   ],
+   "normal_speaker": "Player161"
+  },
+  {
+   "msg": "c발놈아",
+   "severe_prev": [
+    "Player148: 니 스킨 개웃김 ㅋㅋ",
+    "Player168: 닥쳐",
+    "Player148: 찐따 스킨 ㅋㅋㅋ"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player159: 영어로 바꿔 친 욕 뭐였지",
+    "Player136: c로 시작했어 이렇게"
+   ],
+   "normal_speaker": "Player136"
+  },
+  {
+   "msg": "tlqkf 새끼야",
+   "severe_prev": [
+    "Player001: 왜 내 상점 앞에 흙 쌓음",
+    "Player138: 심심해서",
+    "Player001: 치워 당장"
+   ],
+   "severe_speaker": "Player138",
+   "normal_prev": [
+    "Player162: 영타로 욕한거 뭐였음?",
+    "Player153: 영타 그대로 치면 이거"
+   ],
+   "normal_speaker": "Player153"
+  },
+  {
+   "msg": "ㅈ같은 년아",
+   "severe_prev": [
+    "Player159: 너랑 거래 안함",
+    "Player155: 누가 한대?",
+    "Player159: 사기꾼 소문 다 났음"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player143: 어떤 표현이었는지 말해줘요",
+    "Player138: 좀 심한데 그대로 씁니다"
+   ],
+   "normal_speaker": "Player138"
+  },
+  {
+   "msg": "쓰레기 새끼 자살해",
+   "severe_prev": [
+    "Player169: 니가 내 집 불질렀지",
+    "Player164: 번개 맞은거임",
+    "Player169: 부싯돌 들고 있던거 봄"
+   ],
+   "severe_speaker": "Player164",
+   "normal_prev": [
+    "Player153: 뭐라 했길래 영정까지 감?",
+    "Player168: 공지 보니까 이거 쳤대"
+   ],
+   "normal_speaker": "Player168"
+  },
+  {
+   "msg": "나가 뒤져 씹년아",
+   "severe_prev": [
+    "Player148: 내 땅에 왜 건축함",
+    "Player167: 빈땅인줄",
+    "Player148: 울타리 쳐놨잖아 눈깔 장식?"
+   ],
+   "severe_speaker": "Player167",
+   "normal_prev": [
+    "Player157: 걔가 한 말 그대로 쳐봐",
+    "Player141: 진짜 그대로 친다"
+   ],
+   "normal_speaker": "Player141"
+  },
+  {
+   "msg": "좆밥 새끼 ㅋㅋ",
+   "severe_prev": [
+    "Player143: 1대1 ㄱ?",
+    "Player152: ㄱㄱ",
+    "Player143: 아 렉걸림 무효 다시해"
+   ],
+   "severe_speaker": "Player152",
+   "normal_prev": [
+    "Player168: 결투 끝나고 뭐라 귓 왔어?",
+    "Player136: 지고나서 이거 보내더라"
+   ],
+   "normal_speaker": "Player136"
+  },
+  {
+   "msg": "개년아 입 닥쳐",
+   "severe_prev": [
+    "Player142: 그렇게 하는거 아닌데",
+    "Player165: 알아서 함",
+    "Player142: 훈수 듣기 싫으면 잘하든가"
+   ],
+   "severe_speaker": "Player165",
+   "normal_prev": [
+    "Player170: 채팅 로그 찾게 문장 주세요",
+    "Player153: 이 문장으로 검색하면 돼요"
+   ],
+   "normal_speaker": "Player153"
+  },
+  {
+   "msg": "씨발 좆같은 놈",
+   "severe_prev": [
+    "Player169: 님 죽은 자리 템 내가 치움",
+    "Player151: 어디다 치움",
+    "Player169: 용암 ㅋㅋ"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player155: 책 마지막장 뭐래",
+    "Player171: 마지막장 욕 한줄임"
+   ],
+   "normal_speaker": "Player171"
+  },
+  {
+   "msg": "병신같은 년 꺼져",
+   "severe_prev": [
+    "Player165: 우리 마을 오지마",
+    "Player144: 니네 마을이냐",
+    "Player165: 내가 촌장인데?"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player142: 아까 그 귓말 뭐였는데",
+    "Player135: 읽어줄게 기분 나쁨"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "쌍놈새끼",
+   "severe_prev": [
+    "Player157: 경험치 농장 줄서",
+    "Player144: 급함",
+    "Player157: 새치기하네 인성"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player145: 표지판 글씨 뭐임 한자임?",
+    "Player149: 한글임 이렇게 써있음"
+   ],
+   "normal_speaker": "Player149"
+  },
+  {
+   "msg": "ㅈㄲ ㅂㅅㅅㄲ",
+   "severe_prev": [
+    "Player157: 사과 안하냐",
+    "Player165: 뭘 잘못했는데",
+    "Player157: 내 말 죽였잖아"
+   ],
+   "severe_speaker": "Player165",
+   "normal_prev": [
+    "Player162: 초성 암호같은거 뭐였음",
+    "Player150: 걔가 보낸건 이거"
+   ],
+   "normal_speaker": "Player150"
+  },
+  {
+   "msg": "개쓰레기 년",
+   "severe_prev": [
+    "Player171: 네더 차원문 니가 부쉈지",
+    "Player155: 아닌데",
+    "Player171: 너 지나가고 꺼졌어"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player146: 제보하신 발언이 뭐였죠",
+    "Player139: 제가 들은 말은 이거예요"
+   ],
+   "normal_speaker": "Player139"
+  },
+  {
+   "msg": "니 면상 좆같음",
+   "severe_prev": [
+    "Player170: 스킨 바꿨네 더 못생김",
+    "Player159: 니가 뭔데 평가질",
+    "Player170: 눈이 있으니까 ㅋㅋ"
+   ],
+   "severe_speaker": "Player159",
+   "normal_prev": [
+    "Player136: 걔가 니 스킨 보고 뭐랬어",
+    "Player160: 귓으로 이럼 어이없어"
+   ],
+   "normal_speaker": "Player160"
+  },
+  {
+   "msg": "죽여버린다 씨발놈",
+   "severe_prev": [
+    "Player139: 니 집 좌표 다 뿌림",
+    "Player167: 지워라 당장",
+    "Player139: 싫은데 ㅋㅋ 이미 퍼짐"
+   ],
+   "severe_speaker": "Player167",
+   "normal_prev": [
+    "Player150: 협박 귓말 왔다며 뭐래",
+    "Player157: 이렇게 왔음 무서워"
+   ],
+   "normal_speaker": "Player157"
+  },
+  {
+   "msg": "장애인 새끼",
+   "severe_prev": [
+    "Player169: 아 또 떨어져 죽었네 ㅋㅋ",
+    "Player151: 니가 밀었잖아",
+    "Player169: 안밀었는데? 혼자 발 헛디딤"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player146: 어떤 말 들었는지 적어줘요",
+    "Player166: 저한테 한 말 그대로요"
+   ],
+   "normal_speaker": "Player166"
+  },
+  {
+   "msg": "장애냐 병신아",
+   "severe_prev": [
+    "Player145: 레드스톤 이게 안됨?",
+    "Player147: 보채지 마",
+    "Player145: 유튜브 보고도 못하네"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player136: 걔가 너 뭐라 깠는데",
+    "Player165: 그대로 옮기면 이거"
+   ],
+   "normal_speaker": "Player165"
+  },
+  {
+   "msg": "ㅈㅇㅇ 새끼",
+   "severe_prev": [
+    "Player166: 님 말귀 못알아먹음?",
+    "Player143: 니 설명이 이상함",
+    "Player166: 초딩도 알아듣겠다"
+   ],
+   "severe_speaker": "Player143",
+   "normal_prev": [
+    "Player149: ㅈㅇㅇ가 뭔 뜻이야 걔가 침",
+    "Player139: 장애인 초성임 이렇게 보냄"
+   ],
+   "normal_speaker": "Player139"
+  },
+  {
+   "msg": "정신병자 새끼",
+   "severe_prev": [
+    "Player138: 왜 혼자 중얼거림 ㅋㅋ",
+    "Player157: 신경꺼",
+    "Player138: 무서워 병원가봐"
+   ],
+   "severe_speaker": "Player157",
+   "normal_prev": [
+    "Player001: 표지판에 누구 욕 써놨다며",
+    "Player138: 가봤더니 이렇게 써있음"
+   ],
+   "normal_speaker": "Player138"
+  },
+  {
+   "msg": "애자새끼 ㅋㅋ",
+   "severe_prev": [
+    "Player166: 점프맵 30번째 죽음 ㅋㅋ",
+    "Player169: 세지마라",
+    "Player166: 31번 ㅋㅋㅋ"
+   ],
+   "severe_speaker": "Player169",
+   "normal_prev": [
+    "Player141: 걔 뮤트 사유 뭐래?",
+    "Player057: 사유에 이 채팅 찍혀있음"
+   ],
+   "normal_speaker": "Player057"
+  },
+  {
+   "msg": "지체장애 새끼",
+   "severe_prev": [
+    "Player150: 손이 느린거임 머리가 느린거임",
+    "Player140: 둘 다 니보단 빠름",
+    "Player150: 방금 진 놈이?"
+   ],
+   "severe_speaker": "Player140",
+   "normal_prev": [
+    "Player163: 신고 접수용으로 원문 주세요",
+    "Player149: 원문입니다"
+   ],
+   "normal_speaker": "Player149"
+  },
+  {
+   "msg": "저능아 새끼야",
+   "severe_prev": [
+    "Player149: 조합법도 모름?",
+    "Player168: 물어볼수도 있지",
+    "Player149: 검색을 해 좀"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player138: 책에 누가 낙서함 뭐래?",
+    "Player158: 낙서 내용 이거임"
+   ],
+   "normal_speaker": "Player158"
+  },
+  {
+   "msg": "자폐아냐 너",
+   "severe_prev": [
+    "Player169: 왜 대답을 안함",
+    "Player154: 바쁨",
+    "Player169: 사람이 말하면 봐야지"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player136: 귓말 뭐라 왔길래 정색함",
+    "Player140: 모르는 사람이 이렇게 보냄"
+   ],
+   "normal_speaker": "Player140"
+  },
+  {
+   "msg": "장1애인 새끼",
+   "severe_prev": [
+    "Player140: 팀킬 그만해",
+    "Player144: 니가 앞에 있었잖아",
+    "Player140: 눈이 없냐 조준을 해"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player170: 숫자 끼운것도 테스트 해보죠",
+    "Player143: 그럼 이걸로 쳐볼게요"
+   ],
+   "normal_speaker": "Player143"
+  },
+  {
+   "msg": "다운증후군 새끼",
+   "severe_prev": [
+    "Player160: 니 캐릭 표정 왜그럼 ㅋㅋ",
+    "Player165: 스킨인데",
+    "Player160: 본인이랑 닮아서 고름?"
+   ],
+   "severe_speaker": "Player165",
+   "normal_prev": [
+    "Player148: 걔가 뭐라 했는지 다시 말해봐",
+    "Player171: 다시 쳐줌 이 말 했어"
+   ],
+   "normal_speaker": "Player171"
+  },
+  {
+   "msg": "정신지체 년",
+   "severe_prev": [
+    "Player164: 길 또 잃었냐",
+    "Player156: 좌표 헷갈림",
+    "Player164: 몇번째임 답답해"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player168: 스샷 글씨 깨져서 안보임",
+    "Player146: 내가 쳐줄게 이렇게 써있어"
+   ],
+   "normal_speaker": "Player146"
+  },
+  {
+   "msg": "찐따 장애새끼",
+   "severe_prev": [
+    "Player161: 친구 없어서 혼자 함?",
+    "Player137: 솔플이 편함",
+    "Player161: 아싸 ㅋㅋㅋ"
+   ],
+   "severe_speaker": "Player137",
+   "normal_prev": [
+    "Player148: 걔가 디코에서 뭐라 했다고?",
+    "Player143: 디코에 쓴거 그대로 옮김"
+   ],
+   "normal_speaker": "Player143"
+  },
+  {
+   "msg": "귀머거리 새끼냐",
+   "severe_prev": [
+    "Player159: 오지 말라고 했지",
+    "Player165: 못들음",
+    "Player159: 세번 말했는데?"
+   ],
+   "severe_speaker": "Player165",
+   "normal_prev": [
+    "Player153: 아까 싸움 뭐라고 시작됨?",
+    "Player095: 걔가 먼저 이렇게 침"
+   ],
+   "normal_speaker": "Player095"
+  },
+  {
+   "msg": "벙어리냐 병신아",
+   "severe_prev": [
+    "Player138: 대답 좀",
+    "Player156: ...",
+    "Player138: 채팅 칠줄 모름?"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player155: 처음 들은 욕이 뭐였나요",
+    "Player138: 처음엔 이거였어요"
+   ],
+   "normal_speaker": "Player138"
+  },
+  {
+   "msg": "틀딱 장애인",
+   "severe_prev": [
+    "Player136: 요즘 애들은 예의가 없네",
+    "Player155: 꼰대냐",
+    "Player136: 몇살인데 반말임"
+   ],
+   "severe_speaker": "Player155",
+   "normal_prev": [
+    "Player135: 표지판 뭐라 써있길래 신고함",
+    "Player148: 이름 옆에 이렇게 써놨더라"
+   ],
+   "normal_speaker": "Player148"
+  },
+  {
+   "msg": "짱깨 새끼 꺼져",
+   "severe_prev": [
+    "Player136: 니하오 ㅋㅋ",
+    "Player147: 뭐임",
+    "Player136: 한국말 서툰데 어디서 옴?"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player168: 차별 발언이 있었다고요? 원문은",
+    "Player001: 저한테 이렇게 쳤어요"
+   ],
+   "normal_speaker": "Player001"
+  },
+  {
+   "msg": "쪽바리 새끼",
+   "severe_prev": [
+    "Player149: 닉이 일본어네",
+    "Player156: 그냥 지은건데",
+    "Player149: 일본인임? ㅋㅋ"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player136: 걔가 너 닉 보고 뭐랬음",
+    "Player156: 귓으로 이럼"
+   ],
+   "normal_speaker": "Player156"
+  },
+  {
+   "msg": "깜둥이 새끼",
+   "severe_prev": [
+    "Player165: 스킨 피부 왜 그 색임",
+    "Player138: 내 맘",
+    "Player165: 이상한데 ㅋㅋ"
+   ],
+   "severe_speaker": "Player138",
+   "normal_prev": [
+    "Player163: 표지판 뭐라고 돼있어",
+    "Player160: 내 집 앞에 이렇게 써놓고 감"
+   ],
+   "normal_speaker": "Player160"
+  },
+  {
+   "msg": "조선족 새끼 나가",
+   "severe_prev": [
+    "Player162: 말투가 좀 이상한데",
+    "Player149: 뭐가",
+    "Player162: 번역기 돌림? 어디 사람임"
+   ],
+   "severe_speaker": "Player149",
+   "normal_prev": [
+    "Player152: 걔가 뭐라해서 싸운거임",
+    "Player159: 처음에 걔가 이럼"
+   ],
+   "normal_speaker": "Player159"
+  },
+  {
+   "msg": "짱1깨 놈",
+   "severe_prev": [
+    "Player146: 핵 쓰는거 보니 그쪽 사람이네",
+    "Player147: 핵 안씀",
+    "Player146: ㅋㅋ 딱 봐도임"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player151: 필터 우회 사례 있으면 알려줘요",
+    "Player140: 어제 이렇게 치는거 봤어요"
+   ],
+   "normal_speaker": "Player140"
+  },
+  {
+   "msg": "똥남아 새끼",
+   "severe_prev": [
+    "Player165: 핑 왜이렇게 높음 어디 삼",
+    "Player152: 해외임",
+    "Player165: 어느 나라 ㅋㅋ"
+   ],
+   "severe_speaker": "Player152",
+   "normal_prev": [
+    "Player163: 책에 뭐라 써서 줬다고?",
+    "Player168: 선물이래서 열었더니 이거"
+   ],
+   "normal_speaker": "Player168"
+  },
+  {
+   "msg": "흑형 새끼 원숭이",
+   "severe_prev": [
+    "Player141: 영어로 치지마 못알아들음",
+    "Player171: 한국어 배우는 중",
+    "Player141: 외국인이네 ㅋㅋ"
+   ],
+   "severe_speaker": "Player171",
+   "normal_prev": [
+    "Player145: 귓말 온거 뭐야 보여줘",
+    "Player147: 쳐줄게 진짜 심함"
+   ],
+   "normal_speaker": "Player147"
+  },
+  {
+   "msg": "ㅉㄲ 새끼",
+   "severe_prev": [
+    "Player149: 님 중국인이죠",
+    "Player156: 아닌데",
+    "Player149: 말투 보면 앎 ㅋㅋ"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player169: ㅉㄲ가 뭐임? 걔가 보냄",
+    "Player171: 나한테도 이렇게 보냈어"
+   ],
+   "normal_speaker": "Player171"
+  },
+  {
+   "msg": "니 나라로 꺼져 짱깨야",
+   "severe_prev": [
+    "Player140: 여긴 한국서버임",
+    "Player147: 알아",
+    "Player140: 근데 왜 옴 한국인 아니잖아"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player161: 그 유저가 한 말 적어주세요",
+    "Player157: 이렇게 말했습니다"
+   ],
+   "normal_speaker": "Player157"
+  },
+  {
+   "msg": "쪽발이 년",
+   "severe_prev": [
+    "Player158: 일본 애니 스킨이네 씹덕",
+    "Player163: 좋아하는걸 어쩌라고",
+    "Player158: 일본 가서 살아 ㅋㅋ"
+   ],
+   "severe_speaker": "Player163",
+   "normal_prev": [
+    "Player095: 어제 뭐라 했길래 벤당함?",
+    "Player142: 공지에 이 말 했다고 나옴"
+   ],
+   "normal_speaker": "Player142"
+  },
+  {
+   "msg": "베트콩 새끼",
+   "severe_prev": [
+    "Player147: 엄마 어디 사람이라고?",
+    "Player160: 그걸 왜 물어",
+    "Player147: 궁금해서 ㅋㅋ 말해봐"
+   ],
+   "severe_speaker": "Player160",
+   "normal_prev": [
+    "Player164: 걔가 뭐라 했는데 그렇게 화남",
+    "Player150: 우리 엄마 얘기하다 이럼"
+   ],
+   "normal_speaker": "Player150"
+  },
+  {
+   "msg": "튀기 새끼",
+   "severe_prev": [
+    "Player170: 혼혈이라며",
+    "Player162: 누가 그래",
+    "Player170: 디코에서 니가 말했잖아"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player095: 표지판 글 뭐야 뜻 모르겠음",
+    "Player145: 나쁜 말임 이렇게 써있어"
+   ],
+   "normal_speaker": "Player145"
+  },
+  {
+   "msg": "탈북자 새끼 꺼져",
+   "severe_prev": [
+    "Player136: 사투리 쓰네 어디 출신임",
+    "Player138: 강원도",
+    "Player136: 구라 ㅋㅋ 북쪽 아님?"
+   ],
+   "severe_speaker": "Player138",
+   "normal_prev": [
+    "Player137: 신고서에 쓸 발언 알려주세요",
+    "Player168: 발언은 이거 하나예요"
+   ],
+   "normal_speaker": "Player168"
+  },
+  {
+   "msg": "다문화 새끼",
+   "severe_prev": [
+    "Player136: 니 이름 본명 한국이름 아니지",
+    "Player171: 맞는데",
+    "Player136: 얼굴은 아니던데 ㅋㅋ"
+   ],
+   "severe_speaker": "Player171",
+   "normal_prev": [
+    "Player138: 걔 귓 뭐였어 말해봐",
+    "Player164: 이 한마디 하고 차단하더라"
+   ],
+   "normal_speaker": "Player164"
+  },
+  {
+   "msg": "개슬람 새끼",
+   "severe_prev": [
+    "Player142: 돼지 안잡는다며 ㅋㅋ",
+    "Player144: 안먹어서 그런데",
+    "Player142: 왜 안먹음 종교?"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player161: 뭐라 했는데 다들 화냄",
+    "Player156: 스크롤 올려봐 이렇게 침"
+   ],
+   "normal_speaker": "Player156"
+  },
+  {
+   "msg": "원숭이 새끼야",
+   "severe_prev": [
+    "Player001: 한국어 못하면 나가",
+    "Player164: 조금 해요",
+    "Player001: 조금이면 하지 마 ㅋㅋ"
+   ],
+   "severe_speaker": "Player164",
+   "normal_prev": [
+    "Player144: 외국인 유저한테 뭐랬다고?",
+    "Player152: 걔한테 이렇게 말하더라"
+   ],
+   "normal_speaker": "Player152"
+  },
+  {
+   "msg": "가슴 사진 보내봐",
+   "severe_prev": [
+    "Player156: 저 여자 맞는데요",
+    "Player139: 오 진짜? 몇살",
+    "Player156: 그건 왜요"
+   ],
+   "severe_speaker": "Player139",
+   "normal_prev": [
+    "Player159: 귓말 내용 그대로 알려줄래요",
+    "Player160: 네 이렇게 왔어요"
+   ],
+   "normal_speaker": "Player160"
+  },
+  {
+   "msg": "너 몇 컵이냐",
+   "severe_prev": [
+    "Player146: 디코 목소리 들었지 여자 맞음",
+    "Player142: ㅇㅇ 인정",
+    "Player146: 이제 그만 물어봐"
+   ],
+   "severe_speaker": "Player142",
+   "normal_prev": [
+    "Player001: 걔가 귓으로 뭐 물어봤는데",
+    "Player155: 이거 물어봄 소름"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "벗은 사진 보내",
+   "severe_prev": [
+    "Player140: 다이아 좀 주세요",
+    "Player095: 공짜는 없지",
+    "Player140: 뭐 드리면 돼요?"
+   ],
+   "severe_speaker": "Player095",
+   "normal_prev": [
+    "Player153: 뭐라 왔길래 바로 신고함",
+    "Player150: 이렇게 왔어 미친거 같음"
+   ],
+   "normal_speaker": "Player150"
+  },
+  {
+   "msg": "ㄱㅅ 사진 ㄱ",
+   "severe_prev": [
+    "Player141: 저 여중생인데 왜요",
+    "Player166: 진짜? 인증해봐",
+    "Player141: 어떻게 인증해요"
+   ],
+   "severe_speaker": "Player166",
+   "normal_prev": [
+    "Player149: 초성으로 뭐 보냈다며",
+    "Player001: 이거 보냄 뜻 알고 소름돋음"
+   ],
+   "normal_speaker": "Player001"
+  },
+  {
+   "msg": "나랑 한번 하자",
+   "severe_prev": [
+    "Player153: 자꾸 귓말 하지 마세요",
+    "Player159: 왜 친해지고 싶은데",
+    "Player153: 싫다고요"
+   ],
+   "severe_speaker": "Player159",
+   "normal_prev": [
+    "Player146: 어떤 메시지를 받았죠",
+    "Player148: 이 메시지요"
+   ],
+   "normal_speaker": "Player148"
+  },
+  {
+   "msg": "따먹고 싶다 너",
+   "severe_prev": [
+    "Player170: 스킨 예쁘죠 제가 만듦",
+    "Player150: 본인도 예쁨?",
+    "Player170: 그런건 왜 물어요"
+   ],
+   "severe_speaker": "Player150",
+   "normal_prev": [
+    "Player146: 책에 뭐라고 써서 던졌는데",
+    "Player142: 펼쳐보니까 이 한줄"
+   ],
+   "normal_speaker": "Player142"
+  },
+  {
+   "msg": "니 몸 팔아라",
+   "severe_prev": [
+    "Player160: 돈 없어서 거지임 ㅠ",
+    "Player162: 여자면 방법 있지",
+    "Player160: 무슨 방법이요"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player143: 걔가 뭐라고 했길래 나감?",
+    "Player151: 누나한테 이렇게 말함"
+   ],
+   "normal_speaker": "Player151"
+  },
+  {
+   "msg": "섹스하자 ㅋㅋ",
+   "severe_prev": [
+    "Player142: 왜 자꾸 침대 옆에 눕냐",
+    "Player158: 같이 자자",
+    "Player142: 저리 가 좀"
+   ],
+   "severe_speaker": "Player158",
+   "normal_prev": [
+    "Player149: 표지판 뭐라 써놨어 침대 옆에",
+    "Player145: 누가 이렇게 써놓고 감"
+   ],
+   "normal_speaker": "Player145"
+  },
+  {
+   "msg": "ㅅㅅ 할래",
+   "severe_prev": [
+    "Player137: 저 그만 따라오세요",
+    "Player153: 디코 아이디 줘봐",
+    "Player137: 안줘요"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player146: 귓말 뭐래 표정 썩음",
+    "Player154: 초성으로 이럼"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "팬티 색깔 뭐냐",
+   "severe_prev": [
+    "Player155: 네 여자예요 근데요?",
+    "Player156: 그럼 하나만 물어봄",
+    "Player155: 뭔데요"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player159: 성희롱 신고 맞죠 뭐라 했나요",
+    "Player136: 이렇게 물어봤어요"
+   ],
+   "normal_speaker": "Player136"
+  },
+  {
+   "msg": "다리 사진 보내봐",
+   "severe_prev": [
+    "Player154: 중2인데요",
+    "Player153: 오 디코 있음?",
+    "Player154: 있긴 한데 왜요"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player170: 디코 개인메시지 뭐 왔어",
+    "Player162: 그 사람이 이렇게 보냄"
+   ],
+   "normal_speaker": "Player162"
+  },
+  {
+   "msg": "보지년아",
+   "severe_prev": [
+    "Player157: 꺼지라고 변태야",
+    "Player150: 여자가 어디서 욕질",
+    "Player157: 신고할거임"
+   ],
+   "severe_speaker": "Player150",
+   "normal_prev": [
+    "Player144: 걔가 마지막에 뭐라 욕함",
+    "Player155: 차단하니까 전챗에 이럼"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "창녀 같은 년",
+   "severe_prev": [
+    "Player095: 그 오빠랑만 놀거임",
+    "Player057: 남자한테 템 받아먹고 다니네",
+    "Player095: 무슨 상관임"
+   ],
+   "severe_speaker": "Player057",
+   "normal_prev": [
+    "Player143: 뭐라 했는데 싸움남?",
+    "Player169: 걔가 언니한테 이렇게 말함"
+   ],
+   "normal_speaker": "Player169"
+  },
+  {
+   "msg": "걸레년 얼마냐",
+   "severe_prev": [
+    "Player138: 저 남친 있어요 귓 그만",
+    "Player153: 서버 남자 다 꼬시고 다니더만",
+    "Player138: 뭔 소리예요"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player165: 들은 표현 정확히 부탁해요",
+    "Player057: 죄송한데 그대로 씁니다"
+   ],
+   "normal_speaker": "Player057"
+  },
+  {
+   "msg": "너 처녀냐",
+   "severe_prev": [
+    "Player095: 고2인데요",
+    "Player151: 오 누나네 질문 하나",
+    "Player095: 이상한거면 차단함"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player158: 귓으로 뭐 물어봤길래 차단",
+    "Player152: 다짜고짜 이거 물어봄"
+   ],
+   "normal_speaker": "Player152"
+  },
+  {
+   "msg": "가1슴 만지고 싶다",
+   "severe_prev": [
+    "Player142: 제 스킨 왜 자꾸 때려요",
+    "Player164: 귀여워서 ㅋㅋ",
+    "Player142: 하지 마세요 진짜"
+   ],
+   "severe_speaker": "Player164",
+   "normal_prev": [
+    "Player144: 필터 뚫고 뭐라 쳤음?",
+    "Player135: 숫자 넣어서 이렇게 침"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "강간해버린다",
+   "severe_prev": [
+    "Player169: 변태 신고했음 ㅅㄱ",
+    "Player147: 신고? 니 집 좌표 앎",
+    "Player169: 어쩌라고 차단함"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player155: 협박 뭐라 받았어 말해봐",
+    "Player164: 이 말 듣고 손 떨림"
+   ],
+   "normal_speaker": "Player164"
+  },
+  {
+   "msg": "야한 사진 보내봐",
+   "severe_prev": [
+    "Player171: 엘리트라 주면 뭐든 함 ㅋㅋ",
+    "Player153: 진짜 뭐든?",
+    "Player171: 게임에서요"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player168: 받은 귓말 써주세요",
+    "Player139: 엘리트라 준다면서 이럼"
+   ],
+   "normal_speaker": "Player139"
+  },
+  {
+   "msg": "잠지 보여줘",
+   "severe_prev": [
+    "Player171: 저 초5 남자인데요",
+    "Player147: 귀엽네 디코 캠 됨?",
+    "Player171: 캠은 왜요"
+   ],
+   "severe_speaker": "Player147",
+   "normal_prev": [
+    "Player145: 그 아저씨가 뭐랬어",
+    "Player147: 동생한테 이렇게 말했대"
+   ],
+   "normal_speaker": "Player147"
+  },
+  {
+   "msg": "니 여동생 따먹음",
+   "severe_prev": [
+    "Player155: 내 동생 건들지 마라",
+    "Player158: 왜 귀엽던데",
+    "Player155: 경고했다"
+   ],
+   "severe_speaker": "Player158",
+   "normal_prev": [
+    "Player139: 걔가 뭐라 해서 빡친거야",
+    "Player001: 내 동생 얘기하면서 이럼"
+   ],
+   "normal_speaker": "Player001"
+  },
+  {
+   "msg": "디코로 벗방 해봐",
+   "severe_prev": [
+    "Player168: 길드 들어가고 싶어요",
+    "Player170: 여자면 조건 있음",
+    "Player168: 무슨 조건요"
+   ],
+   "severe_speaker": "Player170",
+   "normal_prev": [
+    "Player157: 길드 가입조건이 뭐라고?",
+    "Player135: 길드장이 귓으로 이럼 미침"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "몸매 사진 좀 줘봐",
+   "severe_prev": [
+    "Player166: 얼굴 인증은 싫어요",
+    "Player167: 그럼 다른거",
+    "Player166: 뭐요"
+   ],
+   "severe_speaker": "Player167",
+   "normal_prev": [
+    "Player144: 요구한 내용이 뭐였나요",
+    "Player164: 이렇게 요구했어요"
+   ],
+   "normal_speaker": "Player164"
+  },
+  {
+   "msg": "빨통 크냐",
+   "severe_prev": [
+    "Player166: 여자 맞다고요 그만 물어",
+    "Player148: ㅇㅋ 그럼 진짜 궁금한거",
+    "Player166: 또 뭐"
+   ],
+   "severe_speaker": "Player148",
+   "normal_prev": [
+    "Player170: 뭔 질문 받았길래 욕함",
+    "Player145: 처음 보는 놈이 이렇게 물어봄"
+   ],
+   "normal_speaker": "Player145"
+  },
+  {
+   "msg": "ㅂㅅ",
+   "severe_prev": [
+    "Player140: 내 집 왜 부쉈냐고",
+    "Player143: 니 엄마한테 물어봐 ㅋㅋ",
+    "Player140: 뭐? 다시 말해봐"
+   ],
+   "severe_speaker": "Player143",
+   "normal_prev": [
+    "Player169: 너 왜 용암에 뛰어듦 ㅋㅋ",
+    "Player143: 물인줄 알고 뛰었음 나 진짜"
+   ],
+   "normal_speaker": "Player143"
+  },
+  {
+   "msg": "병1신 ㅋㅋ",
+   "severe_prev": [
+    "Player140: 제발 내 템 돌려줘 부탁이야",
+    "Player156: 싫어 울어봐 ㅋㅋ",
+    "Player140: 진짜 운다 엄마한테 말할거야"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player135: 크리퍼가 지 혼자 터짐",
+    "Player151: 왜 터져 ㅋㅋ",
+    "Player135: 고양이 보고 도망가다 벽에 낌"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "미친년",
+   "severe_prev": [
+    "Player155: 그만 따라오세요 무서워요",
+    "Player138: 여자가 튕기긴",
+    "Player155: 신고할게요 진짜"
+   ],
+   "severe_speaker": "Player138",
+   "normal_prev": [
+    "Player143: 마녀가 포션 또 던짐",
+    "Player135: 아 독 걸렸어 체력 반칸"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "걸레네 ㅋㅋ",
+   "severe_prev": [
+    "Player164: 오빠들이 템 줘서 풀셋 맞춤",
+    "Player163: 남자마다 붙어먹네",
+    "Player164: 말 좀 가려서 해요"
+   ],
+   "severe_speaker": "Player163",
+   "normal_prev": [
+    "Player057: 니 갑옷 내구도 3 남음 ㅋㅋ",
+    "Player154: 내 흉갑 봐봐 누더기임"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "고아냐",
+   "severe_prev": [
+    "Player138: 엄마가 게임 그만하래",
+    "Player153: 엄마 있긴 함? 구라치지마",
+    "Player138: 무슨 말을 그렇게 해"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player164: 새끼 늑대 혼자 돌아다님",
+    "Player161: 근처에 어미가 없네"
+   ],
+   "normal_speaker": "Player161"
+  },
+  {
+   "msg": "병신 ㅋㅋㅋ",
+   "severe_prev": [
+    "Player141: 나 말 더듬는거 놀리지마",
+    "Player157: 디코에서 어어어 하던 애 ㅋㅋ",
+    "Player141: 하지 말라고 진짜"
+   ],
+   "severe_speaker": "Player157",
+   "normal_prev": [
+    "Player095: 좀비가 햇빛에 타면서 옴",
+    "Player146: 투구도 없이 낮에 나오네"
+   ],
+   "normal_speaker": "Player146"
+  },
+  {
+   "msg": "미친놈",
+   "severe_prev": [
+    "Player143: 사과해 우리 엄마 욕한거",
+    "Player151: 싫은데 니 엄마 걸레 맞잖아",
+    "Player143: 너 진짜 신고함"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player154: 다이아 9개 용암에 빠뜨림",
+    "Player144: 헐 어쩌다",
+    "Player154: 내가 인벤 정리하다 던짐 나"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "개새끼",
+   "severe_prev": [
+    "Player139: 내 동생한테 왜 그런 귓 보냄",
+    "Player156: 니 동생이 꼬리쳤음",
+    "Player139: 초딩한테 할 소리냐"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player136: 늑대가 새끼 낳았다",
+    "Player153: 오 어디 귀엽네 이름 뭐 짓지"
+   ],
+   "normal_speaker": "Player153"
+  },
+  {
+   "msg": "ㅁㅊㄴ",
+   "severe_prev": [
+    "Player168: 제 좌표 뿌리지 마세요",
+    "Player135: 싫어 니 집 다 털리게 할거임",
+    "Player168: 왜 그러세요 저한테"
+   ],
+   "severe_speaker": "Player135",
+   "normal_prev": [
+    "Player141: 엔더맨이 내 잔디블록 들고 튐",
+    "Player151: 그걸 왜 가져가 ㅋㅋ"
+   ],
+   "normal_speaker": "Player151"
+  },
+  {
+   "msg": "장애인가",
+   "severe_prev": [
+    "Player143: 저 손이 불편해서 느려요",
+    "Player001: 아 진짜였음? 나가 뒤져",
+    "Player143: 너무하시네요"
+   ],
+   "severe_speaker": "Player001",
+   "normal_prev": [
+    "Player151: 주민이 문을 못 열고 계속 박음",
+    "Player155: ai 버그남? 문 앞에서 뱅뱅 돔"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "뒤져라 좀",
+   "severe_prev": [
+    "Player155: 그만 죽여 스폰킬 열번째야",
+    "Player160: 니 애미 불러와 ㅋㅋ",
+    "Player155: 제발 그만해"
+   ],
+   "severe_speaker": "Player160",
+   "normal_prev": [
+    "Player146: 위더 체력 얼마 남음",
+    "Player155: 한줄인데 안죽어 미치겠네"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "죽어 제발",
+   "severe_prev": [
+    "Player001: 왜 저만 괴롭혀요",
+    "Player163: 니 같은건 살 가치 없음",
+    "Player001: 저 진짜 힘들어요"
+   ],
+   "severe_speaker": "Player163",
+   "normal_prev": [
+    "Player155: 가디언 레이저 또 맞음",
+    "Player146: 우유 마셔",
+    "Player155: 엘더 가디언 피 개많네"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "씨발놈",
+   "severe_prev": [
+    "Player152: 니 엄마 암이라며 ㅋㅋ",
+    "Player146: 그걸 왜 꺼내 미쳤냐",
+    "Player152: 디코에 썼잖아 ㅋㅋ 불쌍"
+   ],
+   "severe_speaker": "Player146",
+   "normal_prev": [
+    "Player154: 아 팬텀 또 왔어",
+    "Player166: 잠 좀 자라니까",
+    "Player154: 얘 진짜 끈질기네"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "저능아네",
+   "severe_prev": [
+    "Player163: 저 학습이 느려서 설명 다시요",
+    "Player145: 특수반이냐 ㅋㅋ",
+    "Player163: 그런 말은 좀"
+   ],
+   "severe_speaker": "Player145",
+   "normal_prev": [
+    "Player135: 내 골렘이 물에 빠져서 못나옴",
+    "Player139: 얘는 길찾기가 왜 이럼"
+   ],
+   "normal_speaker": "Player139"
+  },
+  {
+   "msg": "쓰레기 새끼",
+   "severe_prev": [
+    "Player156: 죽은 우리 강아지 이름 왜 놀려",
+    "Player154: 뒤진 개 이름 달고 다니네",
+    "Player156: 진짜 선넘네"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player154: 낚시 3시간 했는데 인챈북 0",
+    "Player151: 뭐 나옴",
+    "Player154: 썩은 살점이랑 새끼 대구만"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "개못하네 병신",
+   "severe_prev": [
+    "Player157: 한손으로 해서 느린거야",
+    "Player151: 팔 하나 없냐 ㅋㅋ",
+    "Player157: 다쳐서 그런건데"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player136: 너 방금 물낙법 실패함?",
+    "Player160: ㅇㅇ 나 양동이 헛침 20칸에서"
+   ],
+   "normal_speaker": "Player160"
+  },
+  {
+   "msg": "찐따 ㅋㅋ",
+   "severe_prev": [
+    "Player158: 학교 얘기 하지마",
+    "Player169: 왕따당한다며 ㅋㅋ 다 퍼뜨림",
+    "Player158: 왜 그러는거야 진짜"
+   ],
+   "severe_speaker": "Player169",
+   "normal_prev": [
+    "Player170: 친구 추가 0명 뭐임",
+    "Player166: 내 친구창 텅 빔 나 아싸네"
+   ],
+   "normal_speaker": "Player166"
+  },
+  {
+   "msg": "좆밥이네",
+   "severe_prev": [
+    "Player154: 니 엄마도 이렇게 못하냐 ㅋㅋ",
+    "Player151: 엄마 얘기 왜 나옴 뒤질래",
+    "Player154: 쫄았냐 덤벼봐"
+   ],
+   "severe_speaker": "Player151",
+   "normal_prev": [
+    "Player168: 엔더드래곤 생각보다 쉽다",
+    "Player159: 침대 4개에 끝남"
+   ],
+   "normal_speaker": "Player159"
+  },
+  {
+   "msg": "엄마 없냐",
+   "severe_prev": [
+    "Player146: 엄마가 와서 잠깐 나감",
+    "Player158: 구라 ㅋㅋ 너 보육원 산다며",
+    "Player146: 누가 그래 아니야"
+   ],
+   "severe_speaker": "Player158",
+   "normal_prev": [
+    "Player154: 새끼 거북이 혼자 바다로 감",
+    "Player146: 알만 낳고 가버렸나봄"
+   ],
+   "normal_speaker": "Player146"
+  },
+  {
+   "msg": "돼지새끼",
+   "severe_prev": [
+    "Player001: 프사 내 얼굴임 놀리지마",
+    "Player141: 살 좀 빼 역겨움",
+    "Player001: 외모 얘기 하지 말라고"
+   ],
+   "severe_speaker": "Player141",
+   "normal_prev": [
+    "Player146: 당근 주니까 번식함",
+    "Player057: 오 태어났다 귀여워"
+   ],
+   "normal_speaker": "Player057"
+  },
+  {
+   "msg": "미친새끼 ㅋㅋ",
+   "severe_prev": [
+    "Player151: 우리 아빠 돌아가신거 알잖아",
+    "Player153: 그래서 애비없이 컸구나",
+    "Player151: 너 사람이냐"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player138: 걔 tnt 대포로 지 집 날림",
+    "Player135: 영상 봤음 본인도 웃더라"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "벗어봐 ㅋㅋ",
+   "severe_prev": [
+    "Player157: 저 중1 여자인데요",
+    "Player139: 디코 캠 켜봐",
+    "Player157: 캠은 왜요"
+   ],
+   "severe_speaker": "Player139",
+   "normal_prev": [
+    "Player159: 내 흉갑 보호4 맞나 모르겠음",
+    "Player143: 갑옷 벗어서 툴팁 보여줘"
+   ],
+   "normal_speaker": "Player143"
+  },
+  {
+   "msg": "꺼져 병신아",
+   "severe_prev": [
+    "Player149: 휠체어 타는게 뭐 어때서",
+    "Player138: 다리 병신이 게임은 하네",
+    "Player149: 말 진짜 심하다"
+   ],
+   "severe_speaker": "Player138",
+   "normal_prev": [
+    "Player171: 좀벌레 또 나옴",
+    "Player137: 돌 캐지마 ㅋㅋ",
+    "Player171: 발밑에서 계속 물어 얘"
+   ],
+   "normal_speaker": "Player171"
+  },
+  {
+   "msg": "ㅄ ㅋㅋ",
+   "severe_prev": [
+    "Player163: 엄마 욕은 하지 말라했지",
+    "Player154: 니 애미 창녀 맞잖아",
+    "Player163: 닥쳐 신고한다"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player138: 너 침대 터뜨림? 네더에서?",
+    "Player155: 잠자려다 폭사함 내가"
+   ],
+   "normal_speaker": "Player155"
+  },
+  {
+   "msg": "걸레 같은 거",
+   "severe_prev": [
+    "Player163: 남친이랑 같이 겜하는건데요",
+    "Player142: 남친 몇명째임 ㅋㅋ",
+    "Player163: 무슨 상관이세요"
+   ],
+   "severe_speaker": "Player142",
+   "normal_prev": [
+    "Player158: 그 가죽바지 왜 아직 입음",
+    "Player154: 내구도 1임 이제 버려야지"
+   ],
+   "normal_speaker": "Player154"
+  },
+  {
+   "msg": "개같은 놈",
+   "severe_prev": [
+    "Player167: 니 누나 사진 봤음 ㅋㅋ 걸레상",
+    "Player153: 누나 건들지 마 죽인다",
+    "Player167: 왜 사실인데"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player142: 길들인 늑대가 내 양 다 물어죽임",
+    "Player151: 묶어놨어야지 ㅋㅋ"
+   ],
+   "normal_speaker": "Player151"
+  },
+  {
+   "msg": "대가리 깨졌냐",
+   "severe_prev": [
+    "Player157: 저 adhd라 집중을 못해요",
+    "Player154: 정신병자가 겜을 왜 함",
+    "Player157: 병 가지고 그러지 마요"
+   ],
+   "severe_speaker": "Player154",
+   "normal_prev": [
+    "Player141: 아이언골렘이 꽃 들고 벽에 박음",
+    "Player142: 혼자 계속 박네 쟤 왜저래"
+   ],
+   "normal_speaker": "Player142"
+  },
+  {
+   "msg": "장애 ㅋㅋ",
+   "severe_prev": [
+    "Player151: 말이 느려서 미안 언어치료 다녀",
+    "Player057: 진짜네 디코 들어보니 병신말투",
+    "Player151: 따라하지마"
+   ],
+   "severe_speaker": "Player057",
+   "normal_prev": [
+    "Player141: 내 보트가 얼음 위에서 혼자 돔",
+    "Player135: 물리엔진 맛갔네 이거"
+   ],
+   "normal_speaker": "Player135"
+  },
+  {
+   "msg": "못생긴 년",
+   "severe_prev": [
+    "Player157: 인증샷 올렸는데 어때요",
+    "Player156: 토나옴 성형해라",
+    "Player157: 왜 그렇게 말해요"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player161: 마녀 스킨 바꼈나",
+    "Player156: 사마귀 달린 코 봐"
+   ],
+   "normal_speaker": "Player156"
+  },
+  {
+   "msg": "더러운 년",
+   "severe_prev": [
+    "Player161: 그 오빠랑은 그냥 친구예요",
+    "Player150: 다 대주고 다닌다며",
+    "Player161: 누가 그런 소문을"
+   ],
+   "severe_speaker": "Player150",
+   "normal_prev": [
+    "Player149: 늪지 오두막에 마녀 있음",
+    "Player095: 가마솥 물도 썩어있네"
+   ],
+   "normal_speaker": "Player095"
+  },
+  {
+   "msg": "좆같은 놈",
+   "severe_prev": [
+    "Player165: 니 동생 장애인이라며 ㅋㅋ",
+    "Player140: 뭐라고 했냐 지금",
+    "Player165: 특수학교 다닌다며 ㅋㅋ"
+   ],
+   "severe_speaker": "Player140",
+   "normal_prev": [
+    "Player165: 약탈자 대장 또 스폰됨",
+    "Player144: 흉조 걸렸네 ㅋㅋ",
+    "Player165: 습격 세번째임 얘 때문에"
+   ],
+   "normal_speaker": "Player165"
+  },
+  {
+   "msg": "바보 병신",
+   "severe_prev": [
+    "Player147: 한글 맞춤법 틀려서 미안 외국살아",
+    "Player144: 한국말도 못하는 잡종",
+    "Player147: 그런 말 하지마"
+   ],
+   "severe_speaker": "Player144",
+   "normal_prev": [
+    "Player162: 표지판에 니 좌표 써놨네 ㅋㅋ",
+    "Player167: 내가 써놓고 내가 까먹음 나"
+   ],
+   "normal_speaker": "Player167"
+  },
+  {
+   "msg": "진짜 병신이네",
+   "severe_prev": [
+    "Player155: 틱이 있어서 채팅 이상하게 쳐져",
+    "Player156: 틱장애 ㅋㅋ 정신병원 가라",
+    "Player155: 놀리지 말아줘"
+   ],
+   "severe_speaker": "Player156",
+   "normal_prev": [
+    "Player095: 주민이 침대 놔두고 밖에서 잠",
+    "Player158: 좀비 오는데 안들어가 쟤"
+   ],
+   "normal_speaker": "Player158"
+  },
+  {
+   "msg": "정신병자네",
+   "severe_prev": [
+    "Player157: 우울증 약 먹는다고 한거 비밀로 해줘",
+    "Player167: 다 퍼뜨림 ㅋㅋ 정신병원 ㄱ",
+    "Player157: 왜 그래 믿었는데"
+   ],
+   "severe_speaker": "Player167",
+   "normal_prev": [
+    "Player145: 벡스 벽 뚫고 계속 옴",
+    "Player146: 소환사부터 잡아",
+    "Player145: 쟤 웃으면서 소환함"
+   ],
+   "normal_speaker": "Player145"
+  },
+  {
+   "msg": "애미 없네",
+   "severe_prev": [
+    "Player158: 엄마 돌아가셔서 아빠랑 살아",
+    "Player153: 그래서 교육을 못받았구나",
+    "Player158: 그 말은 진짜 아니다"
+   ],
+   "severe_speaker": "Player153",
+   "normal_prev": [
+    "Player147: 송아지만 남기고 다 잡았음",
+    "Player168: 새끼 소 혼자 음메거리네"
+   ],
+   "normal_speaker": "Player168"
+  },
+  {
+   "msg": "씹새끼",
+   "severe_prev": [
+    "Player148: 우리 엄마 식당 리뷰 테러한거 너지",
+    "Player163: ㅇㅇ 망해라 거지집안",
+    "Player148: 선 넘었다 진짜"
+   ],
+   "severe_speaker": "Player163",
+   "normal_prev": [
+    "Player153: 인챈트 30렙 쓰고 독날 나옴",
+    "Player057: ㅋㅋㅋ 운 봐",
+    "Player153: 이 인챈트 테이블 진짜"
+   ],
+   "normal_speaker": "Player153"
+  },
+  {
+   "msg": "죽여버린다",
+   "severe_prev": [
+    "Player171: 우리집 주소 어떻게 앎",
+    "Player162: 다 알아 학교도 앎 기다려",
+    "Player171: 무서워 왜 그래"
+   ],
+   "severe_speaker": "Player162",
+   "normal_prev": [
+    "Player170: 저 스켈레톤 기수 니 쫓아옴",
+    "Player148: 거미째로 잡는다 딱 대"
+   ],
+   "normal_speaker": "Player148"
+  },
+  {
+   "msg": "미친 개",
+   "severe_prev": [
+    "Player166: 제 여동생한테 귓 그만 보내요",
+    "Player158: 니 동생 따먹기 전에 닥쳐",
+    "Player166: 경찰에 신고합니다"
+   ],
+   "severe_speaker": "Player158",
+   "normal_prev": [
+    "Player135: 늑대 눈 빨개짐 너 때림?",
+    "Player142: 실수로 쳤더니 물려고 달려옴"
+   ],
+   "normal_speaker": "Player142"
+  },
+  {
+   "msg": "거지새끼",
+   "severe_prev": [
+    "Player159: 우리집 형편 얘기는 하지마",
+    "Player168: 기초수급자 ㅋㅋ 급식충",
+    "Player159: 그런걸로 놀리냐"
+   ],
+   "severe_speaker": "Player168",
+   "normal_prev": [
+    "Player148: 떠돌이 상인 또 왔다",
+    "Player169: 에메랄드 5개에 모래 팔러 옴"
+   ],
+   "normal_speaker": "Player169"
+  },
+  {
+   "msg": "돌대가리 새끼",
+   "severe_prev": [
+    "Player139: 난독증 있어서 공지 잘 못읽어",
+    "Player146: 글도 못읽는 장애새끼였네",
+    "Player139: 그렇게 말하지 마"
+   ],
+   "severe_speaker": "Player146",
+   "normal_prev": [
+    "Player153: 돌 골렘 스킨 팩 받음?",
+    "Player149: 받음 머리가 진짜 돌임 애기 버전"
+   ],
+   "normal_speaker": "Player149"
+  }
+ ],
+ "after_abuse": [
+  {
+   "prev": [
+    "Player171: 니애미 창녀",
+    "Player147: 갑자기 왜 그래"
+   ],
+   "msg": "Player144: 누구 철 남는 사람 있음?"
+  },
+  {
+   "prev": [
+    "Player150: 느금마 뒤짐 ㅋㅋ",
+    "Player150: 대답해봐 고아새끼야"
+   ],
+   "msg": "Player147: 신고함"
+  },
+  {
+   "prev": [
+    "Player135: 씨발년아 꺼져",
+    "Player168: 저한테 하는 말이에요?"
+   ],
+   "msg": "Player168: 왜 그래 갑자기"
+  },
+  {
+   "prev": [
+    "Player153: 장애인 새끼 ㅋㅋ",
+    "Player153: 손가락 병신이냐"
+   ],
+   "msg": "Player160: ㅇㅋ 차단"
+  },
+  {
+   "prev": [
+    "Player164: 개새끼야 뒤져",
+    "Player149: 뭐야 쟤"
+   ],
+   "msg": "Player147: 욕 그만하세요"
+  },
+  {
+   "prev": [
+    "Player158: 니엄마 몸 판다며",
+    "Player144: 헐 뭐야"
+   ],
+   "msg": "Player166: gg"
+  },
+  {
+   "prev": [
+    "Player161: 짱깨 새끼 꺼져",
+    "Player161: 니 나라로 가"
+   ],
+   "msg": "Player153: dkssud"
+  },
+  {
+   "prev": [
+    "Player161: 가슴 사진 보내봐",
+    "Player160: 싫어요"
+   ],
+   "msg": "Player163: ㅇㅇ"
+  },
+  {
+   "prev": [
+    "Player168: 좆같은 새끼 죽어",
+    "Player001: 내가 뭘 했다고"
+   ],
+   "msg": "Player165: 다이아 곡괭이 삼"
+  },
+  {
+   "prev": [
+    "Player139: 느금마 창녀",
+    "Player139: 니애비도 도망감"
+   ],
+   "msg": "Player160: 120 64 -340"
+  },
+  {
+   "prev": [
+    "Player143: 병신새끼 자살해",
+    "Player140: 말이 심하네"
+   ],
+   "msg": "Player161: hi"
+  },
+  {
+   "prev": [
+    "Player137: 씹년아 입 닥쳐",
+    "Player153: 무서워"
+   ],
+   "msg": "Player158: 스폰 어디야"
+  },
+  {
+   "prev": [
+    "Player161: 니애미 오늘 얼마냐",
+    "Player146: 미쳤나봐"
+   ],
+   "msg": "Player144: 경고 1회 드립니다"
+  },
+  {
+   "prev": [
+    "Player159: 쪽바리 새끼 나가",
+    "Player158: 한국인인데요"
+   ],
+   "msg": "Player165: 엔더진주 팔아요"
+  },
+  {
+   "prev": [
+    "Player163: 너 몇 컵이냐 ㅋㅋ",
+    "Player163: 대답해 씨발년아"
+   ],
+   "msg": "Player142: 스샷 찍었음"
+  },
+  {
+   "prev": [
+    "Player162: 애미 없는 새끼",
+    "Player146: 그만해라"
+   ],
+   "msg": "Player161: 누가 tpa 좀 받아줘"
+  },
+  {
+   "prev": [
+    "Player157: 저능아 새끼야 꺼져",
+    "Player057: 왜 욕해요"
+   ],
+   "msg": "Player158: 네더 같이 갈 사람"
+  },
+  {
+   "prev": [
+    "Player154: 느금마 안부 좀 ㅋㅋ",
+    "Player162: 유치하다"
+   ],
+   "msg": "Player155: ㅋㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player171: 씨발놈아 죽여버린다",
+    "Player171: 니 집 다 부순다"
+   ],
+   "msg": "Player146: 좌표도 모르면서"
+  },
+  {
+   "prev": [
+    "Player152: 깜둥이 새끼",
+    "Player154: 그런 말 하지마"
+   ],
+   "msg": "Player171: sell"
+  },
+  {
+   "prev": [
+    "Player153: 벗은 사진 보내 빨리",
+    "Player168: 운영자님 불러주세요"
+   ],
+   "msg": "Player135: 로그 확인했습니다"
+  },
+  {
+   "prev": [
+    "Player147: 니애미 장례식 언제냐",
+    "Player159: ..."
+   ],
+   "msg": "Player171: 밥 먹고 옴"
+  },
+  {
+   "prev": [
+    "Player167: 개같은 년 뒤져라",
+    "Player167: 걸레년"
+   ],
+   "msg": "Player171: ㄹㅇ 분위기 뭐임"
+  },
+  {
+   "prev": [
+    "Player155: 장애냐 병신아",
+    "Player157: 실수한건데"
+   ],
+   "msg": "Player170: 괜찮아 다시 하면 됨"
+  },
+  {
+   "prev": [
+    "Player143: ㄴㄱㅁ ㅊㄴ",
+    "Player155: 초성도 다 보여요"
+   ],
+   "msg": "Player163: 양털 필요한 사람"
+  },
+  {
+   "prev": [
+    "Player163: 엄창 까라 씨발",
+    "Player057: 어휴"
+   ],
+   "msg": "Player165: 비 온다"
+  },
+  {
+   "prev": [
+    "Player153: 좆까 병신새끼야",
+    "Player140: 대화가 안되네"
+   ],
+   "msg": "Player140: 그냥 내가 갈게"
+  },
+  {
+   "prev": [
+    "Player162: 조선족 새끼 꺼져",
+    "Player155: 저 부산 사는데요"
+   ],
+   "msg": "Player139: wb"
+  },
+  {
+   "prev": [
+    "Player095: 따먹고 싶다 너",
+    "Player142: 미쳤어요?"
+   ],
+   "msg": "Player136: 해당 유저 뮤트했습니다"
+  },
+  {
+   "prev": [
+    "Player166: 니 가족 다 뒤져라",
+    "Player166: 고아새끼"
+   ],
+   "msg": "Player148: 철골렘 농장 완성"
+  },
+  {
+   "prev": [
+    "Player155: 씨발년 죽여버려",
+    "Player152: 왜 저한테 그래요"
+   ],
+   "msg": "Player141: 무시해 쟤 원래 저럼"
+  },
+  {
+   "prev": [
+    "Player157: 정신병자 새끼 꺼져",
+    "Player158: 예예"
+   ],
+   "msg": "Player150: 나침반 주움"
+  },
+  {
+   "prev": [
+    "Player166: 느금마 걸레 ㅋㅋ",
+    "Player148: 할말 없으면 패드립이냐"
+   ],
+   "msg": "Player169: thx"
+  },
+  {
+   "prev": [
+    "Player164: 개새끼야 나가 뒤져",
+    "Player164: 니애미도 같이"
+   ],
+   "msg": "Player137: ㄱㄷ"
+  },
+  {
+   "prev": [
+    "Player143: 섹스하자 ㅋㅋ",
+    "Player136: 초딩이세요?"
+   ],
+   "msg": "Player147: 엘리트라 구함"
+  },
+  {
+   "prev": [
+    "Player153: 니애비 감옥 갔지",
+    "Player166: 뭔 소리야"
+   ],
+   "msg": "Player152: 저 농장 좀 써도 됨?"
+  },
+  {
+   "prev": [
+    "Player151: 애자새끼 ㅋㅋ 뒤져",
+    "Player164: 그만 좀 해"
+   ],
+   "msg": "Player140: -1200 70 880 마을 있음"
+  },
+  {
+   "prev": [
+    "Player163: 씨발놈아 꺼져",
+    "Player163: 좆밥새끼"
+   ],
+   "msg": "Player162: 응 수고"
+  },
+  {
+   "prev": [
+    "Player149: 창녀 같은 년",
+    "Player164: 캡쳐했어요"
+   ],
+   "msg": "Player141: 채팅 예절 지켜주세요"
+  },
+  {
+   "prev": [
+    "Player151: 니앰 뒤짐 ㅋㅋ",
+    "Player171: 재미없어"
+   ],
+   "msg": "Player159: lol"
+  },
+  {
+   "prev": [
+    "Player150: 똥남아 새끼",
+    "Player157: 인종차별 신고함"
+   ],
+   "msg": "Player141: 꾸준하다 진짜"
+  },
+  {
+   "prev": [
+    "Player152: 좆같은 년아 죽어",
+    "Player156: 나한테 왜 그러는데"
+   ],
+   "msg": "Player139: 흑요석 10개 있음?"
+  },
+  {
+   "prev": [
+    "Player147: 느금마 창녀임",
+    "Player147: 반박해봐 고아야"
+   ],
+   "msg": "Player095: ㅈㅅ 잘못 눌렀다"
+  },
+  {
+   "prev": [
+    "Player170: 병신같은 년 꺼져",
+    "Player142: 네 다음"
+   ],
+   "msg": "Player148: tpa"
+  },
+  {
+   "prev": [
+    "Player146: 다리 사진 보내봐",
+    "Player139: 차단할게요"
+   ],
+   "msg": "Player149: 잘했음"
+  },
+  {
+   "prev": [
+    "Player057: 니미 씨발 개새끼",
+    "Player148: 욕 진짜 많이 하네"
+   ],
+   "msg": "Player137: 사탕수수 다 컸다"
+  },
+  {
+   "prev": [
+    "Player169: 장애인 새끼 꺼져",
+    "Player169: 지체장애냐"
+   ],
+   "msg": "Player145: 한번 더 하면 밴입니다"
+  },
+  {
+   "prev": [
+    "Player142: 개년아 닥쳐",
+    "Player157: 무슨 일 있었어?"
+   ],
+   "msg": "Player168: 쟤가 먼저 시비 걺"
+  },
+  {
+   "prev": [
+    "Player156: 니엄마 없냐 ㅋㅋ",
+    "Player150: 있는데"
+   ],
+   "msg": "Player170: 화로 좀 빌림"
+  },
+  {
+   "prev": [
+    "Player155: 원숭이 새끼야 꺼져",
+    "Player135: 예의 좀"
+   ],
+   "msg": "Player095: ㅎㅇ"
+  },
+  {
+   "prev": [
+    "Player150: 씨발 좆같은 놈",
+    "Player150: 니애미 창녀"
+   ],
+   "msg": "Player139: 다 신고 넣었어"
+  },
+  {
+   "prev": [
+    "Player139: 나랑 한번 하자 ㅋㅋ",
+    "Player155: 싫다고 했잖아요"
+   ],
+   "msg": "Player170: 운영자 호출함"
+  },
+  {
+   "prev": [
+    "Player158: 애비 없는 티 내네",
+    "Player170: 그런 말은 좀"
+   ],
+   "msg": "Player095: 인첸트 뭐 붙었어?"
+  },
+  {
+   "prev": [
+    "Player166: 쓰레기 새끼 자살해",
+    "Player145: 말 조심해"
+   ],
+   "msg": "Player160: ㅁㅊ 저건 좀 심하다"
+  },
+  {
+   "prev": [
+    "Player166: 느1금마 ㅋㅋ",
+    "Player159: 숫자 넣어도 다 보임"
+   ],
+   "msg": "Player169: wkf tk"
+  },
+  {
+   "prev": [
+    "Player163: 씹새끼야 뒤져",
+    "Player161: 내가 뭘 잘못했어"
+   ],
+   "msg": "Player154: 무슨 일인가요"
+  },
+  {
+   "prev": [
+    "Player163: 니 몸 팔아라 거지년",
+    "Player149: 헐 진짜"
+   ],
+   "msg": "Player148: 저건 영정감임"
+  },
+  {
+   "prev": [
+    "Player147: 짱깨 새끼 원숭이",
+    "Player147: 꺼져라"
+   ],
+   "msg": "Player164: 좀비 스포너 찾음"
+  },
+  {
+   "prev": [
+    "Player138: 니애미 뒤졌냐",
+    "Player159: 어머니 건강하심"
+   ],
+   "msg": "Player149: ㅋㅋ 침착하네"
+  },
+  {
+   "prev": [
+    "Player163: 개쓰레기 년 꺼져",
+    "Player157: 알겠어 갈게"
+   ],
+   "msg": "Player057: 가지마 쟤가 나가야지"
+  },
+  {
+   "prev": [
+    "Player142: 자폐아냐 너 병신",
+    "Player136: 설명을 못알아들은거야"
+   ],
+   "msg": "Player162: 내가 다시 알려줄게"
+  },
+  {
+   "prev": [
+    "Player147: 팬티 색깔 뭐냐",
+    "Player137: 미친놈인가"
+   ],
+   "msg": "Player149: test"
+  },
+  {
+   "prev": [
+    "Player157: 느그 엄마 걸레",
+    "Player139: ㅇㅇ 니 말이 다 맞음"
+   ],
+   "msg": "Player162: 고수네 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player057: 죽여버린다 씨발놈",
+    "Player057: 주소 불러"
+   ],
+   "msg": "Player135: 서울특별시 마인크래프트"
+  },
+  {
+   "prev": [
+    "Player167: 쪽발이 년 꺼져",
+    "Player156: 닉만 보고 왜 그래"
+   ],
+   "msg": "Player095: 겉날개 수리 어떻게 함"
+  },
+  {
+   "prev": [
+    "Player157: 좆밥 새끼 니애미",
+    "Player150: 진 사람이 말이 많네"
+   ],
+   "msg": "Player152: gg wp"
+  },
+  {
+   "prev": [
+    "Player160: 보지년아 닥쳐",
+    "Player154: 와 진짜"
+   ],
+   "msg": "Player146: 영구 뮤트 처리합니다"
+  },
+  {
+   "prev": [
+    "Player145: 엄마 없는 새끼 ㅋㅋ",
+    "Player143: 그만하라고"
+   ],
+   "msg": "Player169: 수박 씨앗 나눔함"
+  },
+  {
+   "prev": [
+    "Player151: 다운증후군 새끼",
+    "Player158: 그런걸로 욕하지마"
+   ],
+   "msg": "Player160: back"
+  },
+  {
+   "prev": [
+    "Player136: 니애미 창녀 ㅋㅋ",
+    "Player136: 씨발년"
+   ],
+   "msg": "Player170: 상점 /shop 맞나"
+  },
+  {
+   "prev": [
+    "Player137: 강간해버린다",
+    "Player146: 방금 그거 진짜 신고감"
+   ],
+   "msg": "Player141: 나도 증인 서줌"
+  },
+  {
+   "prev": [
+    "Player158: 씨발년아 뒤져",
+    "Player170: 왜 화났는지나 말해봐"
+   ],
+   "msg": "Player095: 석탄 64개 1에메"
+  },
+  {
+   "prev": [
+    "Player001: 탈북자 새끼 꺼져",
+    "Player095: 사투리 쓰면 다 북한이냐"
+   ],
+   "msg": "Player144: ㅇㅈ"
+  },
+  {
+   "prev": [
+    "Player167: ㅆㅂㄴㅇ ㄴㄱㅁ",
+    "Player145: 뭐래"
+   ],
+   "msg": "Player135: rk"
+  },
+  {
+   "prev": [
+    "Player001: 니 여동생 따먹음",
+    "Player144: 동생 얘기 하지 마라"
+   ],
+   "msg": "Player161: 지금 발언 제재 대상이에요"
+  },
+  {
+   "prev": [
+    "Player136: 병신새끼 꺼져 고아야",
+    "Player155: 응 안꺼져"
+   ],
+   "msg": "Player138: 발광석 어디서 캠"
+  },
+  {
+   "prev": [
+    "Player150: 걸레년 얼마냐",
+    "Player153: 불쾌하네요"
+   ],
+   "msg": "Player159: 꿀 블록 있는 사람"
+  },
+  {
+   "prev": [
+    "Player135: 뒤져라 개새끼",
+    "Player135: 장애새끼"
+   ],
+   "msg": "Player159: 3 2 1 시작"
+  },
+  {
+   "prev": [
+    "Player139: 니 부모 둘 다 뒤져라",
+    "Player145: 너무하네"
+   ],
+   "msg": "Player142: 형 그만해 쟤 초딩임"
+  },
+  {
+   "prev": [
+    "Player169: 정신지체 년 ㅋㅋ",
+    "Player162: 저 그런 말 처음 들어요"
+   ],
+   "msg": "Player095: 괜찮아요? 차단하세요"
+  },
+  {
+   "prev": [
+    "Player144: 개색기야 니애미",
+    "Player164: 맞춤법이나 고쳐"
+   ],
+   "msg": "Player137: afk"
+  },
+  {
+   "prev": [
+    "Player147: 야한 사진 보내봐",
+    "Player156: 저 초등학생인데요"
+   ],
+   "msg": "Player095: 와 진짜 소름"
+  },
+  {
+   "prev": [
+    "Player057: 좆같은 새끼 뒤져",
+    "Player156: ㅠㅠ"
+   ],
+   "msg": "Player143: 울지마 내가 템 줄게"
+  },
+  {
+   "prev": [
+    "Player169: 흑형 새끼 원숭이",
+    "Player162: 영어 공부나 해"
+   ],
+   "msg": "Player158: ok"
+  },
+  {
+   "prev": [
+    "Player151: 느금마 창녀 니애비 거지",
+    "Player166: 길다"
+   ],
+   "msg": "Player057: 참나무 묘목 구해요"
+  },
+  {
+   "prev": [
+    "Player150: 씨발놈아 죽어",
+    "Player150: 병신새끼"
+   ],
+   "msg": "Player165: 밥은 먹고 다니냐"
+  },
+  {
+   "prev": [
+    "Player151: 벙어리냐 병신아",
+    "Player057: 타자 느려서 그래"
+   ],
+   "msg": "Player145: ㄱㅊ 천천히 쳐"
+  },
+  {
+   "prev": [
+    "Player142: 니애미 뒤짐 ㅋㅋ 고아",
+    "Player147: 운영자님"
+   ],
+   "msg": "Player144: 네 보고 있어요"
+  },
+  {
+   "prev": [
+    "Player144: 창녀 같은 년 꺼져",
+    "Player135: 말 진짜 못되게 한다"
+   ],
+   "msg": "Player150: 쉴드 팔아요 3다이아"
+  },
+  {
+   "prev": [
+    "Player165: 애미 뒤진 놈",
+    "Player166: 하 참"
+   ],
+   "msg": "Player145: 저기 주민 직업 뭐임"
+  },
+  {
+   "prev": [
+    "Player151: 가1슴 만지고 싶다",
+    "Player137: 필터 피하지 마세요"
+   ],
+   "msg": "Player171: zz"
+  },
+  {
+   "prev": [
+    "Player152: 개새끼야 꺼져 장애인아",
+    "Player160: 안들림"
+   ],
+   "msg": "Player001: 인첸트 테이블 15렙 맞음?"
+  },
+  {
+   "prev": [
+    "Player139: 다문화 새끼 ㅋㅋ",
+    "Player166: 그게 왜 욕인데"
+   ],
+   "msg": "Player156: 그러게 이상한 애네"
+  },
+  {
+   "prev": [
+    "Player167: 씨@발 니애미",
+    "Player169: 특수문자 귀엽네"
+   ],
+   "msg": "Player146: 케이크 만드는 법 아는 사람"
+  },
+  {
+   "prev": [
+    "Player141: 디코로 벗방 해봐",
+    "Player161: 디코 스샷도 찍음"
+   ],
+   "msg": "Player153: 스샷 문의로 보내주세요"
+  },
+  {
+   "prev": [
+    "Player169: 니엄마 창녀 니애비 병신",
+    "Player147: 가족은 건들지 말자"
+   ],
+   "msg": "Player161: 워든 잡아본 사람"
+  },
+  {
+   "prev": [
+    "Player171: 좆까 씨발년아",
+    "Player171: 죽어"
+   ],
+   "msg": "Player156: 오늘 왜케 시끄럽냐"
+  },
+  {
+   "prev": [
+    "Player157: 귀머거리 새끼냐",
+    "Player158: 못봤어 미안"
+   ],
+   "msg": "Player139: 사과할 일 아님"
+  },
+  {
+   "prev": [
+    "Player166: ㅈ같은 년아 뒤져",
+    "Player168: 그래 니 맘대로 생각해"
+   ],
+   "msg": "Player164: 8시에 레이드 감"
+  },
+  {
+   "prev": [
+    "Player150: 니애미 얼마냐 ㅋㅋ",
+    "Player149: 수준 보인다"
+   ],
+   "msg": "Player155: 100 -64 200 고대도시"
+  },
+  {
+   "prev": [
+    "Player157: 베트콩 새끼 꺼져",
+    "Player142: 우리 엄마 욕하지마"
+   ],
+   "msg": "Player153: 저건 신고해야됨"
+  },
+  {
+   "prev": [
+    "Player135: 씹년아 죽여버린다",
+    "Player057: 녹화중임"
+   ],
+   "msg": "Player140: 굿굿"
+  },
+  {
+   "prev": [
+    "Player165: 병신새끼 느금마",
+    "Player139: ㅇㅋ"
+   ],
+   "msg": "Player138: 책장 몇개 놔야됨"
+  },
+  {
+   "prev": [
+    "Player156: 잠지 보여줘 ㅋㅋ",
+    "Player140: 엄마한테 말할거예요"
+   ],
+   "msg": "Player163: 응 꼭 말해"
+  },
+  {
+   "prev": [
+    "Player154: 니미 씨발년",
+    "Player156: 운영자 있어요?"
+   ],
+   "msg": "Player160: 있습니다 처리할게요"
+  },
+  {
+   "prev": [
+    "Player143: 개같은 년 걸레",
+    "Player141: 아는 사람이야?"
+   ],
+   "msg": "Player148: 아니 처음 봄"
+  },
+  {
+   "prev": [
+    "Player160: 틀딱 장애인 꺼져",
+    "Player150: 나이가 뭔 상관"
+   ],
+   "msg": "Player171: 감자 농사 풍년"
+  },
+  {
+   "prev": [
+    "Player162: 느금마 뒤짐 니도 뒤져",
+    "Player160: 내일 학교 가야지"
+   ],
+   "msg": "Player158: ㅋㅋㅋㅋ 타격 0"
+  },
+  {
+   "prev": [
+    "Player147: 씨발놈 좆같은 새끼",
+    "Player142: 왜 싸워"
+   ],
+   "msg": "Player158: sry"
+  },
+  {
+   "prev": [
+    "Player169: 장1애인 새끼 ㅋㅋ",
+    "Player138: 장난이라도 그건 아님"
+   ],
+   "msg": "Player141: 맞아 선은 지키자"
+  },
+  {
+   "prev": [
+    "Player165: 니 엄마 몸 팔지",
+    "Player168: 대꾸 안함"
+   ],
+   "msg": "Player142: 낚싯대 행운3 뜸"
+  },
+  {
+   "prev": [
+    "Player155: 튀기 새끼 꺼져",
+    "Player137: 그 말 뜻은 알고 씀?"
+   ],
+   "msg": "Player160: 모르고 쓰는듯"
+  },
+  {
+   "prev": [
+    "Player170: 개새끼 니애미 창녀",
+    "Player170: 뒤져"
+   ],
+   "msg": "Player167: 저기요 전체챗이에요"
+  },
+  {
+   "prev": [
+    "Player158: 몸매 사진 좀 줘봐",
+    "Player168: 싫어"
+   ],
+   "msg": "Player140: ㅇㅇ 무시가 답"
+  },
+  {
+   "prev": [
+    "Player141: 애비 없는 새끼 꺼져",
+    "Player162: 아빠 옆에 계심"
+   ],
+   "msg": "Player144: 인사 전해줘 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player138: 찐따 장애새끼 죽어",
+    "Player152: 좀 쉬다 와라"
+   ],
+   "msg": "Player151: 물 양동이 챙겨"
+  },
+  {
+   "prev": [
+    "Player156: 니애미 창녀 씨발",
+    "Player137: 3번째다"
+   ],
+   "msg": "Player001: 3회 누적 24시간 뮤트"
+  },
+  {
+   "prev": [
+    "Player168: 좆같은 년 꺼져",
+    "Player141: 방금 들어왔는데 뭐임"
+   ],
+   "msg": "Player151: 설명하면 김"
+  },
+  {
+   "prev": [
+    "Player163: 쌍놈새끼 니애미",
+    "Player158: 조선시대냐"
+   ],
+   "msg": "Player151: 양반 납셨네 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player145: 느금 ㅋㅋ 고아",
+    "Player163: 다른 욕은 없음?"
+   ],
+   "msg": "Player150: dlrj"
+  },
+  {
+   "prev": [
+    "Player137: 씨발년아 벗어봐",
+    "Player135: 진짜 선 넘네"
+   ],
+   "msg": "Player151: 관리자한테 dm 보냄"
+  },
+  {
+   "prev": [
+    "Player169: 정신병자 새끼 뒤져",
+    "Player167: 화 풀어"
+   ],
+   "msg": "Player136: 초코우유 마셔라"
+  },
+  {
+   "prev": [
+    "Player138: 니애미 뒤져라",
+    "Player138: 니애비도"
+   ],
+   "msg": "Player136: 랜덤티피 쿨 몇분임"
+  },
+  {
+   "prev": [
+    "Player143: ㅉㄲ 새끼 꺼져",
+    "Player154: 서울 사람임"
+   ],
+   "msg": "Player057: nice"
+  },
+  {
+   "prev": [
+    "Player136: 개년아 죽어 걸레야",
+    "Player160: 말 걸지 마세요"
+   ],
+   "msg": "Player138: 화이팅"
+  },
+  {
+   "prev": [
+    "Player157: 병신 장애인 새끼",
+    "Player171: 그런 단어 쓰지마"
+   ],
+   "msg": "Player142: 거미줄 어디서 구함"
+  },
+  {
+   "prev": [
+    "Player165: 너 처녀냐 ㅋㅋ",
+    "Player145: 뭐 이런 사람이 다 있어"
+   ],
+   "msg": "Player163: 접속 기록 남겼습니다"
+  },
+  {
+   "prev": [
+    "Player152: 니엄마 걸레 니누나 걸레",
+    "Player166: 외동임"
+   ],
+   "msg": "Player143: ㅋㅋㅋ 헛스윙"
+  },
+  {
+   "prev": [
+    "Player150: 씹새끼 뒤져라",
+    "Player163: 잘자"
+   ],
+   "msg": "Player160: 굿밤"
+  },
+  {
+   "prev": [
+    "Player155: 개슬람 새끼 꺼져",
+    "Player165: 종교 얘긴 왜 나와"
+   ],
+   "msg": "Player160: 네더라이트 파편 2개째"
+  },
+  {
+   "prev": [
+    "Player149: 느금마 창녀 ㅋ",
+    "Player161: 음 그래"
+   ],
+   "msg": "Player057: ???"
+  },
+  {
+   "prev": [
+    "Player157: 좆밥 병신새끼 니애미",
+    "Player141: 한판 더 할래?"
+   ],
+   "msg": "Player164: 멘탈 좋다"
+  },
+  {
+   "prev": [
+    "Player158: ㄱㅅ 사진 ㄱ",
+    "Player169: 초성으로 해도 성희롱임"
+   ],
+   "msg": "Player138: 맞음 신고 ㄱ"
+  },
+  {
+   "prev": [
+    "Player150: 니애미 창녀 장애년",
+    "Player148: 엄마 몸 불편하신건 맞는데"
+   ],
+   "msg": "Player148: 그래도 내가 제일 사랑함"
+  },
+  {
+   "prev": [
+    "Player166: 씨발놈아 꺼져 고아",
+    "Player152: 네 알겠습니다"
+   ],
+   "msg": "Player157: 호박 파이 먹을 사람"
+  },
+  {
+   "prev": [
+    "Player154: 저능아 새끼 죽어",
+    "Player164: 내일 시험인데 공부나 할걸"
+   ],
+   "msg": "Player157: 몇 학년임"
+  },
+  {
+   "prev": [
+    "Player146: 니애비 뒤짐 ㅋㅋ",
+    "Player156: 진짜 돌아가셨는데"
+   ],
+   "msg": "Player148: 야 그건 사과해라"
+  },
+  {
+   "prev": [
+    "Player139: 미친 개새끼야 느금마",
+    "Player137: ㄴㄴ 안싸움"
+   ],
+   "msg": "Player095: 현명하다"
+  },
+  {
+   "prev": [
+    "Player152: 빨통 크냐 ㅋㅋ",
+    "Player150: 이런 귓말 처음이라 당황"
+   ],
+   "msg": "Player170: 귓말도 로그 남아요"
+  },
+  {
+   "prev": [
+    "Player168: 니애미 창녀",
+    "Player168: 느금마 걸레",
+    "Player168: 고아새끼"
+   ],
+   "msg": "Player147: 도배 뭐냐"
+  },
+  {
+   "prev": [
+    "Player146: 좆같은 놈 뒤져",
+    "Player171: 우리 화해하자"
+   ],
+   "msg": "Player161: 그래 악수해"
+  },
+  {
+   "prev": [
+    "Player168: 지체장애 새끼",
+    "Player160: 렉 걸려서 그런거야"
+   ],
+   "msg": "Player137: 핑 몇임?"
+  },
+  {
+   "prev": [
+    "Player144: 씨발년 니애미",
+    "Player001: 쉿 조용"
+   ],
+   "msg": "Player164: 저기 크리퍼"
+  },
+  {
+   "prev": [
+    "Player155: 엄창 니애미 창녀",
+    "Player158: 어제도 그러더니"
+   ],
+   "msg": "Player137: 쟤 매일 저럼?"
+  },
+  {
+   "prev": [
+    "Player163: 다 뒤져라 병신들아 니애미",
+    "Player146: 범위 공격이네"
+   ],
+   "msg": "Player001: 나는 왜 맞음 ㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player163: 개새끼 꺼져 짱깨",
+    "Player136: 채팅 끌게"
+   ],
+   "msg": "Player161: /ignore 쓰면 됨"
+  },
+  {
+   "prev": [
+    "Player161: 걸레년아 죽어",
+    "Player142: 저 남자인데요"
+   ],
+   "msg": "Player152: 아 ㅋㅋㅋㅋ"
+  },
+  {
+   "prev": [
+    "Player148: 니애미 뒤짐 느금",
+    "Player155: 관심 없음"
+   ],
+   "msg": "Player150: 2시 방향 좀비"
+  },
+  {
+   "prev": [
+    "Player166: 병신새끼 꺼져 애자야",
+    "Player156: 팀원한테 왜 그래"
+   ],
+   "msg": "Player095: 팀챗도 규정 적용돼요"
+  },
+  {
+   "prev": [
+    "Player171: 니애미 창녀 고아새끼 뒤져",
+    "Player142: 왜 저래 진짜"
+   ],
+   "msg": "Player167: shulker"
+  }
+ ]
+}

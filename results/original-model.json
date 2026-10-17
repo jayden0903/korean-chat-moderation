@@ -1,0 +1,6215 @@
+{
+ "items": [
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 0,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 1,
+   "p": 0.9925,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 2,
+   "p": 0.9946,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 3,
+   "p": 0.9938,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 4,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 5,
+   "p": 0.9938,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 6,
+   "p": 0.9944,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 7,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 8,
+   "p": 0.9944,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule nospace targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 9,
+   "p": 0.9917,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 10,
+   "p": 0.9949,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 11,
+   "p": 0.9935,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 12,
+   "p": 0.9938,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 13,
+   "p": 0.9948,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 14,
+   "p": 0.9938,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 15,
+   "p": 0.9947,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 16,
+   "p": 0.993,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 17,
+   "p": 0.9942,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 18,
+   "p": 0.9942,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 19,
+   "p": 0.9942,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 20,
+   "p": 0.993,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 21,
+   "p": 0.9922,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 22,
+   "p": 0.9933,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 23,
+   "p": 0.9945,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 24,
+   "p": 0.9939,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 25,
+   "p": 0.9938,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 26,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 27,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 28,
+   "p": 0.9942,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 29,
+   "p": 0.9928,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 30,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 31,
+   "p": 0.9943,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 32,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 33,
+   "p": 0.9941,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "plain",
+   "index": 34,
+   "p": 0.9934,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 35,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 36,
+   "p": 0.9937,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule chosung family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 37,
+   "p": 0.9926,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 38,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 39,
+   "p": 0.9879,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 40,
+   "p": 0.9946,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 41,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 42,
+   "p": 0.9932,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule engkey family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 43,
+   "p": 0.9941,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 44,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 45,
+   "p": 0.9922,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 46,
+   "p": 0.9944,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule chosung family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 47,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule chosung targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 48,
+   "p": 0.9928,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 49,
+   "p": 0.9937,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule chosung sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 50,
+   "p": 0.9937,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 51,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 52,
+   "p": 0.9946,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 53,
+   "p": 0.994,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 54,
+   "p": 0.9938,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 55,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 56,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 57,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 58,
+   "p": 0.9938,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "evasive",
+   "index": 59,
+   "p": 0.9946,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 60,
+   "p": 0.9799,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 61,
+   "p": 0.9804,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 62,
+   "p": 0.992,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 63,
+   "p": 0.9932,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 64,
+   "p": 0.988,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 65,
+   "p": 0.9821,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 66,
+   "p": 0.2873,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 67,
+   "p": 0.9929,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 68,
+   "p": 0.9937,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 69,
+   "p": 0.9914,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 70,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 71,
+   "p": 0.9766,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 72,
+   "p": 0.9902,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 73,
+   "p": 0.9936,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 74,
+   "p": 0.9935,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 75,
+   "p": 0.9919,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 76,
+   "p": 0.9888,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 77,
+   "p": 0.9926,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 78,
+   "p": 0.9904,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 79,
+   "p": 0.2103,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 80,
+   "p": 0.0771,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 81,
+   "p": 0.7692,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 82,
+   "p": 0.9927,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 83,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 84,
+   "p": 0.9939,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 85,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 86,
+   "p": 0.0697,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 87,
+   "p": 0.9907,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 88,
+   "p": 0.9927,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 89,
+   "p": 0.993,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 90,
+   "p": 0.99,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 91,
+   "p": 0.9935,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 92,
+   "p": 0.0654,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 93,
+   "p": 0.9902,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 94,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 95,
+   "p": 0.9938,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 96,
+   "p": 0.9922,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 97,
+   "p": 0.9713,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.97 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 98,
+   "p": 0.9924,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "severe",
+   "type": "implicit",
+   "index": 99,
+   "p": 0.2526,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 0,
+   "p": 0.9944,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 1,
+   "p": 0.9942,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 2,
+   "p": 0.9939,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 3,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 4,
+   "p": 0.994,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 5,
+   "p": 0.9937,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 6,
+   "p": 0.9937,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 7,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 8,
+   "p": 0.9942,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 9,
+   "p": 0.9946,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 10,
+   "p": 0.9932,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 11,
+   "p": 0.9942,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 12,
+   "p": 0.9945,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 13,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 14,
+   "p": 0.994,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 15,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule chosung family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 16,
+   "p": 0.9939,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 17,
+   "p": 0.9938,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 18,
+   "p": 0.9939,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule engkey family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 19,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule chosung family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 20,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 21,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 22,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 23,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 24,
+   "p": 0.9939,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 25,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 26,
+   "p": 0.9939,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule nospace family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 27,
+   "p": 0.9939,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule engkey family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 28,
+   "p": 0.9941,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 29,
+   "p": 0.9937,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 30,
+   "p": 0.9946,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 31,
+   "p": 0.9935,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 32,
+   "p": 0.9926,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule nospace targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 33,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 34,
+   "p": 0.9938,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 35,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule nospace targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 36,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 37,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 38,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 39,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 40,
+   "p": 0.9946,
+   "rule": "family_insult",
+   "tier": "auto",
+   "reason": "rule family_insult + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 41,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule nospace targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 42,
+   "p": 0.9944,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 43,
+   "p": 0.9937,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 44,
+   "p": 0.9946,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 45,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule chosung targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 46,
+   "p": 0.9941,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule chosung targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 47,
+   "p": 0.9946,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 48,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 49,
+   "p": 0.9944,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 50,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 51,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 52,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 53,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 54,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 55,
+   "p": 0.9934,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 56,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 57,
+   "p": 0.9942,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule engkey targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 58,
+   "p": 0.9945,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule chosung targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 59,
+   "p": 0.9945,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 60,
+   "p": 0.9944,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 61,
+   "p": 0.9943,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 62,
+   "p": 0.9951,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 1.00"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 63,
+   "p": 0.9948,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 64,
+   "p": 0.9921,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 65,
+   "p": 0.9938,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 66,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 67,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 68,
+   "p": 0.9942,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 69,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 70,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 71,
+   "p": 0.994,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 72,
+   "p": 0.9937,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 73,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 74,
+   "p": 0.9931,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 75,
+   "p": 0.9947,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 76,
+   "p": 0.9942,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 77,
+   "p": 0.9946,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 78,
+   "p": 0.9941,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule engkey slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 79,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 80,
+   "p": 0.9946,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 81,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 82,
+   "p": 0.9945,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 83,
+   "p": 0.9945,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 84,
+   "p": 0.9946,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 85,
+   "p": 0.9942,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 86,
+   "p": 0.9938,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 87,
+   "p": 0.9939,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 88,
+   "p": 0.9947,
+   "rule": "slur",
+   "tier": "auto",
+   "reason": "rule engkey slur + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 89,
+   "p": 0.9941,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 90,
+   "p": 0.9936,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 91,
+   "p": 0.9939,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 92,
+   "p": 0.9944,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 93,
+   "p": 0.9938,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 94,
+   "p": 0.9943,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 95,
+   "p": 0.9944,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 96,
+   "p": 0.9946,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule nospace sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 97,
+   "p": 0.9936,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 98,
+   "p": 0.9934,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 99,
+   "p": 0.9933,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 100,
+   "p": 0.9946,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 101,
+   "p": 0.9943,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 102,
+   "p": 0.9929,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 103,
+   "p": 0.9911,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 104,
+   "p": 0.9946,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 105,
+   "p": 0.9948,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule chosung sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 106,
+   "p": 0.994,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 107,
+   "p": 0.9943,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 108,
+   "p": 0.9946,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule nospace sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 109,
+   "p": 0.9945,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule engkey sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 110,
+   "p": 0.9943,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule chosung sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 111,
+   "p": 0.9776,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 112,
+   "p": 0.9942,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 113,
+   "p": 0.9945,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 114,
+   "p": 0.9935,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 115,
+   "p": 0.9912,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 116,
+   "p": 0.9948,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 117,
+   "p": 0.9941,
+   "rule": "sexual_harassment",
+   "tier": "auto",
+   "reason": "rule sexual_harassment + context model 0.99"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 118,
+   "p": 0.9466,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.95 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "severe",
+   "type": "single line",
+   "index": 119,
+   "p": 0.9943,
+   "rule": "targeted_curse",
+   "tier": "auto",
+   "reason": "rule targeted_curse + context model 0.99"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 0,
+   "p": 0.0607,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 1,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 2,
+   "p": 0.057,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 3,
+   "p": 0.0619,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 4,
+   "p": 0.0623,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 5,
+   "p": 0.0598,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 6,
+   "p": 0.065,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 7,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 8,
+   "p": 0.0628,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 9,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 10,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 11,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 12,
+   "p": 0.0578,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 13,
+   "p": 0.0672,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 14,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 15,
+   "p": 0.0627,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 16,
+   "p": 0.0633,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 17,
+   "p": 0.0581,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 18,
+   "p": 0.0595,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 19,
+   "p": 0.0653,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 20,
+   "p": 0.0611,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 21,
+   "p": 0.0615,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 22,
+   "p": 0.0619,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 23,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 24,
+   "p": 0.0598,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 25,
+   "p": 0.0668,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 26,
+   "p": 0.0617,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 27,
+   "p": 0.06,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 28,
+   "p": 0.0602,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 29,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 30,
+   "p": 0.062,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 31,
+   "p": 0.0586,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 32,
+   "p": 0.0607,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 33,
+   "p": 0.0622,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 34,
+   "p": 0.063,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 35,
+   "p": 0.0671,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 36,
+   "p": 0.0588,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 37,
+   "p": 0.0631,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 38,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 39,
+   "p": 0.0648,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 40,
+   "p": 0.0611,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 41,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 42,
+   "p": 0.0611,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 43,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 44,
+   "p": 0.0607,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 45,
+   "p": 0.0614,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 46,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 47,
+   "p": 0.0641,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 48,
+   "p": 0.0607,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 49,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 50,
+   "p": 0.0644,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 51,
+   "p": 0.0615,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 52,
+   "p": 0.0622,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 53,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 54,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 55,
+   "p": 0.0646,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 56,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 57,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 58,
+   "p": 0.0639,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 59,
+   "p": 0.0594,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 60,
+   "p": 0.0582,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 61,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 62,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 63,
+   "p": 0.0646,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 64,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 65,
+   "p": 0.0643,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 66,
+   "p": 0.0615,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 67,
+   "p": 0.0623,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 68,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 69,
+   "p": 0.0592,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 70,
+   "p": 0.0602,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 71,
+   "p": 0.0667,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 72,
+   "p": 0.0596,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 73,
+   "p": 0.0675,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 74,
+   "p": 0.0678,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 75,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 76,
+   "p": 0.0596,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 77,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 78,
+   "p": 0.063,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "ordinary",
+   "index": 79,
+   "p": 0.067,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 80,
+   "p": 0.075,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 81,
+   "p": 0.0646,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 82,
+   "p": 0.0658,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 83,
+   "p": 0.0756,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 84,
+   "p": 0.0695,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 85,
+   "p": 0.0649,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 86,
+   "p": 0.1184,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 87,
+   "p": 0.0604,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 88,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 89,
+   "p": 0.0604,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 90,
+   "p": 0.0702,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 91,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 92,
+   "p": 0.064,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 93,
+   "p": 0.062,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 94,
+   "p": 0.1339,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 95,
+   "p": 0.0687,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 96,
+   "p": 0.0815,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 97,
+   "p": 0.0769,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 98,
+   "p": 0.0986,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 99,
+   "p": 0.0607,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 100,
+   "p": 0.0679,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 101,
+   "p": 0.0641,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 102,
+   "p": 0.0685,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 103,
+   "p": 0.0695,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 104,
+   "p": 0.0694,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 105,
+   "p": 0.0666,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 106,
+   "p": 0.0764,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 107,
+   "p": 0.076,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 108,
+   "p": 0.0779,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 109,
+   "p": 0.0902,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 110,
+   "p": 0.0696,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 111,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 112,
+   "p": 0.1431,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 113,
+   "p": 0.0681,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 114,
+   "p": 0.0712,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 115,
+   "p": 0.0642,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 116,
+   "p": 0.2614,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 117,
+   "p": 0.1484,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 118,
+   "p": 0.0966,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mild",
+   "index": 119,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 120,
+   "p": 0.9385,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.94 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 121,
+   "p": 0.9743,
+   "rule": "targeted_curse",
+   "tier": "review",
+   "reason": "rule targeted_curse, may be aimed at a mob or object (0.97)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 122,
+   "p": 0.0875,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 123,
+   "p": 0.06,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 124,
+   "p": 0.4069,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 125,
+   "p": 0.0797,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 126,
+   "p": 0.0965,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 127,
+   "p": 0.103,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 128,
+   "p": 0.9868,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 129,
+   "p": 0.0877,
+   "rule": "targeted_curse",
+   "tier": "review",
+   "reason": "rule targeted_curse, but context model 0.09 (context may excuse it)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 130,
+   "p": 0.7866,
+   "rule": "targeted_curse",
+   "tier": "review",
+   "reason": "rule nospace targeted_curse, may be aimed at a mob or object (0.79)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 131,
+   "p": 0.2732,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 132,
+   "p": 0.068,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 133,
+   "p": 0.3982,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 134,
+   "p": 0.1423,
+   "rule": "targeted_curse",
+   "tier": "review",
+   "reason": "rule targeted_curse, but context model 0.14 (context may excuse it)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 135,
+   "p": 0.7271,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 136,
+   "p": 0.1928,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 137,
+   "p": 0.1098,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 138,
+   "p": 0.9575,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.96 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 139,
+   "p": 0.0838,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 140,
+   "p": 0.9855,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 141,
+   "p": 0.0685,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 142,
+   "p": 0.0725,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 143,
+   "p": 0.066,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 144,
+   "p": 0.0722,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 145,
+   "p": 0.0709,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 146,
+   "p": 0.5678,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 147,
+   "p": 0.9508,
+   "rule": "targeted_curse",
+   "tier": "review",
+   "reason": "rule targeted_curse, may be aimed at a mob or object (0.95)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 148,
+   "p": 0.074,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "mob",
+   "index": 149,
+   "p": 0.074,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 150,
+   "p": 0.0604,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 151,
+   "p": 0.1012,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 152,
+   "p": 0.0633,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 153,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 154,
+   "p": 0.0811,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 155,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 156,
+   "p": 0.0649,
+   "rule": "family_insult",
+   "tier": "review",
+   "reason": "rule chosung family_insult, but context model 0.06 (context may excuse it)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 157,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 158,
+   "p": 0.1991,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 159,
+   "p": 0.0639,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 160,
+   "p": 0.0709,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 161,
+   "p": 0.1128,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 162,
+   "p": 0.0574,
+   "rule": "family_insult",
+   "tier": "review",
+   "reason": "rule nospace family_insult, but context model 0.06 (context may excuse it)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 163,
+   "p": 0.0656,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 164,
+   "p": 0.0597,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 165,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 166,
+   "p": 0.0773,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 167,
+   "p": 0.171,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 168,
+   "p": 0.0587,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 169,
+   "p": 0.0837,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 170,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 171,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 172,
+   "p": 0.0627,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 173,
+   "p": 0.1693,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 174,
+   "p": 0.0608,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 175,
+   "p": 0.1087,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 176,
+   "p": 0.1016,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 177,
+   "p": 0.0771,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 178,
+   "p": 0.0676,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "after_abuse",
+   "index": 179,
+   "p": 0.0642,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 180,
+   "p": 0.0572,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 181,
+   "p": 0.9792,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.98 (wording no rule lists)"
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 182,
+   "p": 0.0696,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 183,
+   "p": 0.0659,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 184,
+   "p": 0.0662,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 185,
+   "p": 0.0958,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 186,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 187,
+   "p": 0.0647,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 188,
+   "p": 0.0632,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 189,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 190,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 191,
+   "p": 0.1028,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 192,
+   "p": 0.0666,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 193,
+   "p": 0.065,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 194,
+   "p": 0.0682,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 195,
+   "p": 0.0634,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 196,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 197,
+   "p": 0.0619,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 198,
+   "p": 0.0659,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-ctx-2",
+   "label": "normal",
+   "type": "trap",
+   "index": 199,
+   "p": 0.0774,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 0,
+   "p": 0.0628,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 1,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 2,
+   "p": 0.5941,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 3,
+   "p": 0.0596,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 4,
+   "p": 0.0618,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 5,
+   "p": 0.0749,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 6,
+   "p": 0.0713,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 7,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 8,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 9,
+   "p": 0.0592,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 10,
+   "p": 0.0643,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 11,
+   "p": 0.0571,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 12,
+   "p": 0.058,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 13,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 14,
+   "p": 0.0581,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 15,
+   "p": 0.0576,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 16,
+   "p": 0.0599,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 17,
+   "p": 0.0678,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 18,
+   "p": 0.0584,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 19,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 20,
+   "p": 0.0636,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 21,
+   "p": 0.0618,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 22,
+   "p": 0.0593,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 23,
+   "p": 0.0661,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 24,
+   "p": 0.0688,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 25,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 26,
+   "p": 0.0655,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 27,
+   "p": 0.062,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 28,
+   "p": 0.0593,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 29,
+   "p": 0.0697,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 30,
+   "p": 0.0647,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 31,
+   "p": 0.058,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 32,
+   "p": 0.0584,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 33,
+   "p": 0.064,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 34,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 35,
+   "p": 0.0633,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 36,
+   "p": 0.0579,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 37,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 38,
+   "p": 0.063,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 39,
+   "p": 0.0731,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 40,
+   "p": 0.0577,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 41,
+   "p": 0.0612,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 42,
+   "p": 0.0632,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 43,
+   "p": 0.0674,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 44,
+   "p": 0.0643,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 45,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 46,
+   "p": 0.0631,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 47,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 48,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 49,
+   "p": 0.07,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 50,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 51,
+   "p": 0.0612,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 52,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 53,
+   "p": 0.0722,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 54,
+   "p": 0.07,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 55,
+   "p": 0.0697,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 56,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 57,
+   "p": 0.0582,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 58,
+   "p": 0.0617,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 59,
+   "p": 0.0656,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 60,
+   "p": 0.068,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 61,
+   "p": 0.0633,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 62,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 63,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 64,
+   "p": 0.059,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 65,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 66,
+   "p": 0.0672,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 67,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 68,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 69,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 70,
+   "p": 0.0603,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 71,
+   "p": 0.0596,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 72,
+   "p": 0.0707,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 73,
+   "p": 0.0671,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 74,
+   "p": 0.0594,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 75,
+   "p": 0.0644,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 76,
+   "p": 0.0671,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 77,
+   "p": 0.062,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 78,
+   "p": 0.0589,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 79,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 80,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 81,
+   "p": 0.0572,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 82,
+   "p": 0.0617,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 83,
+   "p": 0.0611,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 84,
+   "p": 0.9746,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.97 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 85,
+   "p": 0.0611,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 86,
+   "p": 0.1265,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 87,
+   "p": 0.073,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 88,
+   "p": 0.9935,
+   "rule": null,
+   "tier": "review",
+   "reason": "context model 0.99 (wording no rule lists)"
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 89,
+   "p": 0.0597,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 90,
+   "p": 0.0613,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 91,
+   "p": 0.0544,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 92,
+   "p": 0.0652,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 93,
+   "p": 0.061,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 94,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 95,
+   "p": 0.0624,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 96,
+   "p": 0.063,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 97,
+   "p": 0.0729,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 98,
+   "p": 0.0619,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 99,
+   "p": 0.0559,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 100,
+   "p": 0.0658,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 101,
+   "p": 0.0665,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 102,
+   "p": 0.0576,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 103,
+   "p": 0.0614,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 104,
+   "p": 0.061,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 105,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 106,
+   "p": 0.0608,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 107,
+   "p": 0.0634,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 108,
+   "p": 0.0633,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 109,
+   "p": 0.065,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 110,
+   "p": 0.0599,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 111,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 112,
+   "p": 0.0707,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 113,
+   "p": 0.0659,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 114,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 115,
+   "p": 0.066,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 116,
+   "p": 0.0609,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 117,
+   "p": 0.065,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 118,
+   "p": 0.066,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 119,
+   "p": 0.0662,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 120,
+   "p": 0.061,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 121,
+   "p": 0.0699,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 122,
+   "p": 0.0741,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 123,
+   "p": 0.0704,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 124,
+   "p": 0.0697,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 125,
+   "p": 0.0738,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 126,
+   "p": 0.0773,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 127,
+   "p": 0.0622,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 128,
+   "p": 0.0631,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 129,
+   "p": 0.0654,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 130,
+   "p": 0.0742,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 131,
+   "p": 0.0587,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 132,
+   "p": 0.0959,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 133,
+   "p": 0.064,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 134,
+   "p": 0.0655,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 135,
+   "p": 0.0699,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 136,
+   "p": 0.1375,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 137,
+   "p": 0.0625,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 138,
+   "p": 0.289,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 139,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 140,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 141,
+   "p": 0.1169,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 142,
+   "p": 0.0733,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 143,
+   "p": 0.0767,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 144,
+   "p": 0.0666,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 145,
+   "p": 0.067,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 146,
+   "p": 0.0785,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 147,
+   "p": 0.0675,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 148,
+   "p": 0.0685,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 149,
+   "p": 0.0692,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 150,
+   "p": 0.0641,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 151,
+   "p": 0.068,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 152,
+   "p": 0.059,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 153,
+   "p": 0.0645,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 154,
+   "p": 0.1661,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 155,
+   "p": 0.0674,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 156,
+   "p": 0.0622,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 157,
+   "p": 0.0643,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 158,
+   "p": 0.0617,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 159,
+   "p": 0.061,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 160,
+   "p": 0.0634,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 161,
+   "p": 0.0641,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 162,
+   "p": 0.0595,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 163,
+   "p": 0.0767,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 164,
+   "p": 0.0683,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 165,
+   "p": 0.0812,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 166,
+   "p": 0.0651,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 167,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 168,
+   "p": 0.0631,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 169,
+   "p": 0.0628,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 170,
+   "p": 0.0594,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 171,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 172,
+   "p": 0.0638,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 173,
+   "p": 0.0603,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 174,
+   "p": 0.0603,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 175,
+   "p": 0.0594,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 176,
+   "p": 0.0629,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 177,
+   "p": 0.0606,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 178,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 179,
+   "p": 0.0576,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 180,
+   "p": 0.0643,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 181,
+   "p": 0.059,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 182,
+   "p": 0.061,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 183,
+   "p": 0.0561,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 184,
+   "p": 0.0604,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 185,
+   "p": 0.0582,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 186,
+   "p": 0.0605,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 187,
+   "p": 0.0621,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 188,
+   "p": 0.0592,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 189,
+   "p": 0.0577,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 190,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 191,
+   "p": 0.0595,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 192,
+   "p": 0.0596,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 193,
+   "p": 0.0635,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 194,
+   "p": 0.0626,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 195,
+   "p": 0.0619,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 196,
+   "p": 0.0637,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 197,
+   "p": 0.0595,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 198,
+   "p": 0.0668,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  },
+  {
+   "set": "blind-test-2",
+   "label": "normal",
+   "type": "single line",
+   "index": 199,
+   "p": 0.0569,
+   "rule": null,
+   "tier": "pass",
+   "reason": ""
+  }
+ ],
+ "llm": {
+  "severe n": 80,
+  "severe auto": 30,
+  "severe sent": 46,
+  "severe llm confirm only": 43,
+  "severe llm two-step": 41,
+  "normal n": 135,
+  "normal sent": 19,
+  "normal llm confirm only": 0,
+  "normal llm two-step": 0
+ }
+}
