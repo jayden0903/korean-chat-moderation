@@ -1,13 +1,13 @@
-# korean-chat-moderation
+<!-- readme-v2 -->
+<p align="center"><img src=".github/banner.svg" alt="korean-chat-moderation" width="100%"></p>
 
-Moderation for Korean game chat that runs on a CPU. Rules with evidence catch the abusive words however they are
-spelled, a fine-tuned context model reads the five lines before each message, and a local LLM looks only at the
-lines the first two are unsure about. Built for a Korean Minecraft survival server whose players are mostly
-teenagers; in production since October 2026.
+<p align="center"><img src="https://img.shields.io/badge/Python-3-111827?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/model-KcELECTRA-111827?style=flat-square" alt="model"> <img src="https://img.shields.io/badge/tests-46_passing-22c55e?style=flat-square" alt="tests"> <a href="README.ko.md"><img src="https://img.shields.io/badge/README-한국어-111827?style=flat-square" alt="README"></a></p>
 
-[한국어 README](README.ko.md)
+<p align="center">Rules → a context model that reads the previous 5 lines → a local LLM only for the unsure lines.<br>Runs on one CPU, in production on a real game server.</p>
 
-> Content warning: the rule lexicons and the AI-written data in `data/` contain explicit Korean abuse.
+<table>
+<tr><td align="center" width="25%"><h3>0</h3><sub>normal lines auto-punished (held-out)</sub></td><td align="center" width="25%"><h3>30–40 ms</h3><sub>per line on 4 CPU threads</sub></td><td align="center" width="25%"><h3>0.15%</h3><sub>of real chat reaches the LLM</sub></td><td align="center" width="25%"><h3>CPU only</h3><sub>no GPU needed</sub></td></tr>
+</table>
 
 ```mermaid
 flowchart LR
@@ -23,7 +23,30 @@ flowchart LR
     LLM -->|otherwise| PASS
 ```
 
-## Results
+### Run
+
+```bash
+pip install -r requirements.txt
+python -m unittest discover -s tests          # 46 tests, no model or LLM needed
+```
+
+### Details
+
+<details>
+<summary><b>Pipeline</b></summary>
+
+Moderation for Korean game chat that runs on a CPU. Rules with evidence catch the abusive words however they are
+spelled, a fine-tuned context model reads the five lines before each message, and a local LLM looks only at the
+lines the first two are unsure about. Built for a Korean Minecraft survival server whose players are mostly
+teenagers; in production since October 2026.
+
+
+> Content warning: the rule lexicons and the AI-written data in `data/` contain explicit Korean abuse.
+
+</details>
+
+<details>
+<summary><b>Results</b></summary>
 
 Held-out sets were written by an AI model and never used for training; real chat is reported as counts only.
 Measured with the deployed model, which was trained on the data in this repository plus 12,500 real chat lines as
@@ -47,7 +70,10 @@ extra negatives (those lines and the weights are not published, see [Privacy](#p
 
 Hardware: one older dual-socket server (2016-era CPUs, 22 cores per socket), no GPU, shared with the game server. No per-request fees.
 
-## Why it is built this way
+</details>
+
+<details>
+<summary><b>Why it is built this way</b></summary>
 
 **A narrow policy.** Only severe abuse aimed at another player is punished: insults about someone's family
 (패드립), heavy swearing thrown at a person (쌍욕), slurs about disability, race or origin (비하) and sexual
@@ -79,7 +105,10 @@ both agree.
 **Everything local.** The LLM is a llama.cpp server on the same machine. Chat never leaves the host, and there is
 no API bill. The system replaced a paid moderation API.
 
-## How each stage works
+</details>
+
+<details>
+<summary><b>How each stage works</b></summary>
 
 ### Normalisation, `kcm/normalize.py`
 
@@ -139,7 +168,10 @@ answers two other one-letter questions: advertising another server (asked only w
 IP or invite hint; an allowlist of servers players may invite to is checked before the model) and user-chosen
 titles.
 
-## Detailed results
+</details>
+
+<details>
+<summary><b>Detailed results</b></summary>
 
 ### Held-out AI-written sets, deployed model
 
@@ -211,7 +243,10 @@ reasoned answer alone, 71 of 80 with the deployed two-step check; 0 of 135 norma
 | Gemma resident memory | 14.3 GB, loaded into one NUMA node's RAM instead of mmap |
 | Context model training | 20,234 examples, 2 epochs, 49 min on the CPU |
 
-## Versions
+</details>
+
+<details>
+<summary><b>Versions</b></summary>
 
 | Version | Date | Approach | Outcome |
 |---|---|---|---|
@@ -221,7 +256,10 @@ reasoned answer alone, 71 of 80 with the deployed two-step check; 0 of 135 norma
 | v4 | 2026-10-13 | rules with evidence + retrained model (+ Clef-Flash second look) | blind-test-2: 91/120 severe, 0/200 false without the second look |
 | v5 | 2026-10-14 | context model + v4 rules, two tiers, Gemma second look; deployed | the tables above |
 
-## What failed, and why
+</details>
+
+<details>
+<summary><b>What failed, and why</b></summary>
 
 **v1, a broad sentence classifier.** ko-sroberta embeddings + character n-grams + logistic regression, with a wider
 policy (also cheating talk, server bashing, advertising). Five-fold cross-validation on 14,477 real lines with 96
@@ -258,7 +296,10 @@ higher weight plus the one-letter screen brought the average to 2.8 s.
 **An allowlist belongs in code.** The advertising false positive above came from a nickname the prompt did not know.
 Policy exceptions are now checked by a pattern before the model is asked.
 
-## Limitations
+</details>
+
+<details>
+<summary><b>Limitations</b></summary>
 
 - The test sets were written by the same kind of model as the training sets, so they share a style. Real-chat
   evidence is small: 20 incident lines and 2,632 held-out lines from one server.
@@ -271,7 +312,10 @@ Policy exceptions are now checked by a pattern before the model is asked.
 - A model trained only on the data in this repository has not been measured; expect lower precision on real chat
   without your own negatives (`--negatives`).
 
-## Privacy
+</details>
+
+<details>
+<summary><b>Privacy</b></summary>
 
 Chat logs with usernames are personal information under Korea's Personal Information Protection Act. This
 repository therefore contains no real chat line, username, UUID, IP or server address. Real chat was used only on
@@ -280,7 +324,10 @@ published because they were trained on that chat and could reproduce parts of it
 AI-written, with every username replaced by a placeholder; see `data/README.md` for how it was checked against the
 real log before publication. The LLM runs locally, so moderated chat never leaves the host.
 
-## How to run
+</details>
+
+<details>
+<summary><b>How to run</b></summary>
 
 Python 3.10+. The rules need no packages; the context model needs PyTorch and Transformers.
 
@@ -335,7 +382,10 @@ result = judge(['Player1: 너 왜 내 상자 열었냐'], 'Player2: 안 열었�
 #       plus 'llm' when the LLM was asked and 'advertising' when the line had an address hint
 ```
 
-## Layout
+</details>
+
+<details>
+<summary><b>Layout</b></summary>
 
 ```
 kcm/
@@ -353,6 +403,14 @@ results/             recorded LLM answers and the deployed model's per-item resu
 tests/               unit tests: normalisation, rules, decision, input format, LLM client (stub server)
 ```
 
-## Licence
+</details>
+
+<details>
+<summary><b>Licence</b></summary>
 
 MIT. See `LICENSE`.
+
+</details>
+
+
+<p align="center"><sub>Made by <a href="https://github.com/jayden0903">jayden0903</a> · no real chat or weights published</sub></p>
